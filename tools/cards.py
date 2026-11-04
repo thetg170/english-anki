@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """CSV-first note editor. No card deletion or scheduling writes."""
-import argparse, csv, hashlib, json, shutil, sys, tempfile
+import argparse, csv, hashlib, json, shutil, sqlite3, sys, tempfile
 from pathlib import Path
 from openpyxl import Workbook, load_workbook
 
@@ -38,7 +38,8 @@ def validate(headers,rows,schema):
     if headers!=expected: errors.append(f'Header mismatch: expected {expected}')
     seen_id=set();seen_guid=set();seen_first=set()
     for n,row in enumerate(rows,2):
-        if row.get('_deck')!=schema['deck'] or row.get('_notetype')!=schema['notetype']:
+        deck=row.get('_deck','')
+        if (deck!=schema['deck'] and not deck.startswith(schema['deck']+'::')) or row.get('_notetype')!=schema['notetype']:
             errors.append(f'row {n}: deck/note type mismatch')
         first=row.get('field:'+fields[0],'').strip()
         if not first: errors.append(f'row {n}: missing first field')
@@ -64,9 +65,11 @@ class Offline:
         result=[]
         for nid in self.col.find_notes('deck:"'+deck.replace('"','\\"')+'"'):
             note=self.col.get_note(nid);model=self.col.models.get(note.mid)
-            if any(self.col.get_card(cid).did!=d['id'] for cid in note.card_ids()):
+            card_decks={self.col.get_card(cid).did for cid in note.card_ids()}
+            if len(card_decks)!=1:
                 raise ValueError(f'Note {nid} spans decks; export separately')
-            result.append({'_id':str(nid),'_guid':note.guid,'_deck':deck,'_notetype':model['name'],
+            actual_deck=self.col.decks.get(card_decks.pop())['name']
+            result.append({'_id':str(nid),'_guid':note.guid,'_deck':actual_deck,'_notetype':model['name'],
                            '_tags':' '.join(sorted(note.tags)),**{'field:'+k:note[k] for k in note.keys()}})
         return result
     def fields(self,name):
@@ -76,7 +79,7 @@ class Offline:
     def spec(self,name):
         m=self.col.models.by_name(name)
         return {'templates':{t['name']:{'Front':t['qfmt'],'Back':t['afmt']} for t in m['tmpls']},'css':m['css']}
-    def ensure(self,schema):
+    def ensure(self,schema,rows=()):
         if not self.col.models.by_name(schema['notetype']):
             if not schema.get('templates'):raise ValueError('No template in schema for new note type')
             m=self.col.models.new(schema['notetype']);m['css']=schema['css']
@@ -85,11 +88,11 @@ class Offline:
                 card=self.col.models.new_template(name);card['qfmt']=t['Front'];card['afmt']=t['Back']
                 self.col.models.add_template(m,card)
             self.col.models.add(m)
-        self.col.decks.id(schema['deck'])
+        for deck in {schema['deck'],*(row['_deck'] for row in rows)}:self.col.decks.id(deck)
     def add(self,row,fields):
         note=self.col.new_note(self.col.models.by_name(row['_notetype']))
         for f in fields: note[f]=row['field:'+f]
-        note.tags=row['_tags'].split();self.col.add_note(note,self.deck['id'])
+        note.tags=row['_tags'].split();self.col.add_note(note,self.col.decks.id(row['_deck']))
         return str(note.id),note.guid
     def update(self,row,fields):
         note=self.col.get_note(int(row['_id']))
@@ -106,24 +109,45 @@ class Connect:
     def spec(self,name):
         return {'templates':self.call('modelTemplates',{'modelName':name}),
                 'css':self.call('modelStyling',{'modelName':name})['css']}
-    def ensure(self,schema):
+    def ensure(self,schema,rows=()):
         if schema['notetype'] not in self.call('modelNames',{}):
             if not schema.get('templates'):raise ValueError('No template in schema for new note type')
             self.call('createModel',{'modelName':schema['notetype'],'inOrderFields':schema['fields'],
                 'cardTemplates':[{'Name':n,**v} for n,v in schema['templates'].items()],
                 'css':schema['css']})
-        if schema['deck'] not in self.call('deckNames',{}):self.call('createDeck',{'deck':schema['deck']})
+        for deck in {schema['deck'],*(row['_deck'] for row in rows)}:
+            if deck not in self.call('deckNames',{}):self.call('createDeck',{'deck':deck})
     def records(self,deck):
         if deck not in self.call('deckNames',{}): return []
         self.deck=deck;ids=self.call('findNotes',{'query':'deck:"'+deck.replace('"','\\"')+'"'})
         result=[]
-        db=self.sql_connect(self.profile/'collection.anki2')
-        guids=dict(db.execute('select id,guid from notes'));db.close()
-        for i in range(0,len(ids),100):
-            for note in self.call('notesInfo',{'notes':ids[i:i+100]}):
-                result.append({'_id':str(note['noteId']),'_guid':guids[note['noteId']], '_deck':deck,
-                    '_notetype':note['modelName'],'_tags':' '.join(sorted(note['tags'])),
-                    **{'field:'+k:v['value'] for k,v in note['fields'].items()}})
+        collection_path=self.profile/'collection.anki2'
+        db=None
+        try:
+            db=self.sql_connect(collection_path)
+            guids=dict(db.execute('select id,guid from notes'))
+        except sqlite3.OperationalError as exc:
+            if 'locked' not in str(exc):raise
+            if db is not None:db.close()
+            # Anki can hold an exclusive lock. GUIDs are immutable, so a
+            # checkpointed snapshot is enough for notes already in the CSV.
+            db=sqlite3.connect(f'file:{collection_path}?mode=ro&immutable=1',uri=True)
+            guids=dict(db.execute('select id,guid from notes'))
+        finally:
+            if db is not None:db.close()
+        notes=[]
+        for i in range(0,len(ids),100):notes.extend(self.call('notesInfo',{'notes':ids[i:i+100]}))
+        card_ids=[cid for note in notes for cid in note['cards']]
+        card_decks={}
+        for i in range(0,len(card_ids),100):
+            card_decks.update({card['cardId']:card['deckName'] for card in self.call('cardsInfo',{'cards':card_ids[i:i+100]})})
+        for note in notes:
+            actual_decks={card_decks[cid] for cid in note['cards']}
+            if len(actual_decks)!=1:raise ValueError(f"Note {note['noteId']} spans decks; export separately")
+            if note['noteId'] not in guids:raise ValueError('Anki has uncheckpointed notes; close Anki before exporting')
+            result.append({'_id':str(note['noteId']),'_guid':guids[note['noteId']], '_deck':actual_decks.pop(),
+                '_notetype':note['modelName'],'_tags':' '.join(sorted(note['tags'])),
+                **{'field:'+k:v['value'] for k,v in note['fields'].items()}})
         return result
     def add(self,row,fields):
         nid=self.call('addNote',{'note':{'deckName':row['_deck'],'modelName':row['_notetype'],
@@ -223,7 +247,7 @@ def main():
         profile=a.collection.parent if a.collection else a.profile
         adapter.close();backup(profile,a.backup_dir)
         adapter=Offline(a.collection) if a.collection else Connect(a.profile)
-        adapter.ensure(schema)
+        adapter.ensure(schema,rows)
         actions=plan(rows,adapter.records(schema['deck']),fields)
         if any(action=='CONFLICT' for action,_,_,_ in actions):
             raise ValueError('Conflict appeared after backup; nothing was applied')

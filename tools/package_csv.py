@@ -19,13 +19,14 @@ def main():
     templates=[{'name':name,'qfmt':t['Front'],'afmt':t['Back']} for name,t in schema['templates'].items()]
     model=genanki.Model(stable_id('model:'+schema['notetype']),schema['notetype'],
         fields=[{'name':f} for f in schema['fields']],templates=templates,css=schema['css'])
-    deck=genanki.Deck(stable_id('deck:'+schema['deck']),schema['deck'])
+    deck_names={schema['deck'],*(row['_deck'] for row in rows)}
+    decks={name:genanki.Deck(stable_id('deck:'+name),name) for name in sorted(deck_names)}
     for row in rows:
         values=[row['field:'+f] for f in schema['fields']]
-        deck.add_note(genanki.Note(model=model,fields=values,
+        decks[row['_deck']].add_note(genanki.Note(model=model,fields=values,
             guid=row['_guid'] or genanki.guid_for(schema['notetype'],values[0]),tags=row['_tags'].split()))
     a.out.parent.mkdir(parents=True,exist_ok=True)
-    genanki.Package(deck).write_to_file(str(a.out))
+    genanki.Package(list(decks.values())).write_to_file(str(a.out))
     print(f'Packaged {len(rows)} notes: {a.out}')
 
 if __name__=='__main__':main()

@@ -30,6 +30,9 @@ class EverydayBatch(unittest.TestCase):
             AnkiPackageImporter(c,str(package)).run()
             ids=c.find_cards('deck:"Everyday English"')
             self.assertEqual((c.note_count(),len(ids)),(36,36))
+            topic_decks=[x.name for x in c.decks.all_names_and_ids() if x.name.startswith('Everyday English::')]
+            self.assertEqual(len(topic_decks),9)
+            for deck in topic_decks:self.assertEqual(len(c.find_cards('deck:"'+deck+'"')),4)
             for cid in ids:
                 card=c.get_card(cid)
                 self.assertNotIn('{{',card.question());self.assertNotIn('{{',card.answer())

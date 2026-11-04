@@ -1,6 +1,6 @@
 # Everyday English — batch thử nghiệm
 
-**Trạng thái:** 36 notes/cards trong [CSV](../source/everyday-english/notes.csv) và [schema](../source/everyday-english/notes.schema.json), chia đều 9 chủ đề: Greetings, Daily Life, Work, Asking Questions, Expressing Opinions, Requests, Plans, Feelings, Small Talk. File `.apkg` thử nghiệm ở `private/imports/Everyday English-pilot.apkg`. **Đã import vào Anki chính sau khi người dùng xác nhận.** `English Grammar` và `DE Knowledge` không bị chỉnh sửa.
+**Trạng thái:** 36 notes/cards trong [CSV](../source/everyday-english/notes.csv) và [schema](../source/everyday-english/notes.schema.json), chia đều 9 subdecks dưới `Everyday English`: Greetings, Daily Life, Work, Asking Questions, Expressing Opinions, Requests, Plans, Feelings, Small Talk. Mỗi subdeck có 4 cards và đã được mở trong danh sách Decks của Anki. File `.apkg` thử nghiệm ở `private/imports/Everyday English-pilot.apkg`. **Đã import vào Anki chính sau khi người dùng xác nhận.** `English Grammar` và `DE Knowledge` không bị chỉnh sửa.
 
 ## Vì sao dùng dạng thẻ này
 
@@ -11,6 +11,8 @@ Nghiên cứu về các cụm diễn đạt quen dùng cho thấy chúng có vai
 ## Cấu trúc
 
 Một note tạo một card. Fields: `Key`, `Topic`, `SituationVI`, `Answer`, `Pattern`, `Variations`, `NoteVI`, `PracticeVI`. `Key` ổn định để sync idempotent. `Variations` có hai câu, ngăn bằng `<br>`. Mặt sau dùng `{{tts en_US:Answer}}` để Anki phát âm câu mẫu bằng giọng có trên thiết bị; không tải hay cam kết một giọng cụ thể. [Anki hướng dẫn TTS](https://docs.ankiweb.net/templates/fields.html#text-to-speech-for-individual-fields).
+
+Cột `_deck` trong CSV lưu đường dẫn subdeck, ví dụ `Everyday English::Greetings`. Khi thêm card mới, chọn một trong các đường dẫn đó để `sync` đưa card vào đúng chủ đề. Gói `.apkg` tạo từ CSV cũng giữ cấu trúc subdeck.
 
 Ví dụ: **Tình huống:** bạn muốn biết đồng nghiệp có rảnh chiều nay. **Câu mẫu:** “Are you free this afternoon?” **Pattern:** “Are you free + time?” **Biến thể:** “Are you free tomorrow?” / “Do you have time this evening?” **Tự nói:** hỏi đồng nghiệp có rảnh sáng mai không. Câu trả lời khác vẫn đúng nếu phù hợp tình huống, tự nhiên và đúng ngữ pháp.
 
@@ -34,4 +36,4 @@ Sau 2 tuần, thử 10 tình huống chưa có nguyên văn trong CSV: đếm s�
 
 `validate` chấp nhận đủ 36 dòng, 36 `Key` và 36 `Answer` khác nhau; mỗi câu mẫu tối đa 12 từ và mỗi card có đúng hai biến thể. Trước import, `diff` với Anki chính báo **36 ADD**. Sau import CSV, `diff` báo **36 SKIP**, 0 ADD/UPDATE/CONFLICT. Import thử qua CSV và `.apkg` đều tạo 36 notes/cards; mọi mặt trước/sau render không còn placeholder `{{...}}`. Fingerprint của hai deck cũ và 1.457 lượt review liên kết của chúng khớp trước/sau import. Backup ngay trước import ở `private/backups/2026-11-04-before-everyday-import/`.
 
-**Lưu ý preset:** Deck mới đang kế thừa `Default` với 20 thẻ mới/ngày. Kế hoạch trên dùng 2–3 thẻ mới/ngày; chỉnh riêng preset của `Everyday English` trong Deck Options trước khi bắt đầu để không kéo dài buổi học.
+**Lưu ý preset:** Các subdeck mới đang kế thừa cấu hình deck hiện có. Kế hoạch trên dùng tổng cộng 2–3 thẻ mới/ngày cho `Everyday English`; chỉnh Deck Options nếu số thẻ mới mỗi ngày cao hơn mức mong muốn.
