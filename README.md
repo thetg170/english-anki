@@ -41,7 +41,7 @@ For a new dated backup, choose an **empty** output directory. The script uses SQ
 ```
 
 The present backup's manifest has 3,792 notes, 5,497 cards, 1,590 review log rows, 12,264 media files (468,073,502 bytes), and database integrity `ok`. The source collection already had one missing referenced image; this is a source-data issue, not a copy mismatch. The copied media was also compared with the live media using `rsync -anrc`, with no differences at the time of audit.
-The `.colpkg` has a separate SHA-256 sidecar and passed ZIP CRC verification; its embedded collection has the same 3,792 notes, 5,497 cards and 1,590 review rows. Native `.colpkg` import into Anki has not yet been tested; the staged database restore has been opened and checked in an isolated profile.
+The `.colpkg` has a separate SHA-256 sidecar and passed ZIP CRC verification. It was imported into an isolated Anki 26.5 profile with 3,792 notes, 5,497 cards, 1,590 review rows, and 12,264 media files. The staged database restore was also opened and checked separately.
 
 ## Export and validate the original deck
 
@@ -78,7 +78,9 @@ First verify the complete backup. Stage it under a **new path**. Opening the sta
   --staged private/restore-test-new \
   --grammar-apkg 'private/imports/English Grammar-pristine.apkg' \
   --pilot-apkg 'private/imports/English Speaking Pilot.apkg' \
-  --import-test private/import-test-new/collection.anki2
+  --import-test private/import-test-new/collection.anki2 \
+  --colpkg private/backups/2026-11-04-baseline/full-collection-with-media.colpkg \
+  --colpkg-test private/colpkg-import-test-new
 ```
 
 For actual loss, close Anki, make a separate copy of whatever remains in the active profile, and restore the full collection using Anki's File > Import for the `.colpkg` with media. **That replaces the active collection.** Alternatively, use Anki's profile manager to open the staged profile as a separate profile and inspect it before replacing anything. Do not import the `.apkg` as a substitute for a history-preserving backup. The tested staged copy retained all 1,590 review log rows; the grammar `.apkg` imported 581 notes and zero review rows in a fresh collection.
