@@ -2,6 +2,8 @@
 
 **Current Anki state (2026-11-04):** only `English Grammar` and `DE Knowledge` contain study cards. Anki retains an empty `Default` deck. The removed decks are recoverable from `private/backups/2026-11-04-pre-cleanup-v2/`; the verified current-state backup is `private/backups/2026-11-04-post-cleanup/`. See the [cleanup report](reports/cleanup-2026-11-04.md). The Speaking Pilot remains source/package only and was not added to the live collection.
 
+**Next English trial:** [Everyday English](docs/everyday-english.md) has 36 short, topic-based sentence cards in [CSV](source/everyday-english/notes.csv). It has been validated and imported only into isolated test collections; the two-deck live state above is unchanged.
+
 This repository stores a **local, restorable snapshot** of the English learning system and a small speaking pilot. The collection inspected on **2026-11-04 (Asia/Ho_Chi_Minh)** contains a deck named **`English Grammar`**. The requested spelling `English Gramar` was not present; no deck was renamed.
 
 ## What is where
@@ -40,6 +42,19 @@ An `.apkg` can include scheduling if exported that way, but the package here int
 ```
 
 `sync` and `import` are **dry-run by default**. They print ADD, UPDATE, SKIP and CONFLICT counts, never DELETE. To apply after review, supply `--apply --backup-dir private/backups/NEW-EMPTY-DIR`; the tool makes a verified full snapshot **before** writing, then updates the CSV IDs, GUIDs and base hashes. For edited Excel, use `import --csv source/pilot/notes.csv --xlsx private/pilot-edit.xlsx` with the same target and apply flags; the imported spreadsheet is written back to canonical CSV only after successful application. Updates change fields/tags only, preserving card scheduling and review history. Deck and note type changes are reported as conflicts. The live `English Grammar` deck additionally requires `--allow-grammar-edits` for an apply, to prevent accidental changes to the preserved original.
+
+For the new batch, review the [Everyday English design](docs/everyday-english.md), then run:
+
+```sh
+.venv/bin/python tools/cards.py validate --csv source/everyday-english/notes.csv
+.venv/bin/python tools/cards.py diff --connect \
+  --profile "$HOME/Library/Application Support/Anki2/User 1" \
+  --csv source/everyday-english/notes.csv
+.venv/bin/python tools/package_csv.py --csv source/everyday-english/notes.csv \
+  --out 'private/imports/Everyday English-new.apkg'
+```
+
+The checked package is `private/imports/Everyday English-pilot.apkg`. The source CSV has blank Anki IDs until an authorized sync; repeat syncs use the stable `Key` and then saved IDs/GUIDs to avoid duplicates. No live import has been run.
 
 ```sh
 # Explicit live apply example for a reviewed non-grammar CSV; do not run until ready.
