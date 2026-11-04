@@ -14,6 +14,19 @@ class RoundTrip(unittest.TestCase):
     def run_cli(self,*args):
         return subprocess.run([sys.executable,str(CLI),*map(str,args)],cwd=ROOT,text=True,capture_output=True)
 
+    def test_collection_package_does_not_change_snapshot(self):
+        set_lang('en_US')
+        with tempfile.TemporaryDirectory() as temp:
+            profile=Path(temp)/'profile';profile.mkdir();(profile/'collection.media').mkdir()
+            c=Collection(str(profile/'collection.anki2'));c.close()
+            backup=Path(temp)/'backup'
+            made=self.run_cli('backup','--kind','collection','--profile',profile,'--out',backup)
+            self.assertEqual(made.returncode,0,made.stderr)
+            self.assertTrue((backup/'full-collection-with-media.colpkg').is_file())
+            check=subprocess.run([sys.executable,str(ROOT/'tools/anki_repo.py'),'verify','--backup',str(backup)],
+                                 cwd=ROOT,text=True,capture_output=True)
+            self.assertEqual(check.returncode,0,check.stderr)
+
     def test_export_excel_update_add_idempotence_conflict(self):
         set_lang('en_US')
         with tempfile.TemporaryDirectory() as temp:

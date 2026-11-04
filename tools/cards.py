@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """CSV-first note editor. No card deletion or scheduling writes."""
-import argparse, csv, hashlib, json, sys
+import argparse, csv, hashlib, json, shutil, sys, tempfile
 from pathlib import Path
 from openpyxl import Workbook, load_workbook
 
@@ -175,9 +175,13 @@ def main():
         from anki.exporting import AnkiCollectionPackageExporter
         from anki.lang import set_lang
         backup(a.profile,a.out)
-        set_lang('en_US');col=Collection(str(a.out/'collection.anki2'))
         package=a.out/'full-collection-with-media.colpkg'
-        exporter=AnkiCollectionPackageExporter(col);exporter.includeMedia=True;exporter.exportInto(str(package))
+        with tempfile.TemporaryDirectory(prefix='anki-colpkg-stage-') as temp:
+            stage=Path(temp)
+            shutil.copy2(a.out/'collection.anki2',stage/'collection.anki2')
+            shutil.copytree(a.out/'collection.media',stage/'collection.media')
+            set_lang('en_US');col=Collection(str(stage/'collection.anki2'))
+            exporter=AnkiCollectionPackageExporter(col);exporter.includeMedia=True;exporter.exportInto(str(package))
         (a.out/(package.name+'.sha256')).write_text(sha256(package)+'  '+package.name+'\n')
         print(f'COLPKG {package}');return 0
     if a.cmd=='validate':

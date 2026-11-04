@@ -1,5 +1,7 @@
 # English Anki
 
+**Current Anki state (2026-11-04):** only `English Grammar` and `DE Knowledge` contain study cards. Anki retains an empty `Default` deck. The removed decks are recoverable from `private/backups/2026-11-04-pre-cleanup-v2/`; the verified current-state backup is `private/backups/2026-11-04-post-cleanup/`. See the [cleanup report](reports/cleanup-2026-11-04.md). The Speaking Pilot remains source/package only and was not added to the live collection.
+
 This repository stores a **local, restorable snapshot** of the English learning system and a small speaking pilot. The collection inspected on **2026-11-04 (Asia/Ho_Chi_Minh)** contains a deck named **`English Grammar`**. The requested spelling `English Gramar` was not present; no deck was renamed.
 
 ## What is where
@@ -7,6 +9,7 @@ This repository stores a **local, restorable snapshot** of the English learning 
 | Asset | Location | Purpose | Git |
 |---|---|---|---|
 | Complete collection and media | `private/backups/2026-11-04-baseline/` | Exact recovery, including IDs and review history | Ignored |
+| Before/after cleanup backups | `private/backups/2026-11-04-pre-cleanup-v2/`, `private/backups/2026-11-04-post-cleanup/` | Restore removed decks or current two-deck state | Ignored |
 | Full collection package | `private/backups/2026-11-04-baseline/full-collection-with-media.colpkg` | Anki's native whole-collection recovery format | Ignored |
 | Original grammar source | `source/english-grammar/notes.csv` | Canonical note content; note type, templates and CSS alongside it | Tracked; review before any public push |
 | Original grammar `.apkg` | `private/imports/English Grammar-pristine.apkg` | Import deck into another profile, **without** scheduling | Ignored |
