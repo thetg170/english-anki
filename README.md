@@ -8,9 +8,9 @@ This repository stores a **local, restorable snapshot** of the English learning 
 |---|---|---|---|
 | Complete collection and media | `private/backups/2026-11-04-baseline/` | Exact recovery, including IDs and review history | Ignored |
 | Full collection package | `private/backups/2026-11-04-baseline/full-collection-with-media.colpkg` | Anki's native whole-collection recovery format | Ignored |
-| Original grammar source | `source/english-grammar/` | Readable note type, templates, CSS, raw HTML fields, note IDs and GUIDs | Tracked; review before any public push |
+| Original grammar source | `source/english-grammar/notes.csv` | Canonical note content; note type, templates and CSS alongside it | Tracked; review before any public push |
 | Original grammar `.apkg` | `private/imports/English Grammar-pristine.apkg` | Import deck into another profile, **without** scheduling | Ignored |
-| Pilot source | `source/pilot/pilot.json` | Editable, diffable authored cards | Tracked |
+| Pilot source | `source/pilot/notes.csv` | Canonical editable notes; `pilot.json` retained as the initial design record | Tracked |
 | Pilot `.apkg` | `private/imports/English Speaking Pilot.apkg` | Import the pilot into a separate profile first | Ignored |
 | Audit and design | `reports/`, `docs/` | Evidence, decisions, learning workflow | Tracked |
 
@@ -18,9 +18,44 @@ An `.apkg` can include scheduling if exported that way, but the package here int
 
 **Keep `private/` in an encrypted personal backup outside this machine.** It is ignored to avoid accidentally publishing collection history, personal content, third-party decks, and media. A Git clone can rebuild the grammar deck's content and template from `source/english-grammar/`, but cannot recover original scheduling or the full collection. The grammar source was screened for common email, URL, phone, and API-key patterns, but needs human content and licensing review before any public push. No remote is configured here.
 
+## CSV / Excel workflow
+
+`notes.csv` is the source of truth for note content. Excel is an editing view of the same columns. Each deck CSV has a `.schema.json` sidecar describing the exact Anki note type and field order. Columns `_id`, `_guid` and `_base_hash` support stable matching and three-way conflict checks; `field:*` columns hold raw HTML field values. Keep `_base_hash` unchanged while editing. Do not edit `_id` or `_guid` for existing notes. New rows leave `_id`, `_guid` and `_base_hash` empty and must have a unique first field (for these decks, `Key`).
+
+```sh
+# Read-only export from the running Anki profile; export refuses to overwrite files.
+.venv/bin/python tools/cards.py export --connect \
+  --profile "$HOME/Library/Application Support/Anki2/User 1" \
+  --deck 'English Grammar' --csv private/grammar-export.csv --xlsx private/grammar-edit.xlsx
+
+# Edit the CSV directly, or edit the XLSX and use --xlsx in subsequent commands.
+.venv/bin/python tools/cards.py validate --csv source/pilot/notes.csv
+.venv/bin/python tools/cards.py diff --connect \
+  --profile "$HOME/Library/Application Support/Anki2/User 1" --csv source/pilot/notes.csv
+.venv/bin/python tools/cards.py sync --connect \
+  --profile "$HOME/Library/Application Support/Anki2/User 1" --csv source/pilot/notes.csv
+```
+
+`sync` and `import` are **dry-run by default**. They print ADD, UPDATE, SKIP and CONFLICT counts, never DELETE. To apply after review, supply `--apply --backup-dir private/backups/NEW-EMPTY-DIR`; the tool makes a verified full snapshot **before** writing, then updates the CSV IDs, GUIDs and base hashes. For edited Excel, use `import --csv source/pilot/notes.csv --xlsx private/pilot-edit.xlsx` with the same target and apply flags; the imported spreadsheet is written back to canonical CSV only after successful application. Updates change fields/tags only, preserving card scheduling and review history. Deck and note type changes are reported as conflicts. The live `English Grammar` deck additionally requires `--allow-grammar-edits` for an apply, to prevent accidental changes to the preserved original.
+
+```sh
+# Explicit live apply example for a reviewed non-grammar CSV; do not run until ready.
+.venv/bin/python tools/cards.py sync --connect \
+  --profile "$HOME/Library/Application Support/Anki2/User 1" \
+  --csv source/pilot/notes.csv --apply --backup-dir private/backups/NEW-EMPTY-DIR
+
+# Native whole-collection backup with media and history, or importable deck package.
+.venv/bin/python tools/cards.py backup --kind collection \
+  --profile "$HOME/Library/Application Support/Anki2/User 1" --out private/backups/NEW-EMPTY-DIR
+.venv/bin/python tools/cards.py backup --kind deck \
+  --deck 'English Grammar' --out 'private/imports/English Grammar-new.apkg'
+```
+
+The `.apkg` command exports one deck without scheduling; `.colpkg` is the full-collection backup with history and media. CSV/XLSX is **never** a backup for scheduling, templates, CSS or media. `--collection PATH` targets a separate Anki collection file for offline testing instead of `--connect --profile PATH`. Never point `--collection` at the open daily collection.
+
 ## Setup
 
-The tested environment is Anki 26.5, AnkiConnect API 6, Python 3.13, macOS. The scripts use the standard library except for `anki` (isolated restore/import checks) and `genanki` (pilot package).
+The tested environment is Anki 26.5, AnkiConnect API 6, Python 3.13, macOS. Dependencies are `anki` (isolated collection operations), `genanki` (packages), and `openpyxl` (Excel).
 
 ```sh
 cd ~/Developer/Personal/english-anki
@@ -99,6 +134,9 @@ See [audit](reports/audit-2026-11-04.md), [grammar design](docs/grammar-design.m
 ## Repeatable checks
 
 ```sh
+.venv/bin/python -m unittest discover -s tests -v
+.venv/bin/python tools/cards.py validate --csv source/english-grammar/notes.csv
+.venv/bin/python tools/cards.py validate --csv source/pilot/notes.csv
 .venv/bin/python tools/anki_repo.py audit --backup private/backups/2026-11-04-baseline
 .venv/bin/python tools/anki_repo.py verify --backup private/backups/2026-11-04-baseline
 .venv/bin/python tools/anki_repo.py validate-source --source source/english-grammar \

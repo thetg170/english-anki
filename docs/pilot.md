@@ -1,6 +1,6 @@
 # Speaking pilot: 17 cards
 
-The source is [pilot.json](../source/pilot/pilot.json). The package is `private/imports/English Speaking Pilot.apkg`. It was imported and rendered in a separate collection only. Do not import it into the active learning profile until you choose to trial it there.
+The canonical source is [notes.csv](../source/pilot/notes.csv), with its [schema](../source/pilot/notes.schema.json). [pilot.json](../source/pilot/pilot.json) remains as the initial design record. The package is `private/imports/English Speaking Pilot.apkg`. It was imported and rendered in a separate collection only. Do not import it into the active learning profile until you choose to trial it there.
 
 ## Note type and card behavior
 
