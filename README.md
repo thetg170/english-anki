@@ -1,5 +1,9 @@
 # English Anki
 
+**Current Anki state (2026-11-04):** `English Grammar` (581 cards), `DE Knowledge` (322), and `Everyday English` (72) are in the live collection. Anki also retains an empty `Default` deck. The removed decks are recoverable from `private/backups/2026-11-04-pre-cleanup-v2/`; `private/backups/2026-11-04-before-everyday-import/` captures the two-deck state immediately before this import. See the [cleanup report](reports/cleanup-2026-11-04.md). The older Speaking Pilot remains source/package only.
+
+**New English trial:** [Everyday English](docs/everyday-english.md) has 72 short sentence cards in [CSV](source/everyday-english/notes.csv), grouped into nine visible topic subdecks with eight cards each. It was imported into the live profile after explicit approval. Its dedicated `Everyday English - No Daily Cap` preset sets new and review limits to 9,999/day so the learner can choose the pace. The two existing deck presets were not changed.
+
 This repository stores a **local, restorable snapshot** of the English learning system and a small speaking pilot. The collection inspected on **2026-11-04 (Asia/Ho_Chi_Minh)** contains a deck named **`English Grammar`**. The requested spelling `English Gramar` was not present; no deck was renamed.
 
 ## What is where
@@ -7,10 +11,11 @@ This repository stores a **local, restorable snapshot** of the English learning 
 | Asset | Location | Purpose | Git |
 |---|---|---|---|
 | Complete collection and media | `private/backups/2026-11-04-baseline/` | Exact recovery, including IDs and review history | Ignored |
+| Before/after cleanup backups | `private/backups/2026-11-04-pre-cleanup-v2/`, `private/backups/2026-11-04-post-cleanup/` | Restore removed decks or current two-deck state | Ignored |
 | Full collection package | `private/backups/2026-11-04-baseline/full-collection-with-media.colpkg` | Anki's native whole-collection recovery format | Ignored |
-| Original grammar source | `source/english-grammar/` | Readable note type, templates, CSS, raw HTML fields, note IDs and GUIDs | Tracked; review before any public push |
+| Original grammar source | `source/english-grammar/notes.csv` | Canonical note content; note type, templates and CSS alongside it | Tracked; review before any public push |
 | Original grammar `.apkg` | `private/imports/English Grammar-pristine.apkg` | Import deck into another profile, **without** scheduling | Ignored |
-| Pilot source | `source/pilot/pilot.json` | Editable, diffable authored cards | Tracked |
+| Pilot source | `source/pilot/notes.csv` | Canonical editable notes; `pilot.json` retained as the initial design record | Tracked |
 | Pilot `.apkg` | `private/imports/English Speaking Pilot.apkg` | Import the pilot into a separate profile first | Ignored |
 | Audit and design | `reports/`, `docs/` | Evidence, decisions, learning workflow | Tracked |
 
@@ -18,9 +23,57 @@ An `.apkg` can include scheduling if exported that way, but the package here int
 
 **Keep `private/` in an encrypted personal backup outside this machine.** It is ignored to avoid accidentally publishing collection history, personal content, third-party decks, and media. A Git clone can rebuild the grammar deck's content and template from `source/english-grammar/`, but cannot recover original scheduling or the full collection. The grammar source was screened for common email, URL, phone, and API-key patterns, but needs human content and licensing review before any public push. No remote is configured here.
 
+## CSV / Excel workflow
+
+`notes.csv` is the source of truth for note content. Excel is an editing view of the same columns. Each deck CSV has a `.schema.json` sidecar describing the exact Anki note type and field order. Columns `_id`, `_guid` and `_base_hash` support stable matching and three-way conflict checks; `field:*` columns hold raw HTML field values. Keep `_base_hash` unchanged while editing. Do not edit `_id` or `_guid` for existing notes. New rows leave `_id`, `_guid` and `_base_hash` empty and must have a unique first field (for these decks, `Key`).
+
+```sh
+# Read-only export from the running Anki profile; export refuses to overwrite files.
+.venv/bin/python tools/cards.py export --connect \
+  --profile "$HOME/Library/Application Support/Anki2/User 1" \
+  --deck 'English Grammar' --csv private/grammar-export.csv --xlsx private/grammar-edit.xlsx
+
+# Edit the CSV directly, or edit the XLSX and use --xlsx in subsequent commands.
+.venv/bin/python tools/cards.py validate --csv source/pilot/notes.csv
+.venv/bin/python tools/cards.py diff --connect \
+  --profile "$HOME/Library/Application Support/Anki2/User 1" --csv source/pilot/notes.csv
+.venv/bin/python tools/cards.py sync --connect \
+  --profile "$HOME/Library/Application Support/Anki2/User 1" --csv source/pilot/notes.csv
+```
+
+`sync` and `import` are **dry-run by default**. They print ADD, UPDATE, SKIP and CONFLICT counts, never DELETE. To apply after review, supply `--apply --backup-dir private/backups/NEW-EMPTY-DIR`; the tool makes a verified full snapshot **before** writing, then updates the CSV IDs, GUIDs and base hashes. For edited Excel, use `import --csv source/pilot/notes.csv --xlsx private/pilot-edit.xlsx` with the same target and apply flags; the imported spreadsheet is written back to canonical CSV only after successful application. Updates change fields/tags only, preserving card scheduling and review history. Deck and note type changes are reported as conflicts. The live `English Grammar` deck additionally requires `--allow-grammar-edits` for an apply, to prevent accidental changes to the preserved original.
+
+For the new batch, review the [Everyday English design](docs/everyday-english.md), then run:
+
+```sh
+.venv/bin/python tools/cards.py validate --csv source/everyday-english/notes.csv
+.venv/bin/python tools/cards.py diff --connect \
+  --profile "$HOME/Library/Application Support/Anki2/User 1" \
+  --csv source/everyday-english/notes.csv
+.venv/bin/python tools/package_csv.py --csv source/everyday-english/notes.csv \
+  --out 'private/imports/Everyday English-new.apkg'
+```
+
+The initial checked package is `private/imports/Everyday English-pilot.apkg` (36 cards). After the authorized imports, the source CSV holds the live IDs/GUIDs, base hashes and topic subdeck paths in `_deck` (for example, `Everyday English::Greetings`). Repeated sync reports 72 SKIP; no duplicate was created. Backups before the topic split and second 36-card batch are in `private/backups/2026-11-04-before-everyday-topics/` and `private/backups/2026-11-04-before-everyday-batch-2/`.
+
+```sh
+# Explicit live apply example for a reviewed non-grammar CSV; do not run until ready.
+.venv/bin/python tools/cards.py sync --connect \
+  --profile "$HOME/Library/Application Support/Anki2/User 1" \
+  --csv source/pilot/notes.csv --apply --backup-dir private/backups/NEW-EMPTY-DIR
+
+# Native whole-collection backup with media and history, or importable deck package.
+.venv/bin/python tools/cards.py backup --kind collection \
+  --profile "$HOME/Library/Application Support/Anki2/User 1" --out private/backups/NEW-EMPTY-DIR
+.venv/bin/python tools/cards.py backup --kind deck \
+  --deck 'English Grammar' --out 'private/imports/English Grammar-new.apkg'
+```
+
+The `.apkg` command exports one deck without scheduling; `.colpkg` is the full-collection backup with history and media. CSV/XLSX is **never** a backup for scheduling, templates, CSS or media. `--collection PATH` targets a separate Anki collection file for offline testing instead of `--connect --profile PATH`. Never point `--collection` at the open daily collection.
+
 ## Setup
 
-The tested environment is Anki 26.5, AnkiConnect API 6, Python 3.13, macOS. The scripts use the standard library except for `anki` (isolated restore/import checks) and `genanki` (pilot package).
+The tested environment is Anki 26.5, AnkiConnect API 6, Python 3.13, macOS. Dependencies are `anki` (isolated collection operations), `genanki` (packages), and `openpyxl` (Excel).
 
 ```sh
 cd ~/Developer/Personal/english-anki
@@ -41,7 +94,7 @@ For a new dated backup, choose an **empty** output directory. The script uses SQ
 ```
 
 The present backup's manifest has 3,792 notes, 5,497 cards, 1,590 review log rows, 12,264 media files (468,073,502 bytes), and database integrity `ok`. The source collection already had one missing referenced image; this is a source-data issue, not a copy mismatch. The copied media was also compared with the live media using `rsync -anrc`, with no differences at the time of audit.
-The `.colpkg` has a separate SHA-256 sidecar and passed ZIP CRC verification; its embedded collection has the same 3,792 notes, 5,497 cards and 1,590 review rows. Native `.colpkg` import into Anki has not yet been tested; the staged database restore has been opened and checked in an isolated profile.
+The `.colpkg` has a separate SHA-256 sidecar and passed ZIP CRC verification. It was imported into an isolated Anki 26.5 profile with 3,792 notes, 5,497 cards, 1,590 review rows, and 12,264 media files. The staged database restore was also opened and checked separately.
 
 ## Export and validate the original deck
 
@@ -78,7 +131,9 @@ First verify the complete backup. Stage it under a **new path**. Opening the sta
   --staged private/restore-test-new \
   --grammar-apkg 'private/imports/English Grammar-pristine.apkg' \
   --pilot-apkg 'private/imports/English Speaking Pilot.apkg' \
-  --import-test private/import-test-new/collection.anki2
+  --import-test private/import-test-new/collection.anki2 \
+  --colpkg private/backups/2026-11-04-baseline/full-collection-with-media.colpkg \
+  --colpkg-test private/colpkg-import-test-new
 ```
 
 For actual loss, close Anki, make a separate copy of whatever remains in the active profile, and restore the full collection using Anki's File > Import for the `.colpkg` with media. **That replaces the active collection.** Alternatively, use Anki's profile manager to open the staged profile as a separate profile and inspect it before replacing anything. Do not import the `.apkg` as a substitute for a history-preserving backup. The tested staged copy retained all 1,590 review log rows; the grammar `.apkg` imported 581 notes and zero review rows in a fresh collection.
@@ -97,6 +152,9 @@ See [audit](reports/audit-2026-11-04.md), [grammar design](docs/grammar-design.m
 ## Repeatable checks
 
 ```sh
+.venv/bin/python -m unittest discover -s tests -v
+.venv/bin/python tools/cards.py validate --csv source/english-grammar/notes.csv
+.venv/bin/python tools/cards.py validate --csv source/pilot/notes.csv
 .venv/bin/python tools/anki_repo.py audit --backup private/backups/2026-11-04-baseline
 .venv/bin/python tools/anki_repo.py verify --backup private/backups/2026-11-04-baseline
 .venv/bin/python tools/anki_repo.py validate-source --source source/english-grammar \

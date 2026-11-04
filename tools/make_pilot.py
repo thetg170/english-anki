@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build a small importable pilot package without contacting the live Anki profile."""
 import argparse
-import json
+import csv
 from pathlib import Path
 
 import genanki
@@ -20,22 +20,21 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--out", type=Path, required=True)
     args = parser.parse_args()
-    data = json.loads((ROOT / "source/pilot/pilot.json").read_text())
-    keys = [x["key"] for x in data]
+    with (ROOT / "source/pilot/notes.csv").open(newline="", encoding="utf-8") as fh:
+        data = list(csv.DictReader(fh))
+    keys = [x["field:Key"] for x in data]
     assert len(keys) == len(set(keys)), "Duplicate pilot keys"
     assert len(data) <= 25, "Pilot should remain small"
     for row in data:
-        assert set(row) == {"key", "mode", "unit", "level", "context", "task", "constraint", "model", "alternatives", "check", "transfer"}
-        assert all(str(v).strip() for v in row.values())
+        assert all(row["field:" + f].strip() for f in FIELDS)
     model = genanki.Model(MODEL_ID, "EN_Speaking_Pilot_v1",
         fields=[{"name": name} for name in FIELDS],
         templates=[{"name": "Speak", "qfmt": FRONT, "afmt": BACK}], css=CSS)
     deck = genanki.Deck(DECK_ID, "English Speaking Pilot")
     for row in data:
-        values = [row["key"], row["mode"], row["context"], row["task"], row["constraint"],
-                  row["model"], row["alternatives"], row["check"], row["transfer"], row["unit"]]
-        note = genanki.Note(model=model, fields=values, guid=genanki.guid_for(row["key"]),
-                            tags=[f"mode::{row['mode'].lower()}", f"level::{row['level']}"])
+        values = [row["field:" + f] for f in FIELDS]
+        note = genanki.Note(model=model, fields=values, guid=row["_guid"] or genanki.guid_for(row["field:Key"]),
+                            tags=row["_tags"].split())
         deck.add_note(note)
     args.out.parent.mkdir(parents=True, exist_ok=True)
     genanki.Package(deck).write_to_file(str(args.out))

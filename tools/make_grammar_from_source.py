@@ -5,6 +5,7 @@ This cannot guarantee original note/card IDs or restore scheduling. Use the
 complete collection backup for exact recovery.
 """
 import argparse
+import csv
 import json
 from pathlib import Path
 
@@ -26,10 +27,10 @@ def main() -> None:
                           fields=[{"name": name} for name in spec["fields"]],
                           templates=templates, css=spec["style"]["css"])
     deck = genanki.Deck(deck_info["id"], deck_info["name"])
-    for line in (a.source / "notes.jsonl").read_text().splitlines():
-        obj = json.loads(line)
-        fields = [obj["fields"][name] for name in spec["fields"]]
-        deck.add_note(genanki.Note(model=model, fields=fields, guid=obj["guid"], tags=obj["tags"]))
+    with (a.source / "notes.csv").open(newline="", encoding="utf-8") as fh:
+        for obj in csv.DictReader(fh):
+            fields = [obj["field:" + name] for name in spec["fields"]]
+            deck.add_note(genanki.Note(model=model, fields=fields, guid=obj["_guid"], tags=obj["_tags"].split()))
     assert len(deck.notes) == deck_info["note_count"]
     a.out.parent.mkdir(parents=True, exist_ok=True)
     genanki.Package(deck).write_to_file(str(a.out))

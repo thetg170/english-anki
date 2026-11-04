@@ -1,0 +1,23 @@
+{
+  "deck": "English Speaking Pilot",
+  "notetype": "EN_Speaking_Pilot_v1",
+  "fields": [
+    "Key",
+    "Mode",
+    "Context",
+    "Task",
+    "Constraint",
+    "Model",
+    "Alternatives",
+    "Check",
+    "Transfer",
+    "Unit"
+  ],
+  "templates": {
+    "Speak": {
+      "Front": "<div class=wrap><div class=mode>{{Mode}} · {{Unit}}</div><div class=context>{{Context}}</div><div class=task>{{Task}}</div><div class=constraint>{{Constraint}}</div><div class=speak>Speak aloud before revealing the answer.</div></div>",
+      "Back": "<div class=wrap>{{FrontSide}}<hr><div class=label>One natural answer</div><div class=answer>{{Model}}</div><div class=label>Also acceptable</div><div>{{Alternatives}}</div><div class=label>Grade yourself</div><div>{{Check}}</div><div class=label>Transfer it</div><div>{{Transfer}}</div></div>"
+    }
+  },
+  "css": ".card {font-family:system-ui,sans-serif;background:#f5f5f7;color:#202126;text-align:left;font-size:19px;line-height:1.45;padding:20px}\n.wrap{max-width:650px;margin:auto}.mode{font-size:13px;font-weight:700;color:#3b5dab;text-transform:uppercase}.context{margin:14px 0;padding:12px;background:#e8eaf1;border-radius:9px}.task{font-size:24px;font-weight:650}.constraint{margin-top:12px;color:#555}.speak{margin-top:24px;font-weight:700;color:#9a3154}.answer{font-size:23px;font-weight:650;color:#1b7547}.label{font-size:13px;text-transform:uppercase;color:#777;margin-top:20px}.nightMode .card,.card.nightMode{background:#1c1d21;color:#eee}.nightMode .context{background:#333743}.nightMode .constraint{color:#bbb}hr{border:0;border-top:1px solid #aaa;margin:22px 0}"
+}
