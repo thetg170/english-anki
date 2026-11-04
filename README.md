@@ -1,8 +1,8 @@
 # English Anki
 
-**Current Anki state (2026-11-04):** only `English Grammar` and `DE Knowledge` contain study cards. Anki retains an empty `Default` deck. The removed decks are recoverable from `private/backups/2026-11-04-pre-cleanup-v2/`; the verified current-state backup is `private/backups/2026-11-04-post-cleanup/`. See the [cleanup report](reports/cleanup-2026-11-04.md). The Speaking Pilot remains source/package only and was not added to the live collection.
+**Current Anki state (2026-11-04):** `English Grammar` (581 cards), `DE Knowledge` (322), and `Everyday English` (36) are in the live collection. Anki also retains an empty `Default` deck. The removed decks are recoverable from `private/backups/2026-11-04-pre-cleanup-v2/`; `private/backups/2026-11-04-before-everyday-import/` captures the two-deck state immediately before this import. See the [cleanup report](reports/cleanup-2026-11-04.md). The older Speaking Pilot remains source/package only.
 
-**Next English trial:** [Everyday English](docs/everyday-english.md) has 36 short, topic-based sentence cards in [CSV](source/everyday-english/notes.csv). It has been validated and imported only into isolated test collections; the two-deck live state above is unchanged.
+**New English trial:** [Everyday English](docs/everyday-english.md) has 36 short, topic-based sentence cards in [CSV](source/everyday-english/notes.csv). It was imported into the live profile after explicit approval. Its current inherited `Default` preset allows 20 new cards/day; for the 15–25 minute plan, set this deck to about 2–3 new cards/day in Deck Options before studying. The two existing deck presets were not changed.
 
 This repository stores a **local, restorable snapshot** of the English learning system and a small speaking pilot. The collection inspected on **2026-11-04 (Asia/Ho_Chi_Minh)** contains a deck named **`English Grammar`**. The requested spelling `English Gramar` was not present; no deck was renamed.
 
@@ -54,7 +54,7 @@ For the new batch, review the [Everyday English design](docs/everyday-english.md
   --out 'private/imports/Everyday English-new.apkg'
 ```
 
-The checked package is `private/imports/Everyday English-pilot.apkg`. The source CSV has blank Anki IDs until an authorized sync; repeat syncs use the stable `Key` and then saved IDs/GUIDs to avoid duplicates. No live import has been run.
+The checked package is `private/imports/Everyday English-pilot.apkg`. After the authorized import, the source CSV now holds the live IDs/GUIDs and base hashes. Repeated sync reports 36 SKIP; no duplicate was created.
 
 ```sh
 # Explicit live apply example for a reviewed non-grammar CSV; do not run until ready.

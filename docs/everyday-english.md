@@ -1,6 +1,6 @@
 # Everyday English — batch thử nghiệm
 
-**Trạng thái:** 36 notes/cards đã chuẩn bị trong [CSV](../source/everyday-english/notes.csv) và [schema](../source/everyday-english/notes.schema.json), chia đều 9 chủ đề: Greetings, Daily Life, Work, Asking Questions, Expressing Opinions, Requests, Plans, Feelings, Small Talk. File `.apkg` thử nghiệm ở `private/imports/Everyday English-pilot.apkg`. **Chưa import vào Anki chính.** `English Grammar` và `DE Knowledge` không bị chỉnh sửa.
+**Trạng thái:** 36 notes/cards trong [CSV](../source/everyday-english/notes.csv) và [schema](../source/everyday-english/notes.schema.json), chia đều 9 chủ đề: Greetings, Daily Life, Work, Asking Questions, Expressing Opinions, Requests, Plans, Feelings, Small Talk. File `.apkg` thử nghiệm ở `private/imports/Everyday English-pilot.apkg`. **Đã import vào Anki chính sau khi người dùng xác nhận.** `English Grammar` và `DE Knowledge` không bị chỉnh sửa.
 
 ## Vì sao dùng dạng thẻ này
 
@@ -32,4 +32,6 @@ Sau 2 tuần, thử 10 tình huống chưa có nguyên văn trong CSV: đếm s�
 
 ## Kiểm chứng kỹ thuật
 
-`validate` chấp nhận đủ 36 dòng, 36 `Key` và 36 `Answer` khác nhau; mỗi câu mẫu tối đa 12 từ và mỗi card có đúng hai biến thể. `diff` với Anki chính báo **36 ADD, 0 UPDATE/SKIP/CONFLICT**. Import CSV vào collection thử nghiệm tạo 36 notes/cards; chạy `diff` lần hai báo **36 SKIP**. Package `.apkg` nhập vào một collection thử nghiệm khác cũng tạo 36 notes/cards; mọi mặt trước/sau render không còn placeholder `{{...}}`. Không có sync apply nào với collection chính.
+`validate` chấp nhận đủ 36 dòng, 36 `Key` và 36 `Answer` khác nhau; mỗi câu mẫu tối đa 12 từ và mỗi card có đúng hai biến thể. Trước import, `diff` với Anki chính báo **36 ADD**. Sau import CSV, `diff` báo **36 SKIP**, 0 ADD/UPDATE/CONFLICT. Import thử qua CSV và `.apkg` đều tạo 36 notes/cards; mọi mặt trước/sau render không còn placeholder `{{...}}`. Fingerprint của hai deck cũ và 1.457 lượt review liên kết của chúng khớp trước/sau import. Backup ngay trước import ở `private/backups/2026-11-04-before-everyday-import/`.
+
+**Lưu ý preset:** Deck mới đang kế thừa `Default` với 20 thẻ mới/ngày. Kế hoạch trên dùng 2–3 thẻ mới/ngày; chỉnh riêng preset của `Everyday English` trong Deck Options trước khi bắt đầu để không kéo dài buổi học.
