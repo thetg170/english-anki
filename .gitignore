@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+private/
+*.apkg
+*.colpkg
+*.anki2
+*.anki21
+*.anki21b
+collection.media/
