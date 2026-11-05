@@ -1,0 +1,75 @@
+# 15. Dựng câu với There, It, câu hỏi và cảm thán
+
+**Học trước:** [Câu cơ bản](01-present-simple-continuous.md), [đại từ](08-pronouns.md). **Học tiếp:** [Asking Questions](18-asking-questions.md).
+
+## Learning Objectives
+
+Nói “có một...”, thời tiết/thời gian/khoảng cách; đặt câu hỏi trực tiếp/gián tiếp, hỏi đuôi, ra lệnh và cảm thán. Nhận ra người nhận và đối tượng trong câu hai tân ngữ.
+
+## Core Concepts
+
+Tiếng Anh thường cần chủ ngữ rõ. *There is/are* giới thiệu sự tồn tại: “There's a problem.” *It* làm chủ ngữ khi nói thời tiết, giờ, khoảng cách hoặc thay cho một ý đã biết: “It's raining”; “It's five miles away.” Câu hỏi trực tiếp có thể cần trợ động từ (*do/does/did*) hoặc đảo *be*; câu hỏi gián tiếp giữ trật tự như câu kể: “Do you know where the room is?”. Cảm thán *What + noun phrase!* khác *How + adjective/adverb!*
+
+## Sentence Structures
+
+| Ý | Ghép câu |
+|---|---|
+| Có/tồn tại | There + is/are + noun + place |
+| Thời tiết/giờ | It + is/was + weather/time; It + is + V-ing |
+| Câu hỏi thông tin | Wh-word + do/does/did + subject + verb? |
+| Cảm thán | What + (a/an) + adjective + noun!; How + adjective/adverb + subject + verb! |
+| Hỏi đuôi | Statement, auxiliary + pronoun? (khẳng định ↔ phủ định) |
+| Mệnh lệnh | (Don't) + verb + object. / Let's + verb. |
+| Mô tả kết quả / người nhận | make/find + object + adjective; send + person + thing |
+
+## Usage
+
+“There is a café near here” giới thiệu quán; “It is open” nói tiếp về quán đã nhắc. “There are two files” chia *are* theo danh từ sau. “It takes me ten minutes to get there” dùng *it* giả khi nói thời gian cần thiết. “What a great idea!” có danh từ *idea*; “How great this is!” nhấn mạnh tính từ. *So* thường đứng trước tính từ (“so useful”), *such* trước cụm danh từ (“such a useful tool”). Trong giao tiếp hằng ngày, “That's great!” thường tự nhiên hơn cảm thán đầy đủ.
+
+## Examples
+
+| English | Nghĩa |
+|---|---|
+| There's a problem with the link. | Có vấn đề với đường link. |
+| There are three people waiting. | Có ba người đang đợi. |
+| It's raining, so let's stay inside. | Trời đang mưa, nên ở trong nhé. |
+| What a nice place! | Chỗ này đẹp quá! |
+| It takes me ten minutes to walk there. | Tôi đi bộ đến đó mất mười phút. |
+| You sent it, didn't you? | Bạn gửi nó rồi, đúng không? |
+| The news made me happy. | Tin đó khiến tôi vui. |
+
+## Common Mistakes
+
+- ❌ “There have a problem” → ✅ “There's a problem.” *There is* cho ý tồn tại.
+- ❌ “Is raining” → ✅ “It's raining.” Cần chủ ngữ giả *it*.
+- ❌ “How a nice place!” → ✅ “What a nice place!” vì sau đó là cụm danh từ.
+- ❌ “Do you know where is the room?” → ✅ “Do you know where the room is?” Câu hỏi gián tiếp không đảo *is*.
+- ❌ “The news made me happily.” → ✅ “The news made me happy.” *Happy* mô tả *me*.
+
+## Sentence Building
+
+1. Giới thiệu: **There's a café nearby.**
+2. Nói thêm: **It's open until nine.** *It* chỉ quán vừa nhắc.
+3. Hỏi: **Is there a café nearby that's open until nine?** Đưa *is* lên trước *there*.
+
+Với câu hỏi gián tiếp, bắt đầu từ “Where is the room?” rồi đặt vào sau “Do you know...” → “Do you know where the room is?”.
+
+## Variations
+
+“There is a seat” → “There are two seats” → “There aren't any seats” → “Are there any seats?”. “It's late” → “It isn't late” → “Is it late?”. Đổi câu nói thành cảm thán: “It's a good idea” → “What a good idea!”.
+
+## Real-life Situations
+
+**A:** Is there a quiet place to talk?  
+**B:** There's a small room upstairs. It's empty now.
+
+## Practice
+
+1. Nói có ba người đang đợi bên ngoài.
+2. Hỏi có chỗ ngồi trống không; rồi khen chỗ đó đẹp.
+
+**Đáp án tham khảo:** 1. “There are three people waiting outside.” *People* là số nhiều. 2. “Is there a free seat? What a nice place!” *Is there* hỏi sự tồn tại; *What* đi với cụm danh từ.
+
+## Anki Review
+
+Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Sentence Patterns: There · It · Questions · Exclamations` hoặc prefix `sentence_patterns.` (**43 cards**). [CSV pilot](../../source/pilot/notes.csv) có `pilot.situation.04` và `pilot.error.05`.
