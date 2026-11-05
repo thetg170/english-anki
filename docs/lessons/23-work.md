@@ -1,0 +1,67 @@
+# 23. Work: cập nhật và phối hợp công việc
+
+**Học trước:** [Quá khứ đơn](02-past-simple.md), [tương lai](03-future.md), [Requests](21-requests.md). **Học tiếp:** luyện hỏi đáp trong tình huống thật.
+
+## Learning Objectives
+
+Xác nhận đã nhận file, nói tiến độ, xin thêm thời gian, dời lịch và hứa trả lời lại một cách rõ ràng.
+
+## Core Concepts
+
+Trong công việc, câu ngắn cần **trạng thái + bước tiếp theo + mốc thời gian** khi có thể. “I'm still working on it” nói trạng thái, nhưng nếu người kia cần lên kế hoạch, thêm “I'll send an update by three.” “I'll get back to you by Friday” là cam kết phản hồi **chậm nhất vào thứ Sáu**; *on Friday* chỉ ngày, không nhấn hạn cuối như *by Friday*.
+
+## Sentence Structures
+
+| Ý định | Khung câu |
+|---|---|
+| Gửi/xác nhận | I'll send + thing + over + time. / I got your + thing. |
+| Tiến độ | I'm still working on + thing. / How's + task + coming along? |
+| Xin thêm thời gian | Could I have a bit more time? |
+| Phản hồi/dời lịch | I'll get back to you by + time. / Can we move + event + to + time? |
+
+## Usage
+
+“I got your file. Thanks!” xác nhận đã nhận, chưa có nghĩa đã đọc. “How's the report coming along?” hỏi tiến độ nhẹ hơn “Is it done?”. “Let's go over the main points” là cùng xem lại; nếu muốn người kia tự duyệt kỹ, nói “Could you review the report?”. “Send over” tự nhiên với file/thông tin; “send” cũng hoàn toàn đúng.
+
+## Examples
+
+| English | Nghĩa |
+|---|---|
+| I got your file. Thanks! | Tôi nhận được file rồi, cảm ơn! |
+| I'm still working on the report. | Tôi vẫn đang làm báo cáo. |
+| Could I have a bit more time? | Tôi có thể xin thêm chút thời gian không? |
+| I'll get back to you by Friday. | Tôi sẽ phản hồi chậm nhất thứ Sáu. |
+| Can we move the meeting to tomorrow? | Chúng ta dời cuộc họp sang mai được không? |
+
+## Common Mistakes
+
+- ❌ “I will feedback you” → ✅ “I'll get back to you” hoặc “I'll send you feedback.” *Feedback* thường là danh từ.
+- ❌ “I'm still work on it.” → ✅ “I'm still working on it.”
+- ❌ Dùng “I got it” như lời xác nhận đã kiểm tra xong → nói rõ “I got it; I'll review it this afternoon.”
+
+## Sentence Building
+
+1. Trạng thái: **I'm working on the report.**
+2. Nêu chưa xong: **I'm still working on the report.**
+3. Thêm cam kết cụ thể: **I'm still working on the report. I'll send it over by four.** Chỉ hứa mốc bạn có thể đáp ứng.
+
+## Variations
+
+Đổi chủ ngữ: “We're still working on it.” Phủ định: “I haven't finished it yet.” Hỏi: “Are you still working on it?” / “How's it coming along?”. Đổi thì khi đã xong: “I sent it this morning.”
+
+## Real-life Situations
+
+**A:** How's the report coming along?  
+**B:** I'm still working on it. Could I have until tomorrow morning?  
+**A:** Sure. Please send me an update today.
+
+## Practice
+
+1. Xác nhận đã nhận file và hứa xem chiều nay.
+2. Xin dời cuộc họp sang thứ Sáu; nếu chưa chốt, hứa phản hồi trước trưa mai.
+
+**Đáp án tham khảo:** 1. “I got your file. Thanks! I'll review it this afternoon.” 2. “Can we move the meeting to Friday? I'll confirm by noon tomorrow.” *Move...to* nói ngày mới; *by noon* nói hạn phản hồi.
+
+## Anki Review
+
+Mở subdeck `Everyday English::Work`. Lọc [CSV giao tiếp](../../source/everyday-english/notes.csv) theo `field:Topic` = `Work` hoặc khóa `everyday.work.01`–`.08` (**8 cards**).
