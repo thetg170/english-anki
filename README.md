@@ -2,6 +2,8 @@
 
 **Học từ bài giải thích đến phản xạ:** Mở [mục lục 24 bài học](docs/README.md), đọc bài đúng chủ đề, tự tạo và nói vài câu, rồi mới ôn nhóm card được liên kết ở cuối bài. Quy trình: **Read Lesson → Understand Grammar → Practice Building Sentences → Review with Anki → Speak Aloud → Apply in AI Conversation**. Các bài Markdown chỉ giải thích và tham chiếu CSV; không thay đổi note, deck hay tiến trình học.
 
+[Báo cáo rà soát nội dung ngữ pháp](docs/GRAMMAR_AUDIT.md) tóm tắt phần kiến thức bổ sung và các chủ đề có thể mở rộng sau này.
+
 **Current Anki state (2026-11-04):** `English Grammar` (581 cards), `DE Knowledge` (322), and `Everyday English` (72) are in the live collection. Anki also retains an empty `Default` deck. The removed decks are recoverable from `private/backups/2026-11-04-pre-cleanup-v2/`; `private/backups/2026-11-04-before-everyday-import/` captures the two-deck state immediately before this import. See the [cleanup report](reports/cleanup-2026-11-04.md). The older Speaking Pilot remains source/package only.
 
 **New English trial:** [Everyday English](docs/everyday-english.md) has 72 short sentence cards in [CSV](source/everyday-english/notes.csv), grouped into nine visible topic subdecks with eight cards each. It was imported into the live profile after explicit approval. Its dedicated `Everyday English - No Daily Cap` preset sets new and review limits to 9,999/day so the learner can choose the pace. The two existing deck presets were not changed.

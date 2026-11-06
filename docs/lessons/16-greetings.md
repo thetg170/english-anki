@@ -61,6 +61,23 @@ Lời chào là **lượt mở hội thoại**, không phải câu hỏi cần b
 
 **Đáp án tham khảo:** 1. “Hi, I'm Nam. Nice to meet you.” Dùng *meet* vì lần đầu. 2. “Thanks for having me. Have a great weekend!” Hai lượt nói có mục đích khác nhau: cảm ơn và tạm biệt.
 
+## Cụm dùng ngay và điểm cần chọn
+
+### Must Know
+
+| Tình huống | Câu mẫu / nghĩa | Ghi chú |
+|---|---|---|
+| Gặp lần đầu | Nice to meet you. — Rất vui được gặp bạn. | Đáp: “Nice to meet you too.” |
+| Gặp lại | Good to see you again. — Vui được gặp lại bạn. | *Meet* không phải lựa chọn thường dùng cho người đã quen. |
+| Hỏi thăm thân mật | How's it going? — Dạo này sao rồi? | Đáp ngắn, rồi hỏi lại. |
+| Kết thúc | It was nice talking to you. — Nói chuyện với bạn vui quá. | Nói khi cuộc trò chuyện đã diễn ra. |
+
+### Good to Know / Special Cases
+
+“How do you do?” là lời chào trang trọng, không phải câu hỏi thường ngày về sức khỏe. “How have you been?” phù hợp khi một thời gian không gặp; không cần dùng mỗi sáng với cùng đồng nghiệp. “Good morning” trung tính hơn “Morning!”; “Have a good one!” thân mật hơn “Have a good day.” “Thanks for having me” cảm ơn **chủ nhà/người mời**; “Thanks for coming” là chủ nhà cảm ơn **khách**, nên đổi câu theo vai người nói.
+
+**Tự tạo câu:** Viết hai đoạn mở lời: một với đồng nghiệp quen sáng nay, một với người mới ở sự kiện. Mỗi đoạn có lời chào, một câu hỏi hoặc giới thiệu và một câu đáp. Đừng dùng cùng “Nice to meet you” cho cả hai.
+
 ## Anki Review
 
 Mở subdeck `Everyday English::Greetings`. Trong [CSV giao tiếp](../../source/everyday-english/notes.csv), lọc `field:Topic` = `Greetings` hoặc `field:Key` từ `everyday.greetings.01` đến `.08` (**8 cards**).

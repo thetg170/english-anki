@@ -61,6 +61,24 @@ Giao tiếp hằng ngày thường là **một thông báo ngắn + thông tin h
 
 **Đáp án tham khảo:** 1. “Would you like some tea? Give me a second, please.” *Some* tự nhiên trong lời mời. 2. “I'm heading out. I'll be back in ten minutes.” Câu đầu báo hành động sắp diễn ra, câu sau báo mốc trở lại.
 
+## Cụm dùng ngay và điểm cần chọn
+
+### Must Know
+
+| Ý định | Câu mẫu / nghĩa | Dùng khi nào |
+|---|---|---|
+| Báo trễ | I'm running ten minutes late. — Tôi trễ khoảng mười phút. | Người khác đang chờ. |
+| Xin chờ | Give me a second, please. — Chờ tôi chút nhé. | Thân mật; không hứa đúng một giây. |
+| Báo quay lại | I'll be right back. — Tôi sẽ quay lại ngay. | Rời đi trong chốc lát. |
+| Chưa làm | I haven't eaten yet. — Tôi vẫn chưa ăn. | Tình trạng tính đến hiện tại. |
+| Ghé lấy/mua | I need to pick up a few things. — Tôi cần ghé mua vài món. | *Pick up* có thể là lấy hoặc mua nhanh. |
+
+### Good to Know / Special Cases
+
+*In a minute* trong lời nói không luôn đúng 60 giây; nếu người kia cần thời điểm chính xác, nói “in about ten minutes”. “I'm heading out” = đang chuẩn bị rời đi; “I left” = đã rời đi. “I'm a bit busy right now” là thông báo, không hẳn là lời từ chối; thêm “Can I call you back after lunch?” nếu muốn giữ cuộc hẹn. “Would you like some water?” là lời mời; “Do you like water?” hỏi sở thích nói chung.
+
+**Tự tạo câu:** Chọn một việc thật hôm nay, nói thông báo ngắn rồi thêm thời điểm/hành động tiếp theo. Mẫu: “I'm running a little late. I'll be there at half past six.” Thử đổi sang câu hỏi người kia có thể trả lời.
+
 ## Anki Review
 
 Mở subdeck `Everyday English::Daily Life`. Lọc [CSV giao tiếp](../../source/everyday-english/notes.csv) theo `field:Topic` = `Daily Life` hoặc khóa `everyday.daily-life.01`–`.08` (**8 cards**).

@@ -70,6 +70,24 @@ Với câu hỏi gián tiếp, bắt đầu từ “Where is the room?” rồi 
 
 **Đáp án tham khảo:** 1. “There are three people waiting outside.” *People* là số nhiều. 2. “Is there a free seat? What a nice place!” *Is there* hỏi sự tồn tại; *What* đi với cụm danh từ.
 
+## Tra cứu các mẫu dễ nhầm
+
+### Must Know: câu hỏi và câu có bổ ngữ
+
+| Mẫu | Ví dụ / nghĩa | Điểm cần nhớ |
+|---|---|---|
+| Wh- + trợ động từ + S + V? | Where does she work? — Cô ấy làm ở đâu? | Hỏi trực tiếp với động từ thường. |
+| Do you know + wh- + S + V? | Do you know where she works? — Bạn biết cô ấy làm ở đâu không? | Phần câu hỏi gián tiếp giữ trật tự câu kể. |
+| Khẳng định, đuôi phủ định? | She's ready, isn't she? — Cô ấy sẵn sàng rồi, đúng không? | Đuôi khớp trợ động từ và đại từ. |
+| make/find + object + adjective | The news made me happy. — Tin đó khiến tôi vui. | *Happy* là bổ ngữ mô tả *me*; không dùng *happily*. |
+| send + person + thing | I sent Mai the file. — Tôi gửi Mai file. | Có thể đổi thành “I sent the file to Mai”. |
+
+### Good to Know / Special Cases
+
+*There seems to be a problem* = có vẻ có vấn đề; không nói “There seems a problem” trong mẫu cơ bản này. *It takes + person + time + to V*: “It takes me ten minutes to get there” (Tôi mất mười phút đến đó). *So + adjective* khác *such + (a/an) + adjective + noun*: “It's so useful” (Nó hữu ích quá) / “It's such a useful tool” (Đó là công cụ hữu ích quá). Mệnh lệnh phủ định bắt đầu bằng *Don't + V*: “Don't delete the file” (Đừng xóa file). Với câu hỏi *who* làm chủ ngữ, thường không cần *do*: “Who called you?” (Ai đã gọi bạn?), khác “Who did you call?” (Bạn đã gọi ai?).
+
+**Tự tạo câu:** Từ “Mai sent me a file”, tạo (1) câu hỏi trực tiếp “What did Mai send you?”, (2) câu gián tiếp “Do you know what Mai sent me?”, (3) câu có bổ ngữ “The file made my work easier.” Xác định chủ ngữ, tân ngữ và bổ ngữ ở mỗi câu.
+
 ## Anki Review
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Sentence Patterns: There · It · Questions · Exclamations` hoặc prefix `sentence_patterns.` (**43 cards**). [CSV pilot](../../source/pilot/notes.csv) có `pilot.situation.04` và `pilot.error.05`.

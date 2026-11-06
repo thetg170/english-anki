@@ -60,6 +60,23 @@ Tiếng Anh có nhiều cách hướng tới tương lai. *Will* thường hợp
 
 **Đáp án tham khảo:** 1. “I'll help you.” *Will* hợp với quyết định ngay lúc nói. 2. “I'm meeting the client at ten tomorrow.” Hiện tại tiếp diễn nhấn mạnh lịch đã thu xếp; “I'm going to meet...” cũng có thể đúng nếu đang nhấn mạnh ý định.
 
+## Tra cứu và mở rộng
+
+### Must Know: chọn theo điều bạn thực sự muốn nói
+
+| Cấu trúc | Tình huống thường gặp | Ví dụ / nghĩa |
+|---|---|---|
+| will + V | Quyết ngay, hứa, dự đoán | I'll call you back. — Tôi sẽ gọi lại. |
+| be going to + V | Ý định đã có; dấu hiệu hiện tại | Look at those clouds. It's going to rain. — Nhìn mây kìa, sắp mưa rồi. |
+| be + V-ing + mốc tương lai | Lịch hẹn đã sắp xếp | I'm seeing the dentist on Friday. — Thứ Sáu tôi hẹn nha sĩ. |
+| hiện tại đơn + mốc tương lai | Lịch trình cố định | The train leaves at six. — Tàu khởi hành lúc sáu giờ. |
+
+### Good to Know / Special Cases
+
+“I'll probably go” (*probably* = có lẽ) khác “I might go” (có thể, ít cam kết hơn); mức chắc chắn phụ thuộc giọng điệu và ngữ cảnh. “I'm about to leave” = sắp rời đi **ngay**, không phải một kế hoạch cho tuần sau. Trong mệnh đề thời gian/điều kiện thông thường, dùng hiện tại đơn cho tương lai: “I'll call you **when I arrive**” (Tôi sẽ gọi khi đến), “If it rains, we'll stay in” (Nếu mưa, chúng ta ở trong); không tự động thêm *will* sau *when/if*. Một số cách dùng *will* trong vế *if* vẫn tồn tại khi nói về sự sẵn lòng, nên đây là quy tắc cho mẫu dự đoán cơ bản.
+
+**Tự tạo câu:** Cùng một việc “gọi Mai”, nói ba phiên bản: quyết ngay (*I'll call Mai now*), dự định (*I'm going to call Mai tonight*), lịch đã hẹn (*I'm calling Mai at eight*). Giải thích vì sao bạn chọn mỗi dạng.
+
 ## Anki Review
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Future: will · be going to · Present Continuous` hoặc prefix `future.` (**32 cards**). [CSV pilot](../../source/pilot/notes.csv) có `pilot.situation.03` để luyện tình huống.

@@ -61,6 +61,24 @@ Câu chủ động chú ý **ai làm**: “Mai sent the report.” Bị động 
 
 **Đáp án tham khảo:** 1. “The meeting was moved to Thursday.” *Was* mang thì quá khứ. 2. “The report will be sent tomorrow.” *Will be + V3*; bỏ *by someone* vì không thêm thông tin.
 
+## Tra cứu và mở rộng
+
+### Must Know: giữ thì trên *be*
+
+| Chủ động → bị động | Ví dụ / nghĩa | Điểm cần nhìn |
+|---|---|---|
+| sends → is sent | The file is sent every Monday. — File được gửi mỗi thứ Hai. | Thói quen hiện tại. |
+| sent → was sent | The file was sent yesterday. — File được gửi hôm qua. | Việc đã xong. |
+| will send → will be sent | The file will be sent tomorrow. — File sẽ được gửi mai. | Tương lai. |
+| has sent → has been sent | The file has been sent. — File đã được gửi rồi. | Kết quả hiện tại. |
+| is repairing → is being repaired | The server is being repaired. — Máy chủ đang được sửa. | Đang diễn ra. |
+
+### Good to Know / Special Cases
+
+Sau modal: *must/can/should + be + V3*: “It must be checked” (Nó phải được kiểm tra). Với động từ hai tân ngữ, có thể đưa người nhận lên trước: “They sent me a file” → “I was sent a file”; nhưng “A file was sent to me” thường dễ hiểu hơn. *Get + V3* trong lời nói có thể nhấn sự kiện/xảy đến: “My phone got stolen” (Điện thoại tôi bị lấy trộm); không thay được mọi dạng bị động trang trọng. Tránh bị động nếu muốn người nghe biết **ai chịu trách nhiệm**: “Mai will send the report” rõ hơn “The report will be sent”.
+
+**Tự tạo câu:** Lấy một hành động thật trong công việc, nói chủ động rồi bị động và giải thích vì sao đổi trọng tâm. Mẫu: “The team fixed the bug” → “The bug was fixed yesterday”; sau đó đổi sang “The bug is being fixed” nếu việc vẫn đang diễn ra.
+
 ## Anki Review
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Passive Voice` hoặc prefix `passive.` (**30 cards**). [CSV pilot](../../source/pilot/notes.csv) có `pilot.transform.04`.

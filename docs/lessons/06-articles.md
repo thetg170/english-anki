@@ -59,6 +59,26 @@ Chọn *a* hay *an* theo **âm đầu**, không theo chữ cái: *an hour* (h c�
 
 **Đáp án tham khảo:** 1. “I saw an umbrella. The umbrella is on the table.” Lần đầu *an*, lần sau *the*. 2. “a university”; “an hour”. Chọn theo âm phát ra.
 
+## Tra cứu và mở rộng
+
+### Must Know: quyết định trong ba bước
+
+1. Danh từ **đếm được số ít**? Thường cần từ xác định: *a book, the book, my book*.
+2. Người nghe biết rõ **đối tượng nào**? Dùng *the*: “Please close the window” (Hãy đóng cửa sổ đó) khi cửa sổ đã rõ.
+3. Chưa rõ đối tượng nào? Dùng *a/an* theo **âm đầu**: *an hour* (một giờ), *a university* (một trường đại học).
+
+| Trường hợp | Ví dụ / nghĩa | Ghi chú |
+|---|---|---|
+| Danh từ số nhiều nói chung | Dogs need exercise. — Chó cần vận động. | Không dùng *the* khi nói cả loài chung chung. |
+| Danh từ không đếm được nói chung | I need advice. — Tôi cần lời khuyên. | Không dùng *an advice*. |
+| Đối tượng đã xác định | The advice you gave me helped. — Lời khuyên bạn cho tôi đã có ích. | *The* vẫn dùng được với danh từ không đếm được khi xác định rõ. |
+
+### Special Cases
+
+*A/an* dựa trên âm: *an MBA* (/em/), *a European city* (/j/). Nói “go to school” khi nói hoạt động đi học; “go to the school” khi nói đến tòa nhà/trường cụ thể. Tên riêng và tên địa lý có quy ước riêng: *Vietnam* nhưng *the United States*; không suy ra mọi tên nước đều giống nhau. Bữa ăn thường không có mạo từ (“We had lunch”), nhưng có thể dùng *the* khi chỉ một bữa đã xác định (“The lunch we had was great”).
+
+**Tự tạo câu:** Giới thiệu một người/vật bằng *a/an*, nhắc lại bằng *the*, rồi nói về loại đó nói chung bằng số nhiều hoặc danh từ không đếm được. Mẫu: “I found a café. The café opens early. Cafés in this area are busy.”
+
 ## Anki Review
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Articles: a / an / the / zero` hoặc prefix `articles.` (**32 cards**).

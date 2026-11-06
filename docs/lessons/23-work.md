@@ -62,6 +62,24 @@ Trong công việc, câu ngắn cần **trạng thái + bước tiếp theo + m�
 
 **Đáp án tham khảo:** 1. “I got your file. Thanks! I'll review it this afternoon.” 2. “Can we move the meeting to Friday? I'll confirm by noon tomorrow.” *Move...to* nói ngày mới; *by noon* nói hạn phản hồi.
 
+## Cụm công việc dùng thường xuyên
+
+### Must Know
+
+| Cụm | Ví dụ / nghĩa | Khi nào dùng |
+|---|---|---|
+| work on | I'm working on the report. — Tôi đang làm báo cáo. | Nêu việc đang xử lý. |
+| go over | Let's go over the plan. — Cùng xem lại kế hoạch nhé. | Xem/trao đổi lại. |
+| get back to | I'll get back to you by Friday. — Tôi phản hồi chậm nhất thứ Sáu. | Chưa có câu trả lời ngay. |
+| follow up on | I'll follow up on the issue tomorrow. — Mai tôi sẽ theo dõi tiếp vấn đề. | Kiểm tra tiến triển. |
+| move ... to | Can we move the meeting to Thursday? — Dời họp sang thứ Năm được không? | Đề xuất lịch mới. |
+
+### Good to Know / Special Cases
+
+*By Friday* = hạn muộn nhất thứ Sáu; *on Friday* = vào thứ Sáu. “I'm still working on it” **không** hứa xong sớm; nếu người nghe cần mốc, bổ sung một cập nhật có thể thực hiện. “I got your email” xác nhận đã nhận, không xác nhận đã đọc kỹ hoặc đồng ý. *Circle back* cũng có nghĩa quay lại chủ đề, nhưng dễ thành sáo ngữ công sở; *get back to you* rõ hơn khi hứa trả lời. “Could I have another day?” xin thêm một ngày; thêm lý do ngắn nếu phù hợp.
+
+**Tự tạo câu:** Soạn một cập nhật ba phần về việc thật: trạng thái, trở ngại, bước tiếp theo/mốc. Mẫu: “I'm still working on the report. I need one more figure. I'll send you an update by three.” Không hứa mốc mà bạn không kiểm soát được.
+
 ## Anki Review
 
 Mở subdeck `Everyday English::Work`. Lọc [CSV giao tiếp](../../source/everyday-english/notes.csv) theo `field:Topic` = `Work` hoặc khóa `everyday.work.01`–`.08` (**8 cards**).

@@ -2,6 +2,8 @@
 
 Các bài trong [lessons/](lessons/) giải thích cách **tự ghép câu từ ý muốn nói**. Bài 01–15 bám đúng 15 `field:Unit` của [English Grammar](../source/english-grammar/notes.csv) (**581 cards**); bài 16–24 bám đúng 9 `field:Topic` và subdeck của [Everyday English](../source/everyday-english/notes.csv) (**72 cards**). Bộ [Speaking Pilot](../source/pilot/notes.csv) có 17 thẻ thử nghiệm, hiện không nằm trong collection đang học; các bài ngữ pháp liên quan vẫn chỉ rõ khóa pilot để dùng khi cần. Không có bài nào tạo hoặc sửa thẻ Anki.
 
+[Báo cáo rà soát và bổ sung ngữ pháp](GRAMMAR_AUDIT.md) ghi rõ nội dung được mở rộng trong từng bài, điểm còn mở và nguồn đối chiếu.
+
 ## Cách học một bài
 
 1. **Read Lesson:** đọc mục tiêu và ví dụ; chọn một tình huống mình thực sự gặp.

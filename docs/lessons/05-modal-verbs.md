@@ -63,6 +63,24 @@ Modal đứng trước động từ để thêm thái độ của người nói.
 
 **Đáp án tham khảo:** 1. “You don't have to come early, but you should let me know if you're late.” Phân biệt không bắt buộc và lời khuyên. 2. “Could you send me the file?” *Could you* là lời nhờ, không nhất thiết nói về quá khứ.
 
+## Tra cứu và mở rộng
+
+### Must Know: mức độ của lời nói
+
+| Ý | Cấu trúc / ví dụ | Nghĩa và khác biệt |
+|---|---|---|
+| Khả năng | can/could: I can join. | Tôi có thể tham gia; *could* còn dùng để nhờ lịch sự hoặc nói khả năng quá khứ. |
+| Lời khuyên | should: You should rest. | Bạn nên nghỉ; không phải mệnh lệnh. |
+| Bắt buộc | must/have to: We have to leave. | Chúng ta phải đi; *had to* cho quá khứ. |
+| Cấm / không cần | mustn't / don't have to | You mustn't share it = không được chia sẻ; You don't have to come = không cần đến. |
+| Phỏng đoán | must/might/can't be | She must be tired = chắc cô ấy mệt; She might be tired = có lẽ; She can't be tired = không thể nào. |
+
+### Good to Know / Special Cases
+
+*May I...?* có thể trang trọng hơn *Can I...?* khi xin phép. *Had better + V* là lời khuyên mạnh, thường ngầm có hậu quả: “You'd better back it up” (Bạn nên sao lưu, không thì có thể gặp rắc rối). *Ought to + V* gần *should* nhưng ít gặp hơn trong lời nói thường ngày. Sau modal không thêm *do* để hỏi: “Can you help?”, không phải “Do you can help?”. *Need to* và *have to* tự chia thì/ngôi; chúng không hoạt động hệt modal thuần.
+
+**Tự tạo câu:** Viết một lời khuyên, một quy định cấm và một phỏng đoán về cùng tình huống. Mẫu: “You should check the link. You mustn't share the password. The page might be down.”
+
 ## Anki Review
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Modal Verbs` hoặc prefix `modals.` (**41 cards**). [CSV pilot](../../source/pilot/notes.csv) có `pilot.situation.01` và `pilot.situation.05`.

@@ -60,6 +60,23 @@ Vế *if* nêu điều kiện; vế còn lại nêu kết quả. Loại 0 nói �
 
 **Đáp án tham khảo:** 1. “If it rains tomorrow, I'll stay home.” Khả năng thực tế, vế *if* ở hiện tại đơn. 2. “If I'd left earlier yesterday, I wouldn't have missed the train.” Giả định quá khứ: *had + V3 / would have + V3*.
 
+## Tra cứu và mở rộng
+
+### Must Know: nghĩa quyết định loại câu
+
+| Điều kiện | Ý nói | Ví dụ / nghĩa |
+|---|---|---|
+| 0: if + present, present | Quy luật/thói quen | If I skip lunch, I get hungry. — Nếu bỏ bữa trưa, tôi đói. |
+| 1: if + present, will/can/imperative | Khả năng thực tế | If you finish early, call me. — Nếu xong sớm, gọi tôi. |
+| 2: if + past, would/could + V | Giả định hiện tại/tương lai | If I had more time, I'd cook. — Nếu có thêm thời gian, tôi sẽ nấu. |
+| 3: if + had + V3, would/could have + V3 | Giả định quá khứ | If I'd left earlier, I'd have arrived on time. — Nếu đi sớm, tôi đã đến đúng giờ. |
+
+### Good to Know / Special Cases
+
+*Unless* thường = “if ... not”: “Unless it rains, we'll go” (Trừ khi mưa, chúng ta sẽ đi). Đừng thêm phủ định lần nữa nếu không muốn đổi nghĩa. Loại 2 thường dùng “If I were you, I'd ask” (Nếu là bạn, tôi sẽ hỏi); “was” cũng xuất hiện trong lời nói, nhưng *were* là lựa chọn an toàn cho lời khuyên giả định. Có **mixed conditional** khi điều quá khứ ảnh hưởng hiện tại: “If I'd slept earlier, I wouldn't be so tired now” (Nếu tối qua ngủ sớm, giờ tôi đã không mệt vậy). Học sau khi bốn mẫu chính chắc. Trong lời nói, *I'd* có thể là *I had* trước V3 hoặc *I would* trước V nguyên thể; nhìn động từ sau để phân biệt.
+
+**Tự tạo câu:** Cùng ý “trời mưa”, nói (1) thói quen “If it rains, I stay home”, (2) kế hoạch ngày mai “If it rains tomorrow, I'll stay home”, (3) giả định trái hiện tại “If it weren't raining, I'd go out”. Mỗi câu phải có ngữ cảnh riêng.
+
 ## Anki Review
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Conditionals (Type 0 · 1 · 2 · 3)` hoặc prefix `conditionals.` (**31 cards**). [CSV pilot](../../source/pilot/notes.csv) có `pilot.transform.03`, `pilot.transform.05` và `pilot.error.04`.

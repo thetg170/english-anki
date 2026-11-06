@@ -60,6 +60,23 @@ So sánh hơn cần **hai đối tượng**: *faster than*, *more useful than*. 
 
 **Đáp án tham khảo:** 1. “The new café is a bit cheaper than the old one.” *A bit* trước dạng so sánh. 2. “Is this phone as good as that one?” Dùng *as...as* khi hỏi ngang mức.
 
+## Tra cứu và mở rộng
+
+### Must Know: dạng thường gặp
+
+| Gốc → hơn → nhất | Ví dụ / nghĩa | Ghi chú |
+|---|---|---|
+| fast → faster → fastest | This route is faster. — Đường này nhanh hơn. | Tính từ ngắn thường thêm *-er/-est*. |
+| happy → happier → happiest | She looks happier. — Cô ấy trông vui hơn. | Phụ âm + *y* đổi thành *i*. |
+| expensive → more/most expensive | This one is more expensive. — Cái này đắt hơn. | Tính từ dài thường dùng *more/most*. |
+| good → better → best; bad → worse → worst | This option is better. — Cách này tốt hơn. | Học bất quy tắc. |
+
+### Good to Know / Special Cases
+
+*Much/a lot/far + comparative* = hơn nhiều; *a bit/a little/slightly + comparative* = hơn một chút: “It's much easier” (Nó dễ hơn nhiều). *Less + adjective* = ít ... hơn: “This version is less stable” (Bản này kém ổn định hơn). *Fewer* thường đi với danh từ đếm được số nhiều, *less* với không đếm được: “fewer mistakes” (ít lỗi hơn), “less time” (ít thời gian hơn). Trong lời nói đời thường có ngoại lệ, đặc biệt đơn vị đo và con số; tránh coi quy tắc này tuyệt đối. “The more you practice, the easier it gets” = càng luyện càng dễ. Nếu chỉ có hai đối tượng, thường nói “the better of the two” chứ không mặc định *the best*.
+
+**Tự tạo câu:** So sánh hai lựa chọn bằng một điểm hơn, một điểm kém và kết luận. Mẫu: “The new app is faster but a bit more expensive. I'd choose it because it saves time.”
+
 ## Anki Review
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Comparison` hoặc prefix `comparison.` (**33 cards**).

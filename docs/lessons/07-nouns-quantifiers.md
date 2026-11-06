@@ -63,6 +63,25 @@ Trước khi chọn lượng từ, hãy hỏi danh từ này trong nghĩa đang 
 
 **Đáp án tham khảo:** 1. “How much time do we have? How many people are waiting?” *Time* không đếm được; *people* là số nhiều. 2. “Could you give me some advice about work?” Không thêm *an* trước *advice*.
 
+## Tra cứu và mở rộng
+
+### Must Know: học danh từ cùng cách đếm
+
+| Danh từ | Cách dùng | Ví dụ / nghĩa |
+|---|---|---|
+| information, advice, feedback | Thường không đếm được | I need some advice. — Tôi cần lời khuyên. |
+| furniture, equipment, luggage | Thường không đếm được | This equipment is new. — Thiết bị này mới. |
+| work, homework, news | Thường không đếm được trong nghĩa thông dụng | I have homework. — Tôi có bài tập về nhà. The news is good. — Tin tức tốt. |
+| a piece of / a glass of | Đơn vị để đếm thứ không đếm trực tiếp | Two pieces of advice helped me. — Hai lời khuyên đã giúp tôi. |
+
+*A few/few* đi với danh từ đếm được số nhiều; *a little/little* đi với không đếm được. Có **a** thường nhấn “vẫn còn một ít”; không có **a** thường nhấn “ít đến mức thiếu”: “We have a little time” (vẫn còn chút thời gian) khác “We have little time” (gần như hết giờ).
+
+### Good to Know / Special Cases
+
+Số nhiều quy tắc: *box → boxes, city → cities, knife → knives*; bất quy tắc cần học riêng: *child → children, person → people, woman → women, sheep → sheep*. Một số từ có cách dùng đếm được trong nghĩa khác: “I drink coffee” (cà phê nói chung), “Two coffees, please” (hai cốc). *Some* có thể dùng trong câu hỏi mời/đề nghị: “Would you like some tea?”; vì thế “some = chỉ khẳng định” là quy tắc quá cứng. *These/those* = những cái này/kia, đi với danh từ số nhiều hoặc đứng một mình.
+
+**Tự tạo câu:** Viết một câu hỏi với *how many* và một với *how much*, sau đó trả lời bằng *a few/a little*. Mẫu: “How many questions do you have? Just a few. How much time do we have? A little.”
+
 ## Anki Review
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Nouns, Quantifiers &amp; Determiners` hoặc prefix `nouns_quantifiers.` (**42 cards**).

@@ -60,6 +60,24 @@ Một ý kiến hữu ích thường gồm **lựa chọn + lý do ngắn**. “
 
 **Đáp án tham khảo:** 1. “I'd go with the second design because it's simpler.” 2. “I see your point, but I'd rather wait until tomorrow.” *Rather + verb nguyên thể*; không cần giải thích dài nếu ngữ cảnh đã rõ.
 
+## Cụm diễn đạt và mức độ chắc chắn
+
+### Must Know
+
+| Ý muốn nói | Mẫu / nghĩa | Sắc thái |
+|---|---|---|
+| Ý kiến | I think this one works better. — Tôi nghĩ cách này hợp hơn. | Nhận xét cá nhân. |
+| Lựa chọn | I'd go with the second option. — Tôi chọn cách thứ hai. | Quyết định/ưu tiên. |
+| Chưa chắc | I'm not sure that's the best option. — Tôi chưa chắc đó là cách tốt nhất. | Mở thảo luận. |
+| Hiểu ý | I see your point. — Tôi hiểu ý bạn. | Chưa đồng nghĩa đồng ý. |
+| Đồng ý đề xuất | That sounds good to me. — Với tôi thì ổn. | Chấp thuận tương đối rõ. |
+
+### Good to Know / Special Cases
+
+“In my opinion” đúng nhưng có thể nghe trang trọng/lặp nếu dùng trước mọi câu. “I feel like this is rushed” là nhận xét mềm, không phải cảm giác thể chất. *I'd rather + V* nêu sở thích: “I'd rather wait” (Tôi muốn chờ hơn); *I'd prefer to + V* cũng tự nhiên: “I'd prefer to wait.” Khi nêu bất đồng, thêm lý do cụ thể: “I see your point, but I'm worried about the deadline” (Tôi hiểu ý bạn, nhưng lo hạn chót). Tránh học *but* như một công thức để bác bỏ mà không nghe ý người khác.
+
+**Tự tạo câu:** Trước một đề xuất thật, nói ba cấp độ: hiểu nhưng chưa quyết, đồng ý, và thích phương án khác. Mẫu: “That makes sense”; “That sounds good to me”; “I see your point, but I'd go with the earlier time.”
+
 ## Anki Review
 
 Mở subdeck `Everyday English::Expressing Opinions`. Lọc [CSV giao tiếp](../../source/everyday-english/notes.csv) theo `field:Topic` = `Expressing Opinions` hoặc khóa `everyday.expressing-opinions.01`–`.08` (**8 cards**).
