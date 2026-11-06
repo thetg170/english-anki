@@ -1,0 +1,12 @@
+{
+  "deck": "English Essentials – Daily Reflex",
+  "notetype": "EN_Daily_Reflex_v1",
+  "fields": ["Key", "Topic", "Prompt", "Answer", "Alternative", "Note"],
+  "templates": {
+    "Say it aloud": {
+      "Front": "<div class=wrap><div class=topic>{{Topic}}</div><div class=prompt>{{Prompt}}</div><div class=instruction>Nói thành tiếng trước khi lật thẻ.</div></div>",
+      "Back": "<div class=wrap>{{FrontSide}}<hr><div class=answer>{{Answer}}</div>{{#Alternative}}<div class=alternative>{{Alternative}}</div>{{/Alternative}}{{#Note}}<div class=note>{{Note}}</div>{{/Note}}<div class=audio>{{tts en_US:Answer}}</div></div>"
+    }
+  },
+  "css": ".card{font-family:system-ui,-apple-system,sans-serif;font-size:20px;line-height:1.5;text-align:left;color:#202632;background:#f5f7fa;padding:22px}.wrap{max-width:620px;margin:auto}.topic{font-size:13px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:#4968a8}.prompt{font-size:31px;font-weight:700;margin:20px 0}.instruction{font-size:15px;color:#8b3e67}.answer{font-size:25px;font-weight:700;color:#16704e}.alternative{font-size:18px;margin-top:10px}.alternative:before{content:'Also: ';font-weight:600}.note{font-size:15px;color:#626977;margin-top:9px}.audio{margin-top:8px}hr{border:0;border-top:1px solid #c8ccd4;margin:22px 0}.nightMode .card,.card.nightMode{background:#1b1d22;color:#e8e9ed}.nightMode .answer{color:#77d6ad}.nightMode .note{color:#adb4c1}"
+}
