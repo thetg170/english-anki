@@ -60,6 +60,23 @@ Present Perfect nối một sự việc trước đây với **hiện tại**: k
 
 **Đáp án tham khảo:** 1. “Have you ever been to Da Nang? When did you go?” Câu đầu hỏi kinh nghiệm, câu sau hỏi mốc quá khứ. 2. “I haven't had lunch yet.” *Had* là V3 của *have*.
 
+## Tra cứu và mở rộng
+
+### Must Know: cụm thời gian và ý nghĩa
+
+| Cụm | Ví dụ / nghĩa | Ghi chú |
+|---|---|---|
+| ever/never | Have you ever tried sushi? — Bạn từng thử sushi chưa? | Kinh nghiệm đến nay; *never* đã mang nghĩa phủ định. |
+| already/yet | I've already sent it. / I haven't sent it yet. — Tôi đã gửi rồi / vẫn chưa gửi. | *Yet* hay ở cuối câu hỏi/phủ định; không phải bắt buộc trong mọi câu. |
+| for/since | I've lived here for two years / since 2024. — Tôi sống ở đây hai năm / từ 2024. | *For* + khoảng thời gian; *since* + điểm bắt đầu. |
+| just | She's just left. — Cô ấy vừa đi. | Trong một số biến thể tiếng Anh, Past Simple cũng dùng được với *just*. |
+
+### Good to Know / Special Cases
+
+“I've lived here for two years” thường hàm ý **vẫn sống ở đây**; “I lived here for two years” thường là giai đoạn đã kết thúc. Với hành động kéo dài, Present Perfect Continuous nhấn quá trình: “I've been waiting for an hour” (Tôi đợi đã một giờ); “I've waited for an hour” cũng có thể đúng nhưng góc nhìn khác. “I've been to Paris” = đã đến và trở về; “She's gone to Paris” thường = đã đi và hiện không ở đây. *This week* có thể dùng Present Perfect nếu tuần chưa kết thúc; không chọn thì chỉ bằng cách nhìn một từ khóa.
+
+**Tự tạo câu:** Hỏi một kinh nghiệm bằng *Have you ever...?*, trả lời bằng Past Simple với một mốc đã khép lại, rồi nói một việc bạn chưa làm *yet*. Mẫu: “Have you ever worked remotely? Yes, I worked from home last year. I haven't tried working abroad yet.”
+
 ## Anki Review
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Present Perfect vs Past Simple` hoặc prefix `present_perfect.` (**42 cards**). [CSV pilot](../../source/pilot/notes.csv): `pilot.transform.02`, `pilot.transform.06`, `pilot.situation.02`, `pilot.situation.06`, `pilot.error.03`.

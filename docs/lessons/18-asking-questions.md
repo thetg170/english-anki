@@ -61,6 +61,24 @@ Hỏi thời gian, giá, nơi tìm đồ, lựa chọn; xin nhắc lại hoặc 
 
 **Đáp án tham khảo:** 1. “What time does the meeting start? Where can I find the link?” 2. “What do you mean by ‘flexible’ here?” Hỏi nghĩa trong ngữ cảnh, không chỉ xin lặp âm thanh.
 
+## Tra cứu câu hỏi thường gặp
+
+### Must Know
+
+| Cần biết gì | Mẫu / nghĩa | Đổi thành phần nào? |
+|---|---|---|
+| Thời điểm | What time does it start? — Nó bắt đầu lúc mấy giờ? | *it* → *the meeting*; *does* → *did* cho quá khứ. |
+| Vị trí | Where can I find the link? — Tôi tìm link ở đâu? | *link* → *schedule/file*. |
+| Giá/số lượng | How much does it cost? — Nó giá bao nhiêu? | *How many* + danh từ đếm được số nhiều. |
+| Lựa chọn | Which one do you prefer? — Bạn thích cái nào hơn? | Khi các lựa chọn đã rõ. |
+| Làm rõ | What do you mean by “urgent”? — “Gấp” ở đây là sao? | Hỏi nghĩa, không phải xin nhắc âm. |
+
+### Good to Know / Special Cases
+
+*Who called you?* hỏi **chủ ngữ** nên không cần *did*; *Who did you call?* hỏi **tân ngữ** nên cần *did*. Câu hỏi gián tiếp giữ trật tự câu kể: “Do you know where the room is?” (Bạn biết phòng ở đâu không?), không phải “where is the room” sau *do you know*. *Could you tell me...?* có thể mềm hơn câu hỏi trực tiếp nhưng không bắt buộc trong mọi bối cảnh. Khi nghe không rõ, hỏi “Could you say that again?”; khi đã nghe rõ nhưng chưa hiểu, hỏi “Could you explain what you mean?”.
+
+**Tự tạo câu:** Từ “The meeting starts at nine in Room 3”, tạo câu hỏi về giờ, phòng và người tham gia. Sau đó đổi một câu thành gián tiếp bắt đầu “Do you know...?”.
+
 ## Anki Review
 
 Mở subdeck `Everyday English::Asking Questions`. Lọc [CSV giao tiếp](../../source/everyday-english/notes.csv) theo `field:Topic` = `Asking Questions` hoặc khóa `everyday.asking-questions.01`–`.08` (**8 cards**).

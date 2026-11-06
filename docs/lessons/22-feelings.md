@@ -61,6 +61,24 @@ Cảm xúc thường ghép theo **I feel/am + adjective**, rồi thêm **about +
 
 **Đáp án tham khảo:** 1. “I'm excited to meet the new team.” *Excited to + verb*. 2. “It's frustrating when the meeting keeps getting moved.” Câu tập trung vào việc lặp lại; cách ngắn hơn: “I'm frustrated that the meeting keeps moving.”
 
+## Từ cảm xúc và giới từ đi kèm
+
+### Must Know
+
+| Cụm | Ví dụ / nghĩa | Ghi chú |
+|---|---|---|
+| tired of / tired from | I'm tired of waiting. — Tôi chán phải đợi. / I'm tired from work. — Tôi mệt vì làm việc. | *Of* có thể là chán ngán; *from* nêu nguyên nhân mệt. |
+| worried about | I'm worried about the deadline. — Tôi lo về hạn chót. | Nêu đối tượng lo. |
+| excited about / to V | I'm excited about the trip. — Tôi hào hứng về chuyến đi. | *About* + danh từ; *to* + V. |
+| glad that | I'm glad you came. — Tôi vui vì bạn đã đến. | Có thể bỏ *that*. |
+| look forward to + V-ing | I'm looking forward to seeing you. — Tôi mong gặp bạn. | *To* là giới từ. |
+
+### Good to Know / Special Cases
+
+*I feel bad* có thể là cảm thấy tệ hoặc áy náy tùy ngữ cảnh; *I feel sick* rõ hơn khi nói buồn nôn/ốm. *I'm frustrated* nói trạng thái của người, *It's frustrating* nói tình huống gây bực. *Nervous* thường là lo/hồi hộp trước việc sắp tới; *worried* rộng hơn, tập trung điều lo. “That made my day” là cảm xúc tích cực mạnh về một điều nhỏ; nếu chỉ muốn cảm ơn bình thường, “Thanks, I appreciate it” vừa đủ.
+
+**Tự tạo câu:** Chọn một cảm xúc thật, nêu đối tượng rồi lý do bằng một câu ngắn. Mẫu: “I'm a bit nervous about the interview because it's my first one.” Đổi sang phủ định hoặc quá khứ: “I wasn't nervous yesterday.”
+
 ## Anki Review
 
 Mở subdeck `Everyday English::Feelings`. Lọc [CSV giao tiếp](../../source/everyday-english/notes.csv) theo `field:Topic` = `Feelings` hoặc khóa `everyday.feelings.01`–`.08` (**8 cards**).

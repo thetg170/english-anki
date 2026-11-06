@@ -64,6 +64,29 @@ Giới từ tạo quan hệ giữa sự việc và **mốc thời gian/địa đ
 
 **Đáp án tham khảo:** 1. “Let's meet at the café on Monday at eight.” *At* cho nơi gặp/giờ; *on* cho thứ. 2. “I'll wait until the meeting ends.” *Until* nối tới mốc kết thúc.
 
+## Tra cứu cụm giới từ thường dùng
+
+### Must Know: học cả cụm, không dịch từng giới từ
+
+| Cụm | Ví dụ / nghĩa | Ghi chú |
+|---|---|---|
+| listen to | Please listen to this. — Hãy nghe cái này. | Có *to* trước vật được nghe. |
+| wait for | I'm waiting for Mai. — Tôi đang đợi Mai. | *Wait until* + mốc/mệnh đề. |
+| depend on | It depends on the weather. — Còn tùy thời tiết. | *Depend of* không chuẩn trong nghĩa này. |
+| interested in | I'm interested in learning. — Tôi quan tâm đến việc học. | Sau giới từ dùng V-ing. |
+| good at / afraid of | She's good at explaining. — Cô ấy giỏi giải thích. | Tính từ có giới từ đi kèm. |
+| reason for / solution to | What's the reason for the delay? — Vì sao trễ? We found a solution to the problem. — Chúng tôi tìm ra cách giải quyết vấn đề. | Danh từ có giới từ riêng. |
+
+### Good to Know: phrasal verbs hữu ích
+
+*Pick up* = ghé lấy/mua hoặc đón: “I'll pick up some groceries” (Tôi ghé mua đồ). *Look for* = tìm kiếm: “I'm looking for my keys” (Tôi đang tìm chìa khóa). *Get back to someone* = phản hồi lại: “I'll get back to you tomorrow” (Mai tôi sẽ phản hồi). *Turn down* = giảm âm lượng hoặc từ chối lời mời tùy tân ngữ: “Turn down the music” (giảm nhạc), “turn down an offer” (từ chối đề nghị). Với một số phrasal verb tách được, đại từ ở giữa: “Turn **it** down”, không phải “Turn down it”. Không suy ra mọi cụm động từ đều tách được: “Look for it”, không phải “Look it for”.
+
+### Special Cases
+
+*At the weekend* thường gặp trong Anh-Anh, *on the weekend* thường gặp trong Anh-Mỹ; cả hai cần hiểu. *On a bus/train* nhưng thường *in a car/taxi*. *By Friday* = chậm nhất thứ Sáu; *until Friday* = tiếp tục đến thứ Sáu. Học khác biệt nghĩa trước khi nhớ danh sách ngoại lệ.
+
+**Tự tạo câu:** Mô tả đường đi và hạn chót thật của bạn, rồi dùng hai cụm động từ: “I'll pick up the file on my way home and get back to you by Friday.” Dịch lại ý sang tiếng Việt để xem *pick up* và *by* có đúng ý định không.
+
 ## Anki Review
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Prepositions` hoặc prefix `prepositions.` (**37 cards**).

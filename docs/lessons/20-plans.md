@@ -61,6 +61,24 @@ Khi nói kế hoạch, người nghe thường cần biết **việc gì, mức 
 
 **Đáp án tham khảo:** 1. “Do you want to get lunch on Friday? I'm free after twelve.” 2. “I'm thinking of going out this weekend.” *Thinking of + V-ing* diễn tả cân nhắc; “I might go out” cũng đúng nhưng chỉ nêu khả năng.
 
+## Cụm lập kế hoạch thường dùng
+
+### Must Know
+
+| Ý | Mẫu / nghĩa | Mức cam kết |
+|---|---|---|
+| Đang cân nhắc | I'm thinking of going out. — Tôi đang nghĩ đến việc ra ngoài. | Chưa chốt. |
+| Có thể | I might stay in. — Có thể tôi ở nhà. | Không chắc. |
+| Dự định | I'm going to cook tonight. — Tôi định nấu tối nay. | Đã có ý định. |
+| Lịch đã hẹn | I'm meeting Mai at six. — Tôi hẹn Mai lúc sáu giờ. | Đã sắp xếp. |
+| Hứa báo | I'll let you know tomorrow. — Mai tôi sẽ báo. | Có trách nhiệm phản hồi. |
+
+### Good to Know / Special Cases
+
+*Free after six* = rảnh từ sau sáu giờ, *free until six* = rảnh **trước** sáu giờ; hai cụm dễ đảo nghĩa. “Let's meet on Friday” là đề xuất; “Are we still on for Friday?” là kiểm tra lịch hẹn còn hiệu lực (Chúng ta vẫn hẹn thứ Sáu chứ?). “I may be able to make it” = có thể tham gia được, lịch sự khi chưa chắc; “I can't make it” = không đến/tham gia được. Nếu đổi lịch, đưa phương án mới: “Can we move it to Thursday?” (Dời sang thứ Năm được không?).
+
+**Tự tạo câu:** Lập một kế hoạch thật với ba mức: đang cân nhắc, đã định, đã hẹn. Thêm một câu nếu phải đổi giờ. Không dùng “I'm meeting...” cho việc bạn chưa bàn với người kia.
+
 ## Anki Review
 
 Mở subdeck `Everyday English::Plans`. Lọc [CSV giao tiếp](../../source/everyday-english/notes.csv) theo `field:Topic` = `Plans` hoặc khóa `everyday.plans.01`–`.08` (**8 cards**).

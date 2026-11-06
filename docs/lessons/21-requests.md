@@ -61,6 +61,23 @@ Một lời nhờ dễ nhận lời khi người nghe hiểu **cần làm gì** 
 
 **Đáp án tham khảo:** 1. “Could you take a look at this email before I send it?” 2. “Is it okay if I use this outlet?” hoặc “Do you mind if I use this outlet?”. Cả hai là xin phép mình làm.
 
+## Mẫu nhờ và xin phép cần phân biệt
+
+### Must Know
+
+| Mục đích | Mẫu / nghĩa | Ai làm việc? |
+|---|---|---|
+| Nhờ | Could you send me the link? — Bạn gửi tôi link được không? | Người nghe. |
+| Xin phép | Is it okay if I sit here? — Tôi ngồi đây được không? | Người nói. |
+| Nhờ báo | Let me know when you're free. — Báo tôi khi bạn rảnh. | Người nghe báo. |
+| Đề nghị cùng làm | Can we talk for a minute? — Ta nói chuyện một phút được không? | Cả hai. |
+
+### Good to Know / Special Cases
+
+*Would you mind + V-ing?* nhờ người kia làm: “Would you mind closing the window?” (Bạn đóng cửa sổ giúp được không?). *Do you mind if I + V?* xin phép **mình** làm. Với câu hỏi *mind*, “No, not at all” thường nghĩa là **đồng ý**, dễ gây nhầm; nếu muốn rõ, đáp “Sure, go ahead” hoặc “Sorry, I'd rather you didn't”. *Could you please...?* mềm hơn nhưng nếu xếp quá nhiều từ lịch sự và yêu cầu dài có thể nghe nặng nề; nói việc chính rõ ràng. *Can you give me a hand?* = giúp một tay, không phải xin bàn tay theo nghĩa đen.
+
+**Tự tạo câu:** Viết cùng một tình huống “cửa sổ đang mở” thành (1) nhờ người kia đóng, (2) xin phép mình đóng, (3) hỏi có cần đóng không. Mẫu: “Could you close the window?” / “Is it okay if I close the window?” / “Should we close the window?”.
+
 ## Anki Review
 
 Mở subdeck `Everyday English::Requests`. Lọc [CSV giao tiếp](../../source/everyday-english/notes.csv) theo `field:Topic` = `Requests` hoặc khóa `everyday.requests.01`–`.08` (**8 cards**).

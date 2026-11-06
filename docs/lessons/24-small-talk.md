@@ -62,6 +62,22 @@ Small talk không cần “nói cho nhiều”. Một vòng đủ là **hỏi m�
 
 **Đáp án tham khảo:** 1. “That sounds nice. Where do they live?” Phản hồi rồi hỏi một chi tiết liên quan. 2. “What brings you here?” — nếu họ nói “A friend invited me”, hỏi “Oh, who invited you?”. Có nhiều đáp án đúng nếu phù hợp bối cảnh và tự nhiên.
 
+## Câu hỏi nối tiếp theo câu trả lời
+
+### Must Know
+
+| Người kia nói | Phản hồi + hỏi tiếp | Nghĩa |
+|---|---|---|
+| I went hiking. | That sounds fun. Where did you go? | Nghe vui đấy. Bạn đi đâu? |
+| I tried a new café. | Nice! Would you go back? | Hay đấy! Bạn có muốn quay lại không? |
+| I've been busy. | I can imagine. What have you been working on? | Tôi hiểu. Dạo này bạn làm gì? |
+
+### Good to Know / Special Cases
+
+*How was your weekend?* hỏi cuối tuần đã qua; *Any plans for the weekend?* hỏi cuối tuần sắp tới. *Have you been here before?* hỏi kinh nghiệm đến nay; sau khi người kia trả lời, *When did you come?* hỏi lần cụ thể. *What have you been up to?* thân mật với người quen; với người mới ở sự kiện, hỏi hoàn cảnh chung như “What brings you here?” thường dễ hơn. Không phải câu hỏi nào cũng cần hỏi tiếp: nếu người kia đáp rất ngắn hoặc có vẻ muốn kết thúc, đổi chủ đề nhẹ nhàng hoặc dừng.
+
+**Tự tạo câu:** Viết ba câu trả lời giả định của người khác (“I went home”, “I saw a film”, “I've been busy”). Với mỗi câu, tạo **một** phản hồi ngắn và **một** câu hỏi tiếp thật sự dựa vào thông tin vừa nghe; đọc thành tiếng như một hội thoại.
+
 ## Anki Review
 
 Mở subdeck `Everyday English::Small Talk`. Lọc [CSV giao tiếp](../../source/everyday-english/notes.csv) theo `field:Topic` = `Small Talk` hoặc khóa `everyday.small-talk.01`–`.08` (**8 cards**).

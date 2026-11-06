@@ -60,6 +60,24 @@ Nói được việc thường làm, việc đang xảy ra và một thay đổi
 
 **Đáp án tham khảo:** 1. “I usually have lunch at twelve, but I'm eating late today.” *Usually* đi với thói quen; *today* ở đây chỉ ngoại lệ đang diễn ra. 2. “Are you working on the report right now?” Đưa *are* lên trước chủ ngữ. Có thể dùng cách diễn đạt tự nhiên khác.
 
+## Tra cứu và mở rộng
+
+### Must Know
+
+| Dấu hiệu và ý | Ví dụ tự nhiên | Nghĩa |
+|---|---|---|
+| usually/often/sometimes + hiện tại đơn: thói quen | I usually take the bus. | Tôi thường đi xe buýt. |
+| now/at the moment + tiếp diễn: đang xảy ra | She's talking to a client right now. | Cô ấy đang nói chuyện với khách hàng. |
+| this week/these days + tiếp diễn: giai đoạn tạm thời | I'm working late this week. | Tuần này tôi đang làm muộn. |
+
+Trạng từ tần suất thường đứng **trước động từ thường** (*I often cook*) nhưng **sau be** (*She is often late*). Câu hỏi với động từ thường cần *do/does*; câu với *be* chỉ đảo *be*.
+
+### Good to Know / Special Cases
+
+*Know, believe, want, need, belong, own* thường diễn tả trạng thái nên hay dùng hiện tại đơn: “I know the answer” (Tôi biết đáp án). Nhưng nhiều động từ đổi nghĩa theo ngữ cảnh: “I think you're right” (tôi cho rằng) so với “I'm thinking about the offer” (tôi đang cân nhắc). “I have a car” là sở hữu; “I'm having lunch” là đang ăn trưa. *Used to + V* thuộc thói quen **đã chấm dứt**, xem [bài 02](02-past-simple.md); đừng dùng nó để nói thói quen hiện nay.
+
+**Tự tạo câu:** Viết một thói quen của bạn với *usually*, rồi một ngoại lệ của tuần này với *this week*. Đổi cả hai sang chủ ngữ *she* và thành câu hỏi. Mẫu: “I usually cook at home, but I'm eating out this week.” → “Does she usually cook at home?”
+
 ## Anki Review
 
 Trong [CSV ngữ pháp](../../source/english-grammar/notes.csv), lọc `field:Unit` = `Present Simple &amp; Present Continuous` hoặc `field:Key` bắt đầu `present_simple_continuous.` (**73 cards**). Thẻ luyện chuyển đổi bổ sung: `pilot.transform.01` trong [CSV pilot](../../source/pilot/notes.csv), hiện không thuộc deck đang học.

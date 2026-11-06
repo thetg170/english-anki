@@ -59,6 +59,22 @@ Tính từ thường mô tả danh từ hoặc chủ ngữ sau *be, look, feel, 
 
 **Đáp án tham khảo:** 1. “He's a careful driver. He drives very carefully.” Tính từ trước danh từ; trạng từ sau động từ. 2. “I'm excited about an exciting project.” *Excited* là cảm giác của bạn; *exciting* là đặc tính dự án.
 
+## Tra cứu và mở rộng
+
+### Must Know
+
+| Cặp / cấu trúc | Ví dụ / nghĩa | Dùng khi nào |
+|---|---|---|
+| good ↔ well | She's a good speaker. She speaks well. — Cô ấy nói hay. | *Good* tả người/vật; *well* thường tả cách làm. |
+| -ed ↔ -ing | I'm bored. The talk is boring. — Tôi chán; buổi nói chuyện gây chán. | Người cảm nhận ↔ thứ gây cảm giác. |
+| look/feel/sound + adjective | That sounds great. — Nghe hay đấy. | Linking verb nối chủ ngữ với đặc điểm. |
+
+### Good to Know / Special Cases
+
+Các cặp nhìn giống nhau nhưng khác nghĩa: *hard* = chăm chỉ/khó, *hardly* = hầu như không; *late* = muộn, *lately* = dạo gần đây; *near* = gần, *nearly* = gần như. “I work hard” (Tôi làm việc chăm chỉ) khác hẳn “I hardly work” (Tôi hầu như không làm việc). *Fast* vừa là tính từ vừa là trạng từ: “a fast train” / “It moves fast”; không dùng *fastly*. Một số tính từ gắn với giới từ: *interested in* (quan tâm đến), *good at* (giỏi), *afraid of* (sợ), *ready for* (sẵn sàng cho): “I'm ready for the meeting” (Tôi sẵn sàng cho buổi họp). Học cả cụm, vì không thể luôn dịch giới từ từ tiếng Việt.
+
+**Tự tạo câu:** Dùng một người và một hoạt động để nói (1) đặc điểm, (2) cách làm, (3) cảm nhận. Mẫu: “Mai is a careful driver. She drives carefully. I feel safe with her.”
+
 ## Anki Review
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Adjectives &amp; Adverbs` hoặc prefix `adjectives_adverbs.` (**36 cards**).

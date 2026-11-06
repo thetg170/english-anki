@@ -60,6 +60,48 @@ Ghép hai hành động trong một câu bằng *V-ing* hoặc *to V*, nói mụ
 
 **Đáp án tham khảo:** 1. “I'm thinking of learning a new language.” Sau *of* dùng *V-ing*. 2. Câu đầu: đã bỏ hút thuốc; câu sau: dừng việc khác để hút thuốc.
 
+## Tra cứu Verb Patterns
+
+Các bảng dưới đây là **cụm thường dùng**, không phải luật cho mọi nghĩa của từ. Học cả ví dụ và ý định nói. [Cambridge Grammar](https://dictionary.cambridge.org/grammar/british-grammar/verb-patterns-verb-infinitive-or-verb-ing) phân biệt rõ những động từ đổi nghĩa theo cấu trúc.
+
+### Must Know: chọn dạng sau động từ
+
+| Verb / nhóm | Pattern | Example | Nghĩa |
+|---|---|---|---|
+| want, hope, plan | verb + to V | I hope to see you soon. | Tôi hy vọng sớm gặp bạn. |
+| decide, agree, promise | verb + to V | She decided to stay. | Cô ấy quyết định ở lại. |
+| refuse, manage, offer | verb + to V | He refused to sign it. | Anh ấy từ chối ký. |
+| enjoy, avoid, finish | verb + V-ing | I enjoy reading at night. | Tôi thích đọc buổi tối. |
+| suggest, consider, mind | verb + V-ing | We considered leaving early. | Chúng tôi cân nhắc về sớm. |
+| want/ask/tell + người | verb + object + to V | I asked her to wait. | Tôi nhờ cô ấy đợi. |
+| let/make + người | verb + object + V (không *to*) | Let me explain. | Để tôi giải thích. |
+
+*Help + object + (to) V* có cả hai cách: “She helped me (to) move” (Cô ấy giúp tôi chuyển đồ). Sau giới từ dùng *V-ing*: *interested in learning* (quan tâm đến việc học), *good at explaining* (giỏi giải thích), *look forward to seeing you* (mong được gặp bạn). Chữ *to* cuối cùng là **giới từ**, không phải dấu của *to-infinitive*.
+
+### Good to Know: nhiều cách dùng
+
+| Nhóm | Ví dụ / nghĩa | Ghi chú |
+|---|---|---|
+| like/love/prefer | I like reading / I like to read before bed. — Tôi thích đọc trước giờ ngủ. | Cả hai thường được; sắc thái có thể đổi theo ngữ cảnh. |
+| start/begin/continue | It started raining / to rain. — Trời bắt đầu mưa. | Thường ít khác nghĩa, nhưng không hoán đổi trong mọi câu. |
+| see/hear/watch + object | I saw her cross the street. — Tôi thấy cô ấy băng qua đường; I saw her crossing it. — Tôi thấy cô ấy đang băng qua. | V nguyên thể nhìn sự việc như toàn bộ; V-ing nhấn quá trình. |
+
+### Special Cases: đổi dạng, đổi nghĩa
+
+| Cặp | Khác biệt và ví dụ |
+|---|---|
+| remember/forget to V ↔ V-ing | “Remember to call her” = nhớ **để gọi**; “I remember calling her” = nhớ **đã gọi**. *Forget* tương tự. |
+| stop to V ↔ V-ing | “We stopped to buy water” = dừng việc khác **để mua**; “We stopped buying water” = ngừng mua nước. |
+| try to V ↔ V-ing | “I tried to open it” = cố mở; “Try restarting it” = thử cách khởi động lại. |
+| regret to V ↔ V-ing | “I regret to say...” = tiếc phải thông báo; “I regret saying that” = hối tiếc vì đã nói. |
+| mean to V ↔ V-ing | “I meant to call” = tôi định gọi; “This means working late” = điều này đồng nghĩa làm muộn. |
+
+Ở bị động, *make* thường lấy lại *to*: “They made us wait” → “We were made **to wait**”. *Have someone do something* thường là sắp xếp/nhờ người làm, nhưng *have something done* là nhờ/thuê người làm cho mình: “I had my phone repaired” (Tôi mang điện thoại đi sửa). Đây không phải mẫu dùng thay cho mọi câu bị động.
+
+*Would like/love/prefer + to V* thường là cách nói một mong muốn cụ thể: “I'd like to leave now” (Giờ tôi muốn đi). Đừng suy từ *I like reading* thành “I'd like reading now”. *Need + to V* nói người/vật cần làm việc gì: “I need to wash the car”; trong Anh-Anh, “The car needs washing” có nghĩa xe cần **được rửa**, không phải xe tự đi rửa. Dạng bị động “The car needs to be washed” rõ nghĩa ở nhiều biến thể tiếng Anh.
+
+**Tự tạo câu:** Chọn một việc như *call Mai*. Nói (1) ý định “I plan to call Mai”, (2) lời nhờ “I asked Nam to call Mai”, (3) việc đã làm và nhớ lại “I remember calling Mai”. Sau đó đổi sang *stop* hoặc *try* để tự giải thích sự đổi nghĩa.
+
 ## Anki Review
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Gerund &amp; Infinitive (V-ing / to V)` hoặc prefix `verb_patterns.` (**41 cards**). [CSV pilot](../../source/pilot/notes.csv) có `pilot.error.01` và `pilot.error.02`.

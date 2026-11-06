@@ -61,6 +61,24 @@ Hãy nhìn **vai trò** trong câu. Người làm hành động dùng *I/he/she/
 
 **Đáp án tham khảo:** 1. “She sent it to me.” Chủ ngữ *she*, vật *it*. 2. “This isn't my seat. Mine is over there.” *My* cần danh từ; *mine* đứng một mình.
 
+## Tra cứu và mở rộng
+
+### Must Know: một người, nhiều vai trò
+
+| Vai trò | I | she | they | Ví dụ / nghĩa |
+|---|---|---|---|---|
+| Chủ ngữ | I | she | they | She called me. — Cô ấy gọi tôi. |
+| Tân ngữ | me | her | them | I called her. — Tôi gọi cô ấy. |
+| Sở hữu + danh từ | my | her | their | Their car is outside. — Xe của họ ở ngoài. |
+| Sở hữu đứng một mình | mine | hers | theirs | That car is theirs. — Xe đó là của họ. |
+| Phản thân | myself | herself | themselves | She did it herself. — Cô ấy tự làm. |
+
+### Good to Know / Special Cases
+
+*It* thường thay đồ vật/ý đã biết; *they* có thể thay danh từ số nhiều và cũng dùng số ít khi không biết/không muốn nêu giới tính: “Someone left their bag” (Ai đó để quên túi). *Each other* nói hai hay nhiều người tác động qua lại: “We helped each other” (Chúng tôi giúp nhau), khác “We helped ourselves” (chúng tôi tự giúp bản thân). *One/ones* tránh lặp danh từ: “I like the blue one” (Tôi thích cái màu xanh). Đừng dùng *myself* thay *me* chỉ để nghe lịch sự: “Please call me”, không phải “Please call myself”.
+
+**Tự tạo câu:** Lấy “Mai sent Nam her file.” Thay từng phần bằng đại từ khi người nghe đã biết: “She sent him her file” → “She sent it to him.” Giải thích *she, him, her, it* đang giữ vai trò nào.
+
 ## Anki Review
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Pronouns` hoặc prefix `pronouns.` (**27 cards**).
