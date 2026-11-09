@@ -9,7 +9,7 @@ import shutil
 from collections import Counter
 from pathlib import Path
 
-from cards import META, validate, write_table
+from cards import META, read_table, validate, write_table
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / 'source/everyday-english/pdf-source.csv'
@@ -57,8 +57,12 @@ def check(source, drills):
     return errors
 
 
-def stage(day, out, source, drills):
-    if out.exists() or out.with_suffix('.schema.json').exists():
+def stage(day, out, source, drills, extend=False):
+    sidecar = out.with_suffix('.schema.json')
+    if extend:
+        if not out.exists() or not sidecar.exists():
+            raise ValueError('--extend requires an existing staged CSV and schema')
+    elif out.exists() or sidecar.exists():
         raise ValueError('Refusing to overwrite a staged or imported CSV')
     schema = json.loads(SCHEMA.read_text())
     by_id = {row['source_id']: row for row in source}
@@ -97,9 +101,34 @@ def stage(day, out, source, drills):
     errors = validate(headers, staged, schema)
     if errors:
         raise ValueError('\n'.join(errors))
-    write_table(out, headers, staged)
-    shutil.copyfile(SCHEMA, out.with_suffix('.schema.json'))
-    print(f'STAGED day {day:02}: {len(staged)} cards at {out}')
+    added = len(staged)
+    if extend:
+        if json.loads(sidecar.read_text()) != schema:
+            raise ValueError('Existing schema differs from current PDF note type')
+        old_headers, old_rows = read_table(out)
+        if old_headers != headers:
+            raise ValueError('Existing CSV header differs from current PDF note type')
+        old_by_key = {row['field:Key']: row for row in old_rows}
+        if len(old_by_key) != len(old_rows):
+            raise ValueError('Duplicate keys in existing CSV')
+        new_by_key = {row['field:Key']: row for row in staged}
+        for key, old in old_by_key.items():
+            if key not in new_by_key:
+                raise ValueError(f'Existing card {key} is absent from the reviewed source')
+            fresh = new_by_key[key]
+            if any(old[name] != fresh[name] for name in headers if name not in ('_id', '_guid', '_base_hash')):
+                raise ValueError(f'Existing card {key} changed; edit its CSV and use normal sync')
+        added = len(staged) - len(old_rows)
+        staged = [old_by_key.get(row['field:Key'], row) for row in staged]
+        errors = validate(headers, staged, schema)
+        if errors:
+            raise ValueError('\n'.join(errors))
+    temp = out.with_name(out.name + '.tmp')
+    write_table(temp, headers, staged)
+    temp.replace(out)
+    if not extend:
+        shutil.copyfile(SCHEMA, sidecar)
+    print(f'STAGED day {day:02}: {len(staged)} cards ({added} new) at {out}')
 
 
 def main():
@@ -107,6 +136,7 @@ def main():
     parser.add_argument('command', choices=['audit', 'stage'])
     parser.add_argument('--day', type=int)
     parser.add_argument('--out', type=Path)
+    parser.add_argument('--extend', action='store_true', help='Append reviewed cards while preserving imported IDs and hashes')
     args = parser.parse_args()
     source, drills = read(SOURCE), read(DRILLS)
     errors = check(source, drills)
@@ -122,7 +152,7 @@ def main():
     else:
         if not args.day or not 1 <= args.day <= 50 or not args.out:
             parser.error('stage requires --day 1..50 and --out PATH')
-        stage(args.day, args.out, source, drills)
+        stage(args.day, args.out, source, drills, args.extend)
 
 
 if __name__ == '__main__':
