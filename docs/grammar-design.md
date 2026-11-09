@@ -1,6 +1,6 @@
 # `English Grammar`: design analysis
 
-This describes the actual deck observed on 2026-11-04. Its exact name remains `English Grammar`; the requested spelling `English Gramar` was not present. The original is preserved in a complete collection backup, an importable package, and local source JSONL. No live note or note type was edited.
+This describes the deck observed on 2026-11-04. Its exact name remains `English Grammar`; the requested spelling `English Gramar` was not present. The original is preserved in a complete collection backup, an importable package, and local source JSONL. No live note or note type was edited during that initial audit. On 2026-11-09, 65 note prompts and matching answers were clarified in the live deck at the learner's request; the note type and template were unchanged.
 
 ## Structure
 
@@ -10,7 +10,7 @@ This describes the actual deck observed on 2026-11-04. Its exact name remains `E
 - CSS (4,754 characters) distinguishes prompt modes, answer, explanation, and self-check; it supports dark mode. The template has no JavaScript or literal local media reference. TTS requests Apple Samantha voices where available, so the listening experience can vary by device.
 - `Say` is filled on 580 cards. The note with no `Say` does not break the template because `{{#Say}}` gates the answer audio.
 
-The original template, CSS, raw field HTML, note IDs, and GUIDs are tracked in `source/english-grammar/`. The original complete collection backup is authoritative for due dates, card IDs, and review history.
+The template, CSS, current field HTML, note IDs, and GUIDs are tracked in `source/english-grammar/`. The original complete collection backup is authoritative for the 2026-11-04 state. The backup immediately before the 2026-11-09 clarification is in `private/backups/2026-11-09-grammar-prompt-clarity/`.
 
 ## What makes it effective
 
@@ -40,4 +40,4 @@ These are task properties, not measured learner behavior. “Say it aloud” on 
 4. Keep explanations brief and concrete, as the existing deck does.
 5. Use real errors for new repair cards when available; the pilot's example repairs are only starter material.
 
-The original templates and scheduling are unchanged. Any revision of `English Grammar` should be made on a copy or proposed separately after comparing performance on unseen speaking tasks.
+The 2026-11-09 clarification changed note text only. Card scheduling and review history were verified identical to the pre-change backup; all 581 notes retained their IDs, and a repeat diff reported 581 SKIP.
