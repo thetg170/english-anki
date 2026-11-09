@@ -4,11 +4,31 @@
 
 [Báo cáo rà soát nội dung ngữ pháp](docs/GRAMMAR_AUDIT.md) tóm tắt phần kiến thức bổ sung và các chủ đề có thể mở rộng sau này.
 
-**Current Anki state (2026-11-06):** `English Grammar` (581 cards), `DE Knowledge` (322), `Everyday English` (72), and `English Essentials – Daily Reflex` (135) are in the live collection. Anki also retains an empty `Default` deck. The removed decks are recoverable from `private/backups/2026-11-04-pre-cleanup-v2/`; the full snapshot immediately before the daily reflex import is at `private/backups/2026-11-06-before-daily-reflex-import/`. See the [cleanup report](reports/cleanup-2026-11-04.md). The older Speaking Pilot remains source/package only.
+**Current Anki state (2026-11-09):** `English Grammar` (581 cards), `DE Knowledge` (322), `Everyday English` (80), and `English Essentials – Daily Reflex` (135) are in the live collection. Anki also retains an empty `Default` deck. The removed decks are recoverable from `private/backups/2026-11-04-pre-cleanup-v2/`; the snapshot immediately before the PDF day 1 import is at `private/backups/2026-11-09-before-pdf-day-01/`. See the [cleanup report](reports/cleanup-2026-11-04.md). The older Speaking Pilot remains source/package only.
 
-**New English trial:** [Everyday English](docs/everyday-english.md) has 72 short sentence cards in [CSV](source/everyday-english/notes.csv), grouped into nine visible topic subdecks with eight cards each. It was imported into the live profile after explicit approval. Its dedicated `Everyday English - No Daily Cap` preset sets new and review limits to 9,999/day so the learner can choose the pace. The two existing deck presets were not changed.
+**New English trial:** [Everyday English](docs/everyday-english.md) has 72 original short sentence cards in [CSV](source/everyday-english/notes.csv), grouped into nine visible topic subdecks with eight cards each. Its dedicated `Everyday English - No Daily Cap` preset sets new and review limits to 9,999/day so the learner can choose the pace. The two existing deck presets were not changed. Eight PDF-based day 1 cards were subsequently added to the same deck.
 
 **Daily reflex:** `English Essentials – Daily Reflex` has 135 [CSV cards](source/daily-reflex/notes.csv) in one deck, grouped by nine `topic::*` tags. Look at the prompt, **say the answer aloud before flipping**, then check the preferred American reading and any alternate or British usage note. Its note type uses Anki's `en_US` text-to-speech on the answer; no audio files or Markdown lessons are needed. To check future edits, run `validate` and `diff` with `source/daily-reflex/notes.csv`, then `sync --apply --backup-dir` using the same workflow below. CSV stores note content only; preserve collection backups for scheduling and review history. The first import produced 135 ADD and a repeat diff produced 135 SKIP.
+
+### PDF “1000 câu – 50 ngày” → Everyday English
+
+The [source index](source/everyday-english/pdf-source.csv) maps all 1,000 sentences to day 01–50, sentence number, original topic and PDF page. It retains raw OCR beside corrected text, flags 49 OCR fixes and 172 close substitutions within a day, and marks 102 sentence candidates. **Only day 1 was visually checked**; the other 49 days remain `ocr_needs_review`, so their candidates are not importable yet. The PDF itself is not committed. Source file SHA-256: `162cfa65269e092735512a6044932c20754177183fa3c7a44ababe301977e31b`.
+
+The [day 1 CSV](source/everyday-english/pdf-day-01.csv) is the active batch: five Level 1 source sentences and three Level 2 [guided substitutions](source/everyday-english/pdf-guided.csv). The new note type keeps the back short and tags notes `day_01`, `level_1`/`level_2`, and `origin_pdf`/`origin_editorial_drill`. Its stable `Key`, Anki IDs and hashes make repeat sync idempotent. The other 995 PDF sentences are **not active cards**. Level 3 has one planned, inactive guided example.
+
+Start with roughly **5–10 new cards per day**, including any existing Everyday English cards. Reduce new cards when reviews pile up. Say the sentence before flipping; for Level 2, use the given replacement phrase. Review old days normally. Open a later day only after checking its English/Vietnamese against that PDF page, filling `card_pattern` for chosen sentences, and changing their `review_status` to `visual_checked` and `selection` to `ready` in the source index. Then stage and preview only that day:
+
+```sh
+.venv/bin/python tools/pdf_daily.py audit
+.venv/bin/python tools/pdf_daily.py stage --day 2 --out source/everyday-english/pdf-day-02.csv
+.venv/bin/python tools/cards.py validate --csv source/everyday-english/pdf-day-02.csv
+.venv/bin/python tools/cards.py diff --connect \
+  --profile "$HOME/Library/Application Support/Anki2/User 1" \
+  --csv source/everyday-english/pdf-day-02.csv
+# After reviewing the diff, use sync --apply with a new empty --backup-dir.
+```
+
+The stage command refuses to overwrite an imported CSV or stage unreviewed content. Future staged CSVs use the existing `tools/cards.py` dry-run, backup and sync workflow. Keep the PDF as reference; OCR text is not a replacement for the page image.
 
 This repository stores a **local, restorable snapshot** of the English learning system and a small speaking pilot. The collection inspected on **2026-11-04 (Asia/Ho_Chi_Minh)** contains a deck named **`English Grammar`**. The requested spelling `English Gramar` was not present; no deck was renamed.
 
