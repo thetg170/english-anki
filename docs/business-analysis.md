@@ -1,6 +1,6 @@
 # Business Analysis: học để xử lý công việc
 
-Deck [Business Analysis](../source/business-analysis/notes.csv) có 108 thẻ trong một deck, phân theo nhãn chủ đề, loại thẻ và độ khó. Mỗi thẻ yêu cầu tự trả lời trước khi lật; mặt sau có đáp án ngắn. Phần định nghĩa hoặc giải thích thêm được gấp lại và chỉ mở khi cần. Không có TTS hoặc media.
+Deck [Business Analysis](../source/business-analysis/notes.csv) có 108 thẻ trong một deck, phân theo nhãn chủ đề, loại thẻ và độ khó. Mỗi thẻ yêu cầu tự trả lời trước khi lật; mặt sau có đáp án ngắn. Phần định nghĩa hoặc giải thích thêm được gấp lại và chỉ mở khi cần. Những thuật ngữ như API, BPMN, UML, BRD, SRS, SQL và UAT có định nghĩa ngắn ngay trong phần này ở các thẻ liên quan. Không có TTS hoặc media.
 
 ## Lộ trình
 
