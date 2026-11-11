@@ -1,6 +1,6 @@
 # 03. Nói về dự định, lịch hẹn và quyết định
 
-**Học trước:** [Hiện tại đơn/tiếp diễn](01-present-simple-continuous.md). **Học tiếp:** [Plans](20-plans.md).
+**Học trước:** [Hiện tại đơn/tiếp diễn](01-present-simple-continuous.md). **Học tiếp:** [Nối hai ý](16-connecting-ideas.md).
 
 ## Learning Objectives
 

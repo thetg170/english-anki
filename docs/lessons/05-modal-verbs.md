@@ -1,6 +1,6 @@
 # 05. Khả năng, lời khuyên và mức độ cần thiết
 
-**Học trước:** [Câu cơ bản](01-present-simple-continuous.md). **Học tiếp:** [Requests](21-requests.md).
+**Học trước:** [Câu cơ bản](01-present-simple-continuous.md). **Học tiếp:** [Nối hai ý](16-connecting-ideas.md).
 
 ## Learning Objectives
 

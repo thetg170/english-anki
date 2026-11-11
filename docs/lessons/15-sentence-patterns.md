@@ -1,6 +1,6 @@
 # 15. Dựng câu với There, It, câu hỏi và cảm thán
 
-**Học trước:** [Câu cơ bản](01-present-simple-continuous.md), [đại từ](08-pronouns.md). **Học tiếp:** [Asking Questions](18-asking-questions.md).
+**Học trước:** [Câu cơ bản](01-present-simple-continuous.md), [đại từ](08-pronouns.md). **Học tiếp:** [Nối hai ý](16-connecting-ideas.md).
 
 ## Learning Objectives
 

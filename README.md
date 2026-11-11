@@ -2,7 +2,9 @@
 
 **Business Analysis (11/11/2026):** Đã nhập 108 thẻ IT BA theo 13 chủ đề vào Anki, tập trung vào khái niệm, áp dụng, tình huống và review requirements. Xem [curriculum và nguồn](docs/business-analysis.md) cùng [CSV nguồn](source/business-analysis/notes.csv). Một deck duy nhất, phân loại bằng tags; không có audio. Mặt thẻ chỉ hiện đáp án chính, phần định nghĩa/giải thích thêm có thể mở khi cần; 15 thẻ có sơ đồ BPMN, UML hoặc dữ liệu tự vẽ. Nguồn chỉ lưu trong CSV.
 
-**Học từ bài giải thích đến phản xạ:** Mở [mục lục 24 bài học](docs/README.md), đọc bài đúng chủ đề, tự tạo và nói vài câu, rồi mới ôn nhóm card được liên kết ở cuối bài. Quy trình: **Read Lesson → Understand Grammar → Practice Building Sentences → Review with Anki → Speak Aloud → Apply in AI Conversation**. Các bài Markdown chỉ giải thích và tham chiếu CSV; không thay đổi note, deck hay tiến trình học.
+**Học từ bài giải thích đến phản xạ:** Mở [mục lục 16 bài ngữ pháp và nối ý](docs/README.md), đọc bài đúng chủ đề, tự tạo và nói vài câu, rồi mới ôn nhóm card được liên kết ở cuối bài. Quy trình: **Read Lesson → Understand Grammar → Practice Building Sentences → Review with Anki → Speak Aloud → Apply in AI Conversation**. Các bài Markdown giải thích kiến thức; nhóm thẻ nối ý mới được lưu trong CSV English Grammar và đồng bộ theo workflow backup.
+
+**Nối ý thành câu (11/11/2026):** Thư mục lessons hiện gồm 15 bài ngữ pháp gốc và [bài 16: nối hai ý](docs/lessons/16-connecting-ideas.md). Chín bài Markdown giao tiếp đã được gỡ theo yêu cầu; thẻ Everyday English vẫn được giữ nguyên. [CSV English Grammar](source/english-grammar/notes.csv) hiện có 601 thẻ sau khi thêm 20 thẻ Connecting Ideas, tập trung vào because/so, but/although, and/or, when/if, because of/despite và trình tự thời gian. Dùng validate → diff → sync với backup như workflow bên dưới.
 
 [Báo cáo rà soát nội dung ngữ pháp](docs/GRAMMAR_AUDIT.md) tóm tắt phần kiến thức bổ sung và các chủ đề có thể mở rộng sau này.
 

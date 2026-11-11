@@ -1,6 +1,6 @@
 # 10. Tính từ và trạng từ trong câu nói tự nhiên
 
-**Học trước:** [Câu cơ bản](01-present-simple-continuous.md). **Học tiếp:** [So sánh](11-comparison.md), [Feelings](22-feelings.md).
+**Học trước:** [Câu cơ bản](01-present-simple-continuous.md). **Học tiếp:** [So sánh](11-comparison.md).
 
 ## Learning Objectives
 

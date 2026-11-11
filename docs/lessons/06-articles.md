@@ -1,6 +1,6 @@
 # 06. Mạo từ: một cái nào đó hay cái đã biết?
 
-**Học trước:** [Danh từ và lượng từ](07-nouns-quantifiers.md) có thể đọc song song. **Học tiếp:** [Asking Questions](18-asking-questions.md).
+**Học trước:** [Danh từ và lượng từ](07-nouns-quantifiers.md) có thể đọc song song. **Học tiếp:** [Mẫu câu](15-sentence-patterns.md).
 
 ## Learning Objectives
 

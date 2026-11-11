@@ -1,6 +1,6 @@
 # 11. So sánh để chọn và giải thích lựa chọn
 
-**Học trước:** [Tính từ và trạng từ](10-adjectives-adverbs.md). **Học tiếp:** [Expressing Opinions](19-expressing-opinions.md).
+**Học trước:** [Tính từ và trạng từ](10-adjectives-adverbs.md). **Học tiếp:** [Nối hai ý](16-connecting-ideas.md).
 
 ## Learning Objectives
 
