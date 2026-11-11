@@ -78,7 +78,18 @@ Trước khi chọn lượng từ, hãy hỏi danh từ này trong nghĩa đang 
 
 ### Good to Know / Special Cases
 
-Số nhiều quy tắc: *box → boxes, city → cities, knife → knives*; bất quy tắc cần học riêng: *child → children, person → people, woman → women, sheep → sheep*. Một số từ có cách dùng đếm được trong nghĩa khác: “I drink coffee” (cà phê nói chung), “Two coffees, please” (hai cốc). *Some* có thể dùng trong câu hỏi mời/đề nghị: “Would you like some tea?”; vì thế “some = chỉ khẳng định” là quy tắc quá cứng. *These/those* = những cái này/kia, đi với danh từ số nhiều hoặc đứng một mình.
+Số nhiều quy tắc: *box → boxes, city → cities, knife → knives*. Những dạng bất quy tắc hữu ích khi nói về người và vật thường gặp:
+
+| Số ít | Số nhiều | Ví dụ |
+|---|---|---|
+| child | children | Two children are waiting. — Hai đứa trẻ đang đợi. |
+| person | people | Three people called. — Ba người đã gọi. |
+| man / woman | men / women | Two women joined us. — Hai phụ nữ tham gia cùng chúng tôi. |
+| foot / tooth | feet / teeth | My feet hurt. — Tôi đau chân. |
+| mouse | mice | We saw two mice. — Chúng tôi thấy hai con chuột. |
+| sheep / deer | sheep / deer | We saw three deer. — Chúng tôi thấy ba con hươu. |
+
+*Fish* thường giữ nguyên ở số nhiều khi nói về số con; *fishes* có thể dùng khi nhấn các loài khác nhau. Một số từ có cách dùng đếm được trong nghĩa khác: “I drink coffee” (cà phê nói chung), “Two coffees, please” (hai cốc). *Some* có thể dùng trong câu hỏi mời/đề nghị: “Would you like some tea?”; vì thế “some = chỉ khẳng định” là quy tắc quá cứng. *These/those* = những cái này/kia, đi với danh từ số nhiều hoặc đứng một mình.
 
 **Tự tạo câu:** Viết một câu hỏi với *how many* và một với *how much*, sau đó trả lời bằng *a few/a little*. Mẫu: “How many questions do you have? Just a few. How much time do we have? A little.”
 

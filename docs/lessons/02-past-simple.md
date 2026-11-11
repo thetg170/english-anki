@@ -63,6 +63,8 @@ Past Simple đặt sự việc vào **một thời điểm/giai đoạn đã kh�
 
 ### Must Know: động từ bất quy tắc thường gặp
 
+Tra [bảng V1–V2–V3 đầy đủ theo mức độ và cách dùng](../reference/irregular-verbs.md) khi cần chọn dạng động từ. Sáu hàng sau là ví dụ để bắt đầu kể việc đã xảy ra.
+
 | V1 → V2 → V3 | Ví dụ Past Simple | Nghĩa |
 |---|---|---|
 | go → went → gone | We went home early. | Chúng tôi về sớm. |

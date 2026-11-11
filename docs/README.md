@@ -4,6 +4,8 @@ Các bài trong [lessons/](lessons/) giải thích cách **tự ghép câu từ 
 
 [Báo cáo rà soát và bổ sung ngữ pháp](GRAMMAR_AUDIT.md) ghi rõ nội dung được mở rộng trong từng bài, điểm còn mở và nguồn đối chiếu.
 
+**Bảng tra cứu:** [Động từ bất quy tắc V1–V2–V3](reference/irregular-verbs.md) chia theo mức độ, có ví dụ V2/V3 và cách ghép câu. Dùng cùng bài [02 Past Simple](lessons/02-past-simple.md), [04 Present Perfect](lessons/04-present-perfect.md) và [13 Passive Voice](lessons/13-passive.md). Bảng ngắn về [danh từ/số nhiều](lessons/07-nouns-quantifiers.md), [verb patterns](lessons/09-verb-patterns.md), [giới từ](lessons/12-prepositions.md) và [so sánh](lessons/11-comparison.md) nằm ngay trong bài tương ứng.
+
 ## Cách học một bài
 
 1. **Read Lesson:** đọc mục tiêu và ví dụ; chọn một tình huống mình thực sự gặp.
