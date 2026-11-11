@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" role="img" aria-label="BPMN: chọn một hay chạy cả hai">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#334155"/></marker></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="450.0" y="30" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#172033">BPMN: chọn một hay chạy cả hai</text>
+<text x="220" y="75" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#172033">Exclusive gateway (×)</text>
+<polygon points="220,161 249,190 220,219 191,190" fill="#fff7ed" stroke="#334155" stroke-width="2"/>
+<text x="220" y="197" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#172033">×</text>
+<rect x="385" y="110" width="150" height="54" rx="13" fill="#eff6ff" stroke="#334155" stroke-width="2"/>
+<text x="460.0" y="142.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" fill="#172033">Thẻ</text>
+<rect x="385" y="230" width="150" height="54" rx="13" fill="#eff6ff" stroke="#334155" stroke-width="2"/>
+<text x="460.0" y="262.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" fill="#172033">Chuyển khoản</text>
+<line x1="249" y1="175" x2="385" y2="137" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="249" y1="205" x2="385" y2="257" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="300" y="112" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" fill="#475569">chọn 1</text>
+<text x="680" y="75" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#172033">Parallel gateway (+)</text>
+<polygon points="680,161 709,190 680,219 651,190" fill="#fff7ed" stroke="#334155" stroke-width="2"/>
+<text x="680" y="197" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#172033">+</text>
+<rect x="735" y="110" width="140" height="54" rx="13" fill="#eff6ff" stroke="#334155" stroke-width="2"/>
+<text x="805.0" y="142.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" fill="#172033">Kiểm tra kho</text>
+<rect x="735" y="230" width="140" height="54" rx="13" fill="#eff6ff" stroke="#334155" stroke-width="2"/>
+<text x="805.0" y="262.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" fill="#172033">Chống gian lận</text>
+<line x1="709" y1="175" x2="735" y2="137" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="709" y1="205" x2="735" y2="257" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="680" y="345" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" fill="#475569">Cả hai nhánh đều được kích hoạt.</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-label="BPMN: event, task và gateway">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#334155"/></marker></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="450.0" y="30" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#172033">BPMN: event, task và gateway</text>
+<circle cx="95" cy="175" r="19" fill="#fff" stroke="#334155" stroke-width="2"/>
+<text x="95" y="225" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" fill="#172033">Start event</text>
+<rect x="195" y="140" width="170" height="70" rx="13" fill="#eff6ff" stroke="#334155" stroke-width="2"/>
+<text x="280.0" y="180.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" fill="#172033">Kiểm tra đơn</text>
+<text x="280" y="235" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" fill="#172033">Task = việc cần làm</text>
+<polygon points="485,146 514,175 485,204 456,175" fill="#fff7ed" stroke="#334155" stroke-width="2"/>
+<text x="485" y="182" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#172033">×</text>
+<text x="485" y="235" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" fill="#172033">Gateway = rẽ nhánh</text>
+<circle cx="750" cy="105" r="20" fill="#fff" stroke="#334155" stroke-width="4"/>
+<circle cx="750" cy="245" r="20" fill="#fff" stroke="#334155" stroke-width="4"/>
+<text x="750" y="75" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="400" fill="#172033">Hợp lệ</text>
+<text x="750" y="290" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="400" fill="#172033">Không hợp lệ</text>
+<line x1="115" y1="175" x2="195" y2="175" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="365" y1="175" x2="456" y2="175" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="514" y1="175" x2="620" y2="105" stroke="#334155" stroke-width="2"/>
+<line x1="620" y1="105" x2="730" y2="105" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="514" y1="175" x2="620" y2="245" stroke="#334155" stroke-width="2"/>
+<line x1="620" y1="245" x2="730" y2="245" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>
