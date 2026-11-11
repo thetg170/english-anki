@@ -1,6 +1,6 @@
 # 09. Sau động từ dùng V-ing hay to V?
 
-**Học trước:** [Câu cơ bản](01-present-simple-continuous.md). **Học tiếp:** [Plans](20-plans.md).
+**Học trước:** [Câu cơ bản](01-present-simple-continuous.md). **Học tiếp:** [Nối hai ý](16-connecting-ideas.md).
 
 ## Learning Objectives
 

@@ -1,6 +1,6 @@
 # 04. Kinh nghiệm và kết quả liên quan hiện tại
 
-**Học trước:** [Quá khứ đơn](02-past-simple.md). **Học tiếp:** [Small Talk](24-small-talk.md).
+**Học trước:** [Quá khứ đơn](02-past-simple.md). **Học tiếp:** [Nối hai ý](16-connecting-ideas.md).
 
 ## Learning Objectives
 

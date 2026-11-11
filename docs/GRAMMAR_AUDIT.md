@@ -2,7 +2,7 @@
 
 ## Phạm vi và cách làm
 
-Đã đọc và cập nhật **24/24 bài** trong `docs/lessons/`: 15 bài bám 15 `Unit` của `English Grammar` và 9 bài bám 9 `Topic` của `Everyday English`. Đối chiếu mục tiêu, cấu trúc, ví dụ, lỗi thường gặp, bài tập và mapping Anki của từng bài. Các phần giải thích cũ được giữ khi đúng; phần mới đặt trước **Anki Review** để dễ đọc bài trước rồi tra cứu sâu hơn. Không sửa CSV, note type, card, scheduling hoặc collection Anki.
+Báo cáo này ghi lại đợt rà soát cũ của 24 bài: 15 bài ngữ pháp và 9 bài giao tiếp. Sau đó, 9 bài giao tiếp được gỡ theo yêu cầu; thư mục bài học hiện giữ 15 bài ngữ pháp và bài 16 về nối ý.
 
 Các phân biệt dễ sai được đối chiếu với [Cambridge Grammar — verb patterns](https://dictionary.cambridge.org/grammar/british-grammar/verb-patterns-verb-infinitive-or-verb-ing), [Cambridge Grammar — used to](https://dictionary.cambridge.org/grammar/british-grammar/used-to%C2%A0), [Cambridge Grammar — adjective position](https://dictionary.cambridge.org/grammar/british-grammar/adjectives-before-nouns) và [Cambridge Grammar — prepositional phrases](https://dictionary.cambridge.org/grammar/british-grammar/prepositional-phrases). Ví dụ trong bài là câu mới viết cho người học; không chép đoạn dài từ nguồn.
 
@@ -25,23 +25,14 @@ Các phân biệt dễ sai được đối chiếu với [Cambridge Grammar — 
 | [13 Passive](lessons/13-passive.md) | Bảng chuyển nhiều thì/thể | Modal passive, hai tân ngữ, *get + V3*, khi nên giữ chủ động. |
 | [14 Conditionals](lessons/14-conditionals.md) | Bảng loại 0–3 theo **nghĩa** | *unless*, *If I were you*, mixed conditional, nhận diện *I'd*. |
 | [15 Sentence Patterns](lessons/15-sentence-patterns.md) | Câu hỏi trực tiếp/gián tiếp, hỏi đuôi, bổ ngữ và hai tân ngữ | *There seems to be*, *It takes*, *so/such*, mệnh lệnh, *who* hỏi chủ ngữ/tân ngữ. |
-| [16 Greetings](lessons/16-greetings.md) | Cụm gặp lần đầu/gặp lại/hỏi thăm/tạm biệt | *How do you do?*, vai chủ nhà/khách trong *Thanks for having me/coming*. |
-| [17 Daily Life](lessons/17-daily-life.md) | Cụm báo trễ, xin chờ, quay lại, chưa làm | *In a minute* không phải mốc chính xác; thông báo + bước tiếp theo. |
-| [18 Asking Questions](lessons/18-asking-questions.md) | Khung câu hỏi giờ, nơi, giá, lựa chọn và làm rõ | *Who* chủ ngữ/tân ngữ, câu hỏi gián tiếp, nghe không rõ so với chưa hiểu. |
-| [19 Expressing Opinions](lessons/19-expressing-opinions.md) | Cụm nêu ý, chọn, chưa chắc, hiểu và đồng ý | Mức cam kết của *makes sense/sounds good*; *rather/prefer*. |
-| [20 Plans](lessons/20-plans.md) | Bảng mức chắc chắn/cam kết | *after/until*, *still on for*, *make it*, đề xuất lịch mới. |
-| [21 Requests](lessons/21-requests.md) | Phân biệt nhờ người khác, xin phép mình, đề nghị cùng làm | *Would you mind V-ing?* so với *Do you mind if I...?* và cách đáp không mơ hồ. |
-| [22 Feelings](lessons/22-feelings.md) | Cụm adjective + preposition thông dụng | *tired of/from*, *worried/nervous*, *frustrated/frustrating*, mức độ cảm xúc. |
-| [23 Work](lessons/23-work.md) | *work on, go over, get back to, follow up on, move to* | *by/on Friday*, xác nhận đã nhận khác đã duyệt; cập nhật trạng thái–bước tiếp–mốc. |
-| [24 Small Talk](lessons/24-small-talk.md) | Mẫu phản hồi rồi hỏi tiếp theo thông tin vừa nghe | Cuối tuần đã qua/sắp tới, Perfect/Past, tín hiệu nên dừng hỏi. |
 
 ## Kiểm tra chất lượng
 
-- Cả 24 bài vẫn giữ 11 mục cốt lõi và liên kết **Anki Review**; mỗi bài có thêm phần tra cứu và bài tập tự tạo câu riêng.
-- Kiểm tra tự động liên kết Markdown nội bộ, bảng và tiêu đề; mapping vẫn bao phủ 581 khóa grammar, 72 khóa Everyday và 17 khóa pilot tham khảo.
+- 15 bài ngữ pháp gốc vẫn giữ các mục cốt lõi và liên kết Anki Review; bài 16 về nối ý được thêm sau đợt audit này.
+- Mapping hiện tại được cập nhật ở [mục lục học tập](README.md). CSV Everyday và pilot vẫn lưu riêng, dù không còn bài giao tiếp trong thư mục lessons.
 - Rà soát các cặp dễ mâu thuẫn: *yet/last year*, *mustn't/don't have to*, *could you/do you mind if I*, *by/until*, *stop to V/stop V-ing*, *used to/be used to*. Các bài liên quan dẫn người học đến đúng bài nền tảng thay vì đưa quy tắc tuyệt đối.
 - Các câu mẫu là **đáp án tham khảo**; có thể có cách nói khác đúng tùy bối cảnh và biến thể tiếng Anh.
 
 ## Vấn đề chưa giải quyết và chủ đề tương lai
 
-Không phát hiện lỗi cấu trúc hoặc mapping còn mở trong phạm vi 24 bài. Chưa có dữ liệu lời nói thực tế của người học để biết những lỗi nào lặp lại nhiều nhất; vì vậy chưa thể ưu tiên thêm card sửa lỗi cá nhân. Một số mở rộng hữu ích **chưa có nhóm card riêng** và chưa cần nhồi vào mọi bài: relative clauses, reported speech, past continuous, câu gián tiếp nâng cao, collocations/phrasal verbs theo tình huống thật, phát âm và ngữ điệu trong hội thoại. Chỉ thêm bài/card mới khi có nhu cầu học rõ ràng; giữ CSV là source of truth cho thẻ.
+Không phát hiện lỗi cấu trúc hoặc mapping còn mở trong phạm vi đợt rà soát cũ. Chưa có dữ liệu lời nói thực tế của người học để biết những lỗi nào lặp lại nhiều nhất; vì vậy chưa thể ưu tiên thêm card sửa lỗi cá nhân. Một số mở rộng hữu ích **chưa có nhóm card riêng** và chưa cần nhồi vào mọi bài: relative clauses, reported speech, past continuous, câu gián tiếp nâng cao, collocations/phrasal verbs theo tình huống thật, phát âm và ngữ điệu trong hội thoại. Chỉ thêm bài/card mới khi có nhu cầu học rõ ràng; giữ CSV là source of truth cho thẻ.

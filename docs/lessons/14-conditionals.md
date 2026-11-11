@@ -1,6 +1,6 @@
 # 14. Nếu... thì...: điều thật, khả năng và giả định
 
-**Học trước:** [Hiện tại đơn](01-present-simple-continuous.md), [quá khứ đơn](02-past-simple.md), [hiện tại hoàn thành](04-present-perfect.md). **Học tiếp:** áp dụng trong [Plans](20-plans.md) và [Requests](21-requests.md).
+**Học trước:** [Hiện tại đơn](01-present-simple-continuous.md), [quá khứ đơn](02-past-simple.md), [hiện tại hoàn thành](04-present-perfect.md). **Học tiếp:** [nối hai ý](16-connecting-ideas.md).
 
 ## Learning Objectives
 

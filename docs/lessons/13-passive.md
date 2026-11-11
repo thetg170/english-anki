@@ -1,6 +1,6 @@
 # 13. Bị động: tập trung vào việc và kết quả
 
-**Học trước:** [Quá khứ đơn](02-past-simple.md), [kế hoạch tương lai](03-future.md). **Học tiếp:** [Work](23-work.md).
+**Học trước:** [Quá khứ đơn](02-past-simple.md), [kế hoạch tương lai](03-future.md). **Học tiếp:** [Nối hai ý](16-connecting-ideas.md).
 
 ## Learning Objectives
 

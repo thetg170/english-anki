@@ -1,6 +1,6 @@
 # 12. Giới từ: đặt sự việc vào thời gian và không gian
 
-**Học trước:** [Câu cơ bản](01-present-simple-continuous.md). **Học tiếp:** [Plans](20-plans.md), [Daily Life](17-daily-life.md).
+**Học trước:** [Câu cơ bản](01-present-simple-continuous.md). **Học tiếp:** [Nối hai ý](16-connecting-ideas.md).
 
 ## Learning Objectives
 
