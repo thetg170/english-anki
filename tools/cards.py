@@ -144,8 +144,9 @@ class Connect:
         for note in notes:
             actual_decks={card_decks[cid] for cid in note['cards']}
             if len(actual_decks)!=1:raise ValueError(f"Note {note['noteId']} spans decks; export separately")
-            if note['noteId'] not in guids:raise ValueError('Anki has uncheckpointed notes; close Anki before exporting')
-            result.append({'_id':str(note['noteId']),'_guid':guids[note['noteId']], '_deck':actual_decks.pop(),
+            # A newly added note can be visible through AnkiConnect before
+            # Anki has checkpointed it to the profile's SQLite file.
+            result.append({'_id':str(note['noteId']),'_guid':guids.get(note['noteId'],''), '_deck':actual_decks.pop(),
                 '_notetype':note['modelName'],'_tags':' '.join(sorted(note['tags'])),
                 **{'field:'+k:v['value'] for k,v in note['fields'].items()}})
         return result
@@ -153,7 +154,8 @@ class Connect:
         nid=self.call('addNote',{'note':{'deckName':row['_deck'],'modelName':row['_notetype'],
              'fields':{f:row['field:'+f] for f in fields},'tags':row['_tags'].split()}})
         db=self.sql_connect(self.profile/'collection.anki2')
-        guid=db.execute('select guid from notes where id=?',(nid,)).fetchone()[0];db.close()
+        record=db.execute('select guid from notes where id=?',(nid,)).fetchone();db.close()
+        guid=record[0] if record else ''
         return str(nid),guid
     def update(self,row,fields):
         nid=int(row['_id'])
@@ -254,6 +256,11 @@ def main():
         for action,_,row,current in actions:
             if action=='ADD':row['_id'],row['_guid']=adapter.add(row,fields)
             elif action=='UPDATE':adapter.update(row,fields)
+            elif action=='SKIP' and current:
+                # A previous run may have added the note before it could
+                # persist its ID/GUID back to CSV (for example, when Anki
+                # had not checkpointed a live add yet).
+                row['_id'],row['_guid']=current['_id'],current['_guid']
             if action in ('ADD','UPDATE') or (action=='SKIP' and current):
                 row['_base_hash']=digest(row,fields)
         write_table(a.csv,h,rows)

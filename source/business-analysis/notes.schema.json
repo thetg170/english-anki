@@ -1,0 +1,21 @@
+{
+  "deck": "Business Analysis",
+  "notetype": "BA_Practical_v1",
+  "fields": [
+    "Key",
+    "Topic",
+    "Type",
+    "Difficulty",
+    "Prompt",
+    "Answer",
+    "Why",
+    "Source"
+  ],
+  "templates": {
+    "BA Recall": {
+      "Front": "<div class=\"wrap\"><div class=\"meta\">{{Topic}} · {{Type}}</div><div class=\"prompt\">{{Prompt}}</div><div class=\"instruction\">Tự trả lời hoặc nêu bước xử lý trước khi lật.</div></div>",
+      "Back": "<div class=\"wrap\">{{FrontSide}}<hr><div class=\"answer\">{{Answer}}</div>{{#Why}}<div class=\"why\">{{Why}}</div>{{/Why}}{{#Source}}<div class=\"source\"><a href=\"{{Source}}\">Nguồn tham khảo</a></div>{{/Source}}</div>"
+    }
+  },
+  "css": ".card{font-family:system-ui,-apple-system,sans-serif;font-size:20px;line-height:1.5;text-align:left;color:#202632;background:#f6f7fa;padding:22px}.wrap{max-width:680px;margin:auto}.meta{font-size:13px;font-weight:700;color:#46648c;letter-spacing:.02em}.prompt{font-size:25px;font-weight:600;margin:20px 0}.instruction{font-size:14px;color:#80577c}.answer{font-size:22px;font-weight:600;color:#176847}.why{font-size:16px;margin-top:13px}.source{font-size:13px;margin-top:15px}.source a{color:#2c64ab}hr{border:0;border-top:1px solid #c7cdd4;margin:20px 0}.nightMode .card,.card.nightMode{background:#1d2026;color:#e9eaed}.nightMode .answer{color:#79d9ac}.nightMode .meta{color:#9cb8e6}.nightMode .source a{color:#9cc8ff}"
+}

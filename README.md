@@ -1,5 +1,7 @@
 # English Anki
 
+**Business Analysis (11/11/2026):** Đã nhập 108 thẻ IT BA theo 13 chủ đề vào Anki, tập trung vào khái niệm, áp dụng, tình huống và review requirements. Xem [curriculum và nguồn](docs/business-analysis.md) cùng [CSV nguồn](source/business-analysis/notes.csv). Một deck duy nhất, phân loại bằng tags; không có audio.
+
 **Học từ bài giải thích đến phản xạ:** Mở [mục lục 24 bài học](docs/README.md), đọc bài đúng chủ đề, tự tạo và nói vài câu, rồi mới ôn nhóm card được liên kết ở cuối bài. Quy trình: **Read Lesson → Understand Grammar → Practice Building Sentences → Review with Anki → Speak Aloud → Apply in AI Conversation**. Các bài Markdown chỉ giải thích và tham chiếu CSV; không thay đổi note, deck hay tiến trình học.
 
 [Báo cáo rà soát nội dung ngữ pháp](docs/GRAMMAR_AUDIT.md) tóm tắt phần kiến thức bổ sung và các chủ đề có thể mở rộng sau này.

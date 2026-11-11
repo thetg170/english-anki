@@ -1,4 +1,4 @@
-import csv, json, subprocess, sys, tempfile, unittest
+import csv, json, shutil, subprocess, sys, tempfile, unittest
 from pathlib import Path
 
 from anki.collection import Collection
@@ -13,6 +13,30 @@ PACKAGE=ROOT/'private/imports/English Speaking Pilot.apkg'
 class RoundTrip(unittest.TestCase):
     def run_cli(self,*args):
         return subprocess.run([sys.executable,str(CLI),*map(str,args)],cwd=ROOT,text=True,capture_output=True)
+
+    def test_sync_recovers_identity_after_partial_add(self):
+        with tempfile.TemporaryDirectory() as temp:
+            base=Path(temp);profile=base/'profile';profile.mkdir();(profile/'collection.media').mkdir()
+            db=profile/'collection.anki2';c=Collection(str(db));c.close()
+            source=ROOT/'source/business-analysis/notes.csv';csvpath=base/'notes.csv'
+            shutil.copyfile(source.with_suffix('.schema.json'),csvpath.with_suffix('.schema.json'))
+            with source.open(newline='',encoding='utf-8') as fh:
+                reader=csv.DictReader(fh);headers=reader.fieldnames;row=next(reader)
+            for field in ('_id','_guid','_base_hash'):row[field]=''
+            def write():
+                with csvpath.open('w',newline='',encoding='utf-8') as fh:
+                    writer=csv.DictWriter(fh,fieldnames=headers);writer.writeheader();writer.writerow(row)
+            write()
+            first=self.run_cli('sync','--collection',db,'--csv',csvpath,'--apply','--backup-dir',base/'backup1')
+            self.assertEqual(first.returncode,0,first.stderr)
+            with csvpath.open(newline='',encoding='utf-8') as fh:stored=next(csv.DictReader(fh))
+            for field in ('_id','_guid','_base_hash'):row[field]=''
+            write()
+            second=self.run_cli('sync','--collection',db,'--csv',csvpath,'--apply','--backup-dir',base/'backup2')
+            self.assertEqual(second.returncode,0,second.stderr)
+            self.assertIn('"SKIP": 1',second.stdout)
+            with csvpath.open(newline='',encoding='utf-8') as fh:recovered=next(csv.DictReader(fh))
+            self.assertEqual((recovered['_id'],recovered['_guid']),(stored['_id'],stored['_guid']))
 
     def test_collection_package_does_not_change_snapshot(self):
         set_lang('en_US')
