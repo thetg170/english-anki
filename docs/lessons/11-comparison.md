@@ -62,25 +62,34 @@ So sánh hơn cần **hai đối tượng**: *faster than*, *more useful than*. 
 
 ## Tra cứu và mở rộng
 
-### Must Know: dạng thường gặp
+### Must Know: chọn cách tạo dạng so sánh
 
-| Gốc → hơn → nhất | Ví dụ / nghĩa | Ghi chú |
+Đầu tiên xác định bạn đang so sánh **đặc điểm**, **cách làm**, hay **số lượng**. Sau đó chọn dạng trong hai bảng dưới. *The* thường đứng trước dạng so sánh nhất khi nêu một thành viên nổi bật trong nhóm: “the fastest train”; trạng từ có thể linh hoạt hơn, như “She runs fastest”.
+
+| Kiểu | Gốc → hơn → nhất | Ví dụ và cách dùng |
 |---|---|---|
-| fast → faster → fastest | This route is faster. — Đường này nhanh hơn. | Tính từ ngắn thường thêm *-er/-est*. |
-| happy → happier → happiest | She looks happier. — Cô ấy trông vui hơn. | Phụ âm + *y* đổi thành *i*. |
-| expensive → more/most expensive | This one is more expensive. — Cái này đắt hơn. | Tính từ dài thường dùng *more/most*. |
+| Tính từ một âm tiết | fast → faster → fastest | This route is faster. — Đường này nhanh hơn. |
+| Kết thúc bằng *-e*: thêm *-r/-st* | nice → nicer → nicest | This room is nicer. — Phòng này đẹp hơn. |
+| Nguyên âm ngắn + phụ âm cuối: gấp đôi phụ âm | big → bigger → biggest; hot → hotter → hottest | The new screen is bigger. — Màn hình mới lớn hơn. |
+| Phụ âm + *-y*: đổi *y → i* | happy → happier → happiest; easy → easier → easiest | This way is easier. — Cách này dễ hơn. |
+| Một số tính từ hai âm tiết có hai dạng được dùng | clever → cleverer / more clever | She's cleverer than me. — Cô ấy lanh trí hơn tôi. Kiểm tra từng từ, không áp dụng cho mọi tính từ hai âm tiết. |
+| Tính từ dài: *more/most* | useful → more useful → most useful; expensive → more expensive → most expensive | This tool is more useful. — Công cụ này hữu ích hơn. |
+| Trạng từ kết thúc bằng *-ly*: *more/most* | carefully → more carefully → most carefully | She drives more carefully now. — Giờ cô ấy lái xe cẩn thận hơn. |
+| Trạng từ ngắn | fast → faster → fastest; hard → harder → hardest; early → earlier → earliest; late → later → latest; near → nearer → nearest | She works harder than I do. — Cô ấy làm việc chăm chỉ hơn tôi. |
 
-Các dạng so sánh bất quy tắc cần tra nhanh:
+### Các dạng bất quy tắc và biến thể cần nhớ
 
-| Gốc | So sánh hơn | So sánh nhất | Cách dùng |
+| Gốc | So sánh hơn | So sánh nhất | Cách dùng và giới hạn |
 |---|---|---|---|
-| good / well | better | best | This works better. — Cách này hiệu quả hơn. |
-| bad / badly | worse | worst | Today is worse. — Hôm nay tệ hơn. |
-| far | farther / further | farthest / furthest | The station is farther away. — Ga ở xa hơn. |
-| little | less | least | We have less time. — Chúng ta có ít thời gian hơn. |
-| much / many | more | most | We need more time. — Chúng ta cần thêm thời gian. |
+| good (tính từ) / well (trạng từ) | better | best | A better plan. — Kế hoạch tốt hơn. / She speaks better now. — Giờ cô ấy nói tốt hơn. |
+| bad (tính từ) / badly (trạng từ) | worse | worst | The result is worse. — Kết quả tệ hơn. / He played worse today. — Hôm nay anh ấy chơi tệ hơn. |
+| far | farther / further | farthest / furthest | The shop is farther away. — Cửa hàng ở xa hơn. *Further* cũng dùng cho mức độ hay thông tin thêm: “further details”. |
+| little (lượng ít) | less | least | We have less time. — Ta có ít thời gian hơn. Muốn nói “nhỏ hơn” về kích thước, dùng *small → smaller → smallest*. |
+| much / many | more | most | We need more time / more chairs. — Ta cần thêm thời gian / ghế. |
+| few (số lượng ít) | fewer | fewest | We made fewer mistakes. — Chúng ta mắc ít lỗi hơn. Dùng với danh từ đếm được số nhiều. |
+| old | older; elder (trong quan hệ gia đình) | oldest; eldest (trong quan hệ gia đình) | My brother is older than me. — Anh tôi lớn tuổi hơn tôi. / My elder brother lives here. — Anh trai tôi sống ở đây. |
 
-*Farther* thường nói khoảng cách vật lý; *further* cũng có thể nói khoảng cách và còn dùng cho mức độ/thông tin thêm, như “further details” (thông tin thêm). *Less/least* và *more/most* cũng dùng để so sánh lượng danh từ, không phải mọi hàng đều là tính từ.
+**Chú ý:** *Elder/eldest* thường đứng trước danh từ chỉ quan hệ gia đình; dùng “My brother is **older** than me”, không dùng “is elder than me”. *Fewer* là dạng so sánh của *few*, không phải dạng bất quy tắc như *better*; bảng đặt chung để chọn đúng từ khi nói số lượng. *Less* thường đi với danh từ không đếm được, *fewer* với danh từ đếm được số nhiều. Xem [bảng good/well và các cặp dễ nhầm](10-adjectives-adverbs.md#good-to-know-các-cặp-dễ-nhầm-khi-tự-ghép-câu) để chọn đúng từ gốc.
 
 ### Good to Know / Special Cases
 

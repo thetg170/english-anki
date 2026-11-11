@@ -65,13 +65,25 @@ Tính từ thường mô tả danh từ hoặc chủ ngữ sau *be, look, feel, 
 
 | Cặp / cấu trúc | Ví dụ / nghĩa | Dùng khi nào |
 |---|---|---|
-| good ↔ well | She's a good speaker. She speaks well. — Cô ấy nói hay. | *Good* tả người/vật; *well* thường tả cách làm. |
 | -ed ↔ -ing | I'm bored. The talk is boring. — Tôi chán; buổi nói chuyện gây chán. | Người cảm nhận ↔ thứ gây cảm giác. |
 | look/feel/sound + adjective | That sounds great. — Nghe hay đấy. | Linking verb nối chủ ngữ với đặc điểm. |
 
-### Good to Know / Special Cases
+### Good to Know: các cặp dễ nhầm khi tự ghép câu
 
-Các cặp nhìn giống nhau nhưng khác nghĩa: *hard* = chăm chỉ/khó, *hardly* = hầu như không; *late* = muộn, *lately* = dạo gần đây; *near* = gần, *nearly* = gần như. “I work hard” (Tôi làm việc chăm chỉ) khác hẳn “I hardly work” (Tôi hầu như không làm việc). *Fast* vừa là tính từ vừa là trạng từ: “a fast train” / “It moves fast”; không dùng *fastly*. Một số tính từ gắn với giới từ: *interested in* (quan tâm đến), *good at* (giỏi), *afraid of* (sợ), *ready for* (sẵn sàng cho): “I'm ready for the meeting” (Tôi sẵn sàng cho buổi họp). Học cả cụm, vì không thể luôn dịch giới từ từ tiếng Việt.
+Hỏi trước: **đang mô tả người/vật, hay mô tả cách hành động diễn ra?** Sau *be/look/sound* thường dùng tính từ để nói đặc điểm của chủ ngữ. Sau động từ hành động thường dùng trạng từ để nói cách làm. Đừng tự thêm *-ly*: một số từ đổi nghĩa hẳn.
+
+| Cặp | Dùng để nói gì? | Câu tự nhiên và nghĩa |
+|---|---|---|
+| **good / well** | *Good* là tính từ: người/vật tốt hoặc làm tốt việc gì. *Well* thường là trạng từ: làm việc đó tốt. *Well* cũng có thể là tính từ chỉ **sức khỏe**. | She's a **good** speaker. — Cô ấy là người nói hay. / She speaks **well**. — Cô ấy nói hay. / I don't feel **well**. — Tôi thấy không khỏe. |
+| **bad / badly** | *Bad* tả người/vật/trạng thái; *badly* tả cách làm kém hoặc mức độ nghiêm trọng. | The food tastes **bad**. — Đồ ăn có vị dở. / I slept **badly**. — Tôi ngủ không ngon. |
+| **hard / hardly** | *Hard* = chăm chỉ/mạnh/khó; cũng là trạng từ của chính nó. *Hardly* = hầu như không. | I work **hard**. — Tôi làm việc chăm chỉ. / I **hardly** work on Sundays. — Chủ nhật tôi hầu như không làm việc. |
+| **late / lately** | *Late* = muộn; *lately* = dạo gần đây, thường nói về tình trạng hoặc việc lặp lại. | She arrived **late**. — Cô ấy đến muộn. / I've been busy **lately**. — Dạo này tôi bận. |
+| **near / nearly** | *Near* = gần về vị trí hoặc thời gian; *nearly* = gần như, suýt, xấp xỉ. | I live **near** the station. — Tôi sống gần ga. / I'm **nearly** done. — Tôi gần xong rồi. |
+| **fast / fastly** | *Fast* dùng được cả làm tính từ và trạng từ; *fastly* không phải cách nói chuẩn cho “nhanh”. | It's a **fast** train. — Đó là tàu nhanh. / It moves **fast**. — Nó di chuyển nhanh. |
+
+Khi so sánh, *good* và *well* cùng có dạng **better/best**, nhưng câu gốc vẫn khác vai trò: “She's a **good** speaker → She's a **better** speaker”; “She speaks **well** → She speaks **better**.” Xem [bảng so sánh bất quy tắc](11-comparison.md).
+
+Một số tính từ đi với giới từ riêng: *interested in* (quan tâm đến), *good at* (giỏi), *afraid of* (sợ), *ready for* (sẵn sàng cho): “I'm ready for the meeting” (Tôi sẵn sàng cho buổi họp). Học cả cụm, vì không thể luôn dịch giới từ từ tiếng Việt.
 
 **Tự tạo câu:** Dùng một người và một hoạt động để nói (1) đặc điểm, (2) cách làm, (3) cảm nhận. Mẫu: “Mai is a careful driver. She drives carefully. I feel safe with her.”
 
