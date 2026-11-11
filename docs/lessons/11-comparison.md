@@ -69,7 +69,18 @@ So sánh hơn cần **hai đối tượng**: *faster than*, *more useful than*. 
 | fast → faster → fastest | This route is faster. — Đường này nhanh hơn. | Tính từ ngắn thường thêm *-er/-est*. |
 | happy → happier → happiest | She looks happier. — Cô ấy trông vui hơn. | Phụ âm + *y* đổi thành *i*. |
 | expensive → more/most expensive | This one is more expensive. — Cái này đắt hơn. | Tính từ dài thường dùng *more/most*. |
-| good → better → best; bad → worse → worst | This option is better. — Cách này tốt hơn. | Học bất quy tắc. |
+
+Các dạng so sánh bất quy tắc cần tra nhanh:
+
+| Gốc | So sánh hơn | So sánh nhất | Cách dùng |
+|---|---|---|---|
+| good / well | better | best | This works better. — Cách này hiệu quả hơn. |
+| bad / badly | worse | worst | Today is worse. — Hôm nay tệ hơn. |
+| far | farther / further | farthest / furthest | The station is farther away. — Ga ở xa hơn. |
+| little | less | least | We have less time. — Chúng ta có ít thời gian hơn. |
+| much / many | more | most | We need more time. — Chúng ta cần thêm thời gian. |
+
+*Farther* thường nói khoảng cách vật lý; *further* cũng có thể nói khoảng cách và còn dùng cho mức độ/thông tin thêm, như “further details” (thông tin thêm). *Less/least* và *more/most* cũng dùng để so sánh lượng danh từ, không phải mọi hàng đều là tính từ.
 
 ### Good to Know / Special Cases
 

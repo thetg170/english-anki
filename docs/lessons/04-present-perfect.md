@@ -62,6 +62,8 @@ Present Perfect nối một sự việc trước đây với **hiện tại**: k
 
 ## Tra cứu và mở rộng
 
+Khi ghép *have/has + V3*, xem [bảng động từ bất quy tắc và cách phân biệt V2/V3](../reference/irregular-verbs.md); ví dụ *write–wrote–written* và *go–went–gone*.
+
 ### Must Know: cụm thời gian và ý nghĩa
 
 | Cụm | Ví dụ / nghĩa | Ghi chú |

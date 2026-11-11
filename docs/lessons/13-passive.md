@@ -63,6 +63,8 @@ Câu chủ động chú ý **ai làm**: “Mai sent the report.” Bị động 
 
 ## Tra cứu và mở rộng
 
+Tra [bảng động từ bất quy tắc](../reference/irregular-verbs.md) để lấy V3 sau *be*; thay đổi thì ở *be*, không đổi V3.
+
 ### Must Know: giữ thì trên *be*
 
 | Chủ động → bị động | Ví dụ / nghĩa | Điểm cần nhìn |
