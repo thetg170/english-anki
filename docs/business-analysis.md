@@ -1,6 +1,6 @@
 # Business Analysis: học để xử lý công việc
 
-Deck [Business Analysis](../source/business-analysis/notes.csv) có 108 thẻ trong một deck, phân theo nhãn chủ đề, loại thẻ và độ khó. Mỗi thẻ yêu cầu tự trả lời trước khi lật; mặt sau có đáp án ngắn, lý do và liên kết nguồn. Không có TTS hoặc media.
+Deck [Business Analysis](../source/business-analysis/notes.csv) có 108 thẻ trong một deck, phân theo nhãn chủ đề, loại thẻ và độ khó. Mỗi thẻ yêu cầu tự trả lời trước khi lật; mặt sau có đáp án ngắn. Phần định nghĩa hoặc giải thích thêm được gấp lại và chỉ mở khi cần. Không có TTS hoặc media.
 
 ## Lộ trình
 
@@ -33,7 +33,7 @@ BRD, SRS, user story, BPMN và Scrum không bắt buộc cho mọi dự án. BA,
 
 ## Nguồn
 
-Nội dung thẻ được diễn giải, không chép nguyên văn. Trường Source của từng note dẫn tới nguồn tương ứng:
+Nội dung thẻ được diễn giải, không chép nguyên văn. Trường Source trong CSV giữ nguồn để biên tập và kiểm tra nội dung; liên kết nguồn không hiện trên thẻ:
 
 - [IIBA The Business Analysis Standard](https://www.iiba.org/knowledgehub/the-business-analysis-standard/) và [requirements classification](https://www.iiba.org/knowledgehub/the-business-analysis-standard/4-implementing-business-analysis/4-4-understanding-requirements-and-designs/): BACCM, requirement types, analysis và value.
 - [IIBA BABOK Glossary](https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/glossary/): verification, validation và traceability.
