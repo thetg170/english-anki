@@ -7,7 +7,7 @@ Bộ tài liệu này dành cho người đã biết nhiều từ tiếng Anh nh
 Mỗi trang có hai lớp:
 
 1. **Tra nhanh khi quên:** nhìn ý muốn nói, chọn cấu trúc và đọc một câu mẫu. Phần này dùng khi bạn đã học bài nhưng không nhớ cách chọn.
-2. **Hiểu và luyện:** đọc bản chất, theo dõi một tình huống được dựng thành câu, xem chỗ dễ nhầm, rồi tự trả lời trước khi mở đáp án tham khảo.
+2. **Học lý thuyết và luyện:** đọc bản chất và phần lý thuyết về công thức, cách biến đổi, phạm vi sử dụng; sau đó theo dõi một tình huống được dựng thành câu, xem chỗ dễ nhầm và tự trả lời trước khi mở đáp án tham khảo.
 
 Khi gặp một câu khác đáp án mẫu, hỏi: “Câu này có đúng ý, đúng ngữ cảnh và tự nhiên không?” Đáp án chỉ là một cách nói hợp lệ. Bạn không cần chuyển mọi ý thành câu dài; hai câu ngắn và rõ vẫn tốt.
 

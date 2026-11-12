@@ -29,6 +29,12 @@ Dùng bị động khi người nghe cần biết **điều gì xảy ra với m
 
 V3 có thể là từ bất quy tắc: *send → sent*, *steal → stolen*. “A broken window” dùng V3 như tính từ mô tả trạng thái; không phải lúc nào cũng đang kể một hành động bị động.
 
+## Lý thuyết: đổi trọng tâm nhưng giữ thời điểm
+
+Câu chủ động thường có dạng `người/vật làm + động từ + đối tượng`. Khi đối tượng quan trọng hơn, đưa nó lên làm chủ ngữ của câu bị động: `đối tượng + be (chia theo thì) + V3`. “Mai sent the file” → “The file was sent (by Mai).” *By + người làm* chỉ thêm khi thông tin ấy cần thiết. Bị động không thay đổi sự kiện hay thời điểm; nó thay **điểm bắt đầu của câu**.
+
+Trong “The file **was sent**”, *was* cho biết quá khứ; *sent* là V3. “The file **has been sent**” dùng Present Perfect, còn “The file **is being sent**” nhấn quá trình đang diễn ra. Sau modal: `modal + be + V3` (“It must be checked”). Chỉ động từ có đối tượng nhận hành động mới thường chuyển theo cách này. Đừng dùng bị động khi người làm là thông tin chính hoặc khi câu chủ động đã rõ và gọn hơn.
+
 ## Từ ý định đến câu
 
 Bạn muốn cập nhật tình trạng báo cáo:

@@ -20,6 +20,12 @@ Mạo từ giúp người nghe biết bạn đang nói về **một đối tư�
 
 Danh từ đếm được số ít thường cần một từ đứng trước: *a book, the book, my book*. Danh từ không đếm được không lấy *a/an* trong nghĩa thông thường, nhưng vẫn dùng được *the* khi đã xác định: “The information you sent was useful.” Muốn đếm, thêm đơn vị: “a piece of information”.
 
+## Lý thuyết: mạo từ giúp người nghe nhận diện danh từ
+
+Danh từ đếm được số ít thường cần một **từ hạn định** như *a/an, the, this, my*: không nói “I bought book” trong câu chuẩn. *A/an* giới thiệu **một** thành viên chưa xác định của một loại. *The* chỉ đối tượng mà người nghe có thể nhận ra từ lần nhắc trước, tình huống hoặc phần mô tả đi kèm. “I saw a dog. The dog was wet” chuyển từ giới thiệu sang chỉ lại. *A/an* chọn theo **âm đầu** của từ tiếp theo, nên “an hour” nhưng “a university”.
+
+**Không mạo từ** thường dùng khi nói chung bằng danh từ số nhiều hoặc không đếm được: “Books are useful”; “Water matters.” Nhưng khi xác định một nhóm/lượng cụ thể, vẫn dùng *the*: “The books on this shelf are mine”; “The water in this glass is cold.” Tên riêng, bữa ăn và địa điểm có các quy ước riêng, nên quy trình chọn theo “mới hay đã xác định?” là nền tảng chứ không thay thế việc học các cụm cố định.
+
 ## Từ ý định đến câu
 
 Bạn kể một lần tìm quán để gặp bạn:

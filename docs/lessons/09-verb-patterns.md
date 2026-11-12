@@ -23,6 +23,12 @@ Khi muốn nói hai hành động trong một câu, dạng của động từ th
 
 Một số động từ chấp nhận cả hai dạng nhưng nghĩa đổi: “I stopped working” = ngừng công việc đang làm; “I stopped to work” = dừng một việc khác để bắt đầu làm việc. “Remember to call” = nhớ để gọi; “I remember calling” = nhớ mình đã gọi.
 
+## Lý thuyết: động từ thứ hai phụ thuộc cấu trúc phía trước
+
+Sau một động từ, phần nói về hành động tiếp theo có thể là **to-infinitive** (`to + V1`), **gerund** (`V-ing`) hoặc **bare infinitive** (`V1` không *to*). Không thể suy ra mọi trường hợp từ bản dịch tiếng Việt. Học theo cụm: `want/decide/plan + to V`; `enjoy/avoid/finish + V-ing`; `ask/tell + người + to V`; `let/make + người + V1`. Sau giới từ, dùng danh từ hoặc *V-ing*: “interested in learning”, “look forward to meeting”. Chữ *to* trong cụm sau là giới từ.
+
+Một số động từ nhận cả hai dạng nhưng ý khác: `stop + V-ing` = ngừng chính hoạt động đó; `stop + to V` = dừng hoạt động khác **để** làm việc này. `remember + to V` = nhớ việc cần làm; `remember + V-ing` = nhớ việc đã làm. Dạng của **động từ đầu** vẫn chia theo thì và chủ ngữ: “She wants to go”; “She wanted to go.” Động từ thứ hai giữ mẫu mà từ đứng trước yêu cầu.
+
 ## Từ ý định đến câu
 
 Bạn đang cân nhắc xin việc mới:

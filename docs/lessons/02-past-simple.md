@@ -21,6 +21,12 @@ Past Simple dùng khi bạn đặt một sự việc vào **giai đoạn quá kh
 
 Động từ có quy tắc thường thêm *-ed*: *work → worked*, *study → studied*, *stop → stopped*. Động từ bất quy tắc phải nhớ riêng: *go → went → gone*. Trong Past Simple, dùng **went**; sau *have* hoặc trong một số cấu trúc khác, dùng **gone**. Tra [bảng động từ bất quy tắc](../reference/irregular-verbs.md) khi cần.
 
+## Lý thuyết: quá khứ đơn được hình thành thế nào?
+
+Past Simple đặt sự việc vào một khoảng quá khứ mà người nói xem là đã kết thúc. Với động từ thường, **khẳng định** dùng V2: `S + V2`. Động từ có quy tắc thêm *-ed*; bất quy tắc cần tra từng dạng. **Phủ định** dùng `S + did not + V1`; **câu hỏi** dùng `Did + S + V1?`. Không dùng V2 lần nữa sau *did*. Với *be*, dùng *was* cho I/he/she/it và *were* cho you/we/they; câu hỏi đảo *was/were*, không mượn *did*.
+
+Mốc quá khứ có thể nói ra (*yesterday, last year, in 2020*) hoặc đã rõ từ cuộc trò chuyện. Quá khứ đơn cũng kể các việc nối tiếp: “I opened the door, walked in and sat down.” Nó không tự cho biết sự việc còn tác động đến hiện tại hay không; nếu muốn lấy **kết quả hiện tại** làm trọng tâm, cân nhắc Present Perfect ở bài 04. *Used to + V1* nói thói quen hoặc trạng thái cũ; đó là một mẫu riêng, không phải cách thay thế mọi câu quá khứ đơn.
+
 ## Từ ý định đến câu
 
 Bạn muốn kể vì sao đến muộn hôm qua:

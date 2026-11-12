@@ -23,6 +23,12 @@ Khi chưa biết bắt đầu câu bằng gì, hãy hỏi **mình đang giới t
 
 Câu hỏi trực tiếp có thể đảo trợ động từ hoặc *be*: “Where is the room?” Khi đưa câu hỏi vào sau “Do you know...”, phần phụ giữ trật tự như câu kể: “Do you know where the room is?” **Bổ ngữ** là phần mô tả chủ ngữ hoặc tân ngữ: “She is **ready**”; “The news made me **happy**.” *Happy* không phải trạng từ nói cách tin tức “làm”.
 
+## Lý thuyết: các khung câu giải quyết việc khác nhau
+
+**There is/are + danh từ** giới thiệu sự tồn tại: “There are two seats.” Động từ *be* thường hòa hợp với danh từ phía sau. **It** có thể chỉ lại điều đã biết (“It's empty”), hoặc làm chủ ngữ giả cho thời tiết, giờ và khoảng cách (“It's raining”, “It's late”). `It takes + người + thời gian + to V` diễn đạt thời lượng cần thiết. Hai chữ *there* và *it* không thay được cho nhau chỉ vì tiếng Việt đều có thể bỏ chủ ngữ.
+
+Với **câu hỏi trực tiếp**, đảo *be/modal* hoặc dùng *do/does/did* với động từ thường: “Where **is** it?”, “Where **does** she work?”. Trong **câu hỏi gián tiếp**, phần sau từ hỏi giữ trật tự câu kể: “Do you know where **she works**?” Khi *who/what* chính là chủ ngữ, thường không thêm *do*: “Who called you?” Cảm thán dùng `what + (a/an) + cụm danh từ` hoặc `how + tính từ/trạng từ`: “What a day!” / “How lovely!”
+
 ## Từ ý định đến câu
 
 Bạn hỏi đồng nghiệp về nơi họp:

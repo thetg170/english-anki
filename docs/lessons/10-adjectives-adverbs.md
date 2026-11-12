@@ -21,6 +21,12 @@ Muốn nói tự nhiên, hãy tách hai câu hỏi: **người/vật ấy như t
 
 Với tính từ cảm xúc, *bored* là trạng thái của người cảm nhận; *boring* là thứ gây cảm giác đó. “I'm bored by the talk” và “The talk is boring” cùng tình huống nhưng nhìn từ hai phía.
 
+## Lý thuyết: từ nào đang được mô tả?
+
+**Tính từ** mô tả danh từ hoặc chủ ngữ/tân ngữ qua một động từ nối: “a careful driver”, “She is careful”, “The news made her happy.” **Trạng từ** thường mô tả cách hành động diễn ra: “She drives carefully.” Nhiều trạng từ được tạo bằng *-ly* (*quick → quickly*), nhưng không phải tất cả: *fast* và *hard* có thể là trạng từ; *hardly* lại có nghĩa “hầu như không”. Sau *be, seem, look, sound, feel* theo nghĩa nối với chủ ngữ, thường dùng tính từ: “It sounds good.”
+
+Khi chọn *-ed/-ing* cho cảm xúc, hỏi ai **cảm thấy** và điều gì **gây cảm giác**: “I'm interested” (tôi thấy hứng thú), “The talk is interesting” (buổi nói chuyện thú vị). *Good* thường mô tả danh từ/chủ ngữ; *well* thường mô tả cách làm, nhưng *well* cũng có thể là tính từ về sức khỏe. Cần xét vai trò trong câu, không chỉ nhìn hậu tố.
+
 ## Từ ý định đến câu
 
 Bạn muốn khen Mai nói rõ trong cuộc họp:

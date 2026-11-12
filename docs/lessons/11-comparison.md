@@ -21,6 +21,12 @@ Có hai đường: A mất 20 phút, B mất 25 phút. “Route A is faster than
 
 Cách tạo dạng phụ thuộc từ gốc. Nhiều tính từ ngắn thêm *-er/-est*: *fast → faster → fastest*. Kết thúc bằng *-e* chỉ thêm *-r/-st*: *nice → nicer → nicest*. *Big → bigger → biggest* gấp đôi phụ âm; *happy → happier → happiest* đổi *y* thành *i*. Tính từ dài thường dùng *more/most*: *useful → more useful → most useful*. Trạng từ *carefully* dùng *more carefully*; trạng từ ngắn *fast/hard/early* dùng *faster/harder/earlier*.
 
+## Lý thuyết: ba quan hệ so sánh
+
+**So sánh hơn** đặt hai đối tượng lên một thang: `A + be/V + comparative + than + B`. **So sánh bằng** dùng `as + adjective/adverb + as`; phủ định `not as ... as` diễn đạt A chưa bằng B. **So sánh nhất** xác định một đối tượng nổi bật trong một nhóm: `the + superlative + (in/of + nhóm)`. Với tính từ/trạng từ ngắn, thường thêm *-er/-est*; với nhiều từ dài, dùng *more/most*. Không ghép đôi *more faster* hoặc *most fastest*.
+
+Hình thức so sánh phải khớp **loại từ và ý**: *good/well → better → best*, *bad/badly → worse → worst*, *many/much → more → most*, *little* (lượng) → *less → least*. *Fewer* đi với đơn vị đếm được (*fewer errors*); *less* đi với lượng (*less time*). *Farther/further* đều có thể nói khoảng cách trong nhiều ngữ cảnh; *further* còn nói mức độ/thông tin thêm. Sau khi chọn dạng, nói rõ tiêu chí: “This plan is cheaper **than the other one**.”
+
 ## Từ ý định đến câu
 
 Bạn chọn giữa hai ứng dụng:
