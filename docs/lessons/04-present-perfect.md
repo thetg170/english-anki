@@ -1,99 +1,65 @@
-# 04. Kinh nghiệm và kết quả liên quan hiện tại
+# 04. Kể quá khứ hay báo kết quả hiện tại?
 
-**Học trước:** [Quá khứ đơn](02-past-simple.md). **Học tiếp:** [Nối hai ý](16-connecting-ideas.md).
+Một việc đã xảy ra có thể được kể theo **thời điểm** hoặc theo **ý nghĩa của nó lúc này**. Bài này giúp bạn chọn Past Simple hay Present Perfect theo thông tin người nghe cần.
 
-Bài này giải quyết câu hỏi: khi một việc đã xảy ra, lúc nào người nói muốn kể **thời điểm quá khứ**, lúc nào muốn báo **kết quả liên quan hiện tại**? Hãy đối chiếu hai góc nhìn trên cùng một sự việc.
+**Cần biết trước:** [Past Simple](02-past-simple.md), đặc biệt V2 và V3.
 
-## Sau bài này bạn làm được gì
+## Tra nhanh khi quên
 
-Hỏi kinh nghiệm, báo việc đã xong/chưa xong và chuyển sang Past Simple khi kể thời điểm cụ thể.
-
-## Bản chất của cấu trúc
-
-Present Perfect nối một sự việc trước đây với **hiện tại**: kinh nghiệm đến nay, kết quả hiện có, hoặc giai đoạn chưa kết thúc. Past Simple đặt sự việc trong giai đoạn đã khép lại. “I've sent it” tập trung vào việc giờ file đã được gửi; “I sent it yesterday” cho biết lúc gửi. *Have/has* luôn đi với **quá khứ phân từ (V3)**, không phải V2. Với *go*, V2 là *went* còn V3 là *gone*: “I went” nhưng “I have gone”.
-
-## Quy trình chọn Past Simple hay Present Perfect
-
-| Ý muốn truyền đạt | Thì phù hợp | Ví dụ |
+| Người nghe cần biết | Chọn | Ví dụ |
 |---|---|---|
-| Nêu việc ở mốc quá khứ đã kết thúc | Past Simple: V2 | I sent it yesterday. |
-| Báo kết quả hiện có, không nêu mốc đã khép lại | Present Perfect: have/has + V3 | I've sent it. |
-| Hỏi kinh nghiệm tính đến hiện tại | Present Perfect | Have you ever worked remotely? |
-| Hỏi thời điểm của một lần cụ thể | Past Simple | When did you work remotely? |
+| Việc xảy ra lúc nào trong quá khứ đã khép lại | Past Simple: V2 | I sent it yesterday. |
+| Việc đã xong chưa, kết quả hiện có là gì | Present Perfect: have/has + V3 | I've sent it. |
+| Đã từng trải nghiệm tính đến bây giờ chưa | Present Perfect | Have you ever worked remotely? |
+| Một trải nghiệm cụ thể xảy ra khi nào | Past Simple | When did you work remotely? |
 
-## Phân tích một tình huống
+**Tự hỏi:** “Tôi đang chỉ một mốc đã xong, hay đang nối chuyện cũ với hiện tại?”
 
-Đồng nghiệp hỏi “Is the file ready?”; trả lời “I've sent it” vì điều họ cần biết là file hiện đã được gửi. Nếu họ hỏi “When did you send it?”, trả lời “I sent it at nine.” Mốc chín giờ đặt hành động vào quá khứ cụ thể. Chú ý cặp “I've been to Hanoi” (đã đi rồi về) và “She's gone to Hanoi” (đã đi, thường chưa về): cùng thuộc Present Perfect nhưng V3 khác nhau làm nghĩa khác. Tra [bảng V3](../reference/irregular-verbs.md) khi cần.
+## Hiểu bản chất
 
-## Cấu trúc câu
+“I've sent the file” báo file **giờ đã được gửi**. “I sent it at nine” trả lời câu hỏi lúc gửi. Với *yesterday* hoặc *last year*, giai đoạn nói đến đã khép lại nên Past Simple thường phù hợp. Với *this week*, lựa chọn có thể phụ thuộc tuần đó còn đang diễn ra và góc nhìn của người nói.
 
-| Ý | Ghép câu |
-|---|---|
-| Đã/chưa | Subject + have/has (not) + V3 (+ yet/already) |
-| Từng bao giờ | Have/Has + subject + ever + V3? |
-| Mốc quá khứ đã xong | Subject + V2 + past time |
-| Hỏi thời điểm | When did + subject + verb? |
+V3 là quá khứ phân từ, không phải V2. *Write → wrote → written*: “I wrote it yesterday” nhưng “I've written it.” *Been to* thường nói đã đến và trở về; *gone to* thường nói đã đi và hiện không ở đây. Vì vậy “I've been to Hanoi” và “She's gone to Hanoi” không chỉ khác chủ ngữ. Tra [bảng V1–V2–V3](../reference/irregular-verbs.md) để chọn đúng dạng.
 
-## Cách dùng và ranh giới
+## Từ ý định đến câu
 
-“Have you ever been to Hanoi?” hỏi kinh nghiệm; trả lời “Yes, I went there last year” khi nêu *last year*. *Been to* thường nghĩa đã đến rồi về; *gone to* có thể nghĩa đã đi và chưa trở lại. Với *this morning*, chọn thì theo việc buổi sáng đã kết thúc hay vẫn đang diễn ra trong ngữ cảnh.
+Đồng nghiệp hỏi “Is the file ready?”:
 
-## Ví dụ trong ngữ cảnh
+1. Báo kết quả: **I've sent the file.**
+2. Báo chưa xong: **I haven't sent it yet.**
+3. Nếu họ hỏi “When did you send it?”, chuyển sang mốc: **I sent it at nine this morning.**
 
-| English | Nghĩa |
-|---|---|
-| I've finished the report. | Tôi đã làm xong báo cáo rồi. |
-| I haven't eaten yet. | Tôi vẫn chưa ăn. |
-| Have you ever tried this place? | Bạn từng thử quán này chưa? |
-| I tried it last week. | Tôi đã thử nó tuần trước. |
+Tương tự, “Have you ever tried this place?” hỏi kinh nghiệm. Khi trả lời “Yes, I tried it last week”, bạn đổi sang Past Simple vì đã nêu lần cụ thể.
 
-## Lỗi thường gặp
+## Những chỗ dễ nhầm
 
-- ❌ “I have wrote it.” → ✅ “I have written it.” Sau *have* là V3.
-- ❌ “I have met her yesterday.” → ✅ “I met her yesterday.” *Yesterday* là mốc đã kết thúc.
-- ❌ “Did you ever been there?” → ✅ “Have you ever been there?” nếu hỏi kinh nghiệm đến nay.
+- **I have written it** đúng; **I have wrote it** dùng nhầm V2 sau *have*.
+- **I met her yesterday** là mẫu thông thường; **I have met her yesterday** trộn mốc đã khép lại với góc nhìn Perfect.
+- “I've lived here for two years” thường hàm ý vẫn sống tại đây; “I lived here for two years” thường nói giai đoạn đã qua.
+- *For* đi với khoảng thời gian (*for two years*); *since* đi với điểm bắt đầu (*since 2024*).
 
-## Tạo câu từng bước
+## Các từ thường đi cùng và giới hạn của chúng
 
-1. Kết quả hiện tại: **I've sent the file.**
-2. Chưa xong: **I haven't sent the file yet.**
-3. Kể thời điểm: **I sent the file at nine this morning.** Đổi sang Past Simple khi nêu mốc đã xảy ra.
-
-## Biến đổi câu
-
-“She has finished” → “She hasn't finished” → “Has she finished?”. Khi có *when/last year/yesterday*, hỏi “When did she finish?” hoặc kể “She finished yesterday.”
-
-## Tình huống thực tế
-
-**A:** Have you sent the file yet?  
-**B:** Yes, I sent it this morning. Can you check your inbox?
-
-## Tự luyện tập
-
-1. Hỏi bạn từng đến Đà Nẵng chưa; sau đó hỏi họ đi khi nào.
-2. Nói bạn chưa ăn trưa.
-
-**Đáp án tham khảo:** 1. “Have you ever been to Da Nang? When did you go?” Câu đầu hỏi kinh nghiệm, câu sau hỏi mốc quá khứ. 2. “I haven't had lunch yet.” *Had* là V3 của *have*.
-
-## Tham chiếu nhanh
-
-Khi ghép *have/has + V3*, xem [bảng động từ bất quy tắc và cách phân biệt V2/V3](../reference/irregular-verbs.md); ví dụ *write–wrote–written* và *go–went–gone*.
-
-### Dùng thường xuyên: cụm thời gian và ý nghĩa
-
-| Cụm | Ví dụ / nghĩa | Ghi chú |
+| Ý | Ví dụ | Nghĩa trong ngữ cảnh |
 |---|---|---|
-| ever/never | Have you ever tried sushi? — Bạn từng thử sushi chưa? | Kinh nghiệm đến nay; *never* đã mang nghĩa phủ định. |
-| already/yet | I've already sent it. / I haven't sent it yet. — Tôi đã gửi rồi / vẫn chưa gửi. | *Yet* hay ở cuối câu hỏi/phủ định; không phải bắt buộc trong mọi câu. |
-| for/since | I've lived here for two years / since 2024. — Tôi sống ở đây hai năm / từ 2024. | *For* + khoảng thời gian; *since* + điểm bắt đầu. |
-| just | She's just left. — Cô ấy vừa đi. | Trong một số biến thể tiếng Anh, Past Simple cũng dùng được với *just*. |
+| Trải nghiệm | Have you **ever** been there? / I've **never** been there. | Đã từng / chưa từng tính đến nay. |
+| Kết quả vừa có | I've **just** sent it. / She's **already** left. | Vừa gửi / đã rời đi rồi. |
+| Kết quả chưa có | I haven't finished **yet**. | Tới lúc này vẫn chưa xong. |
+| Khoảng và điểm bắt đầu | I've worked here **for** two years / **since** 2024. | Được hai năm / từ năm 2024. |
 
-### Ranh giới và ngoại lệ
+Các từ trên gợi ngữ cảnh, nhưng bạn vẫn chọn thì theo ý định. “I worked there for two years” kể một giai đoạn đã kết thúc; “I've worked there for two years” thường gắn công việc ấy với hiện tại. Nếu nhấn **quá trình kéo dài**, “I've been working on the report all morning” có thể tự nhiên hơn “I've worked on the report all morning”. Nếu nhấn **sản phẩm đã hoàn tất**, nói “I've finished the report”.
 
-“I've lived here for two years” thường hàm ý **vẫn sống ở đây**; “I lived here for two years” thường là giai đoạn đã kết thúc. Với hành động kéo dài, Present Perfect Continuous nhấn quá trình: “I've been waiting for an hour” (Tôi đợi đã một giờ); “I've waited for an hour” cũng có thể đúng nhưng góc nhìn khác. “I've been to Paris” = đã đến và trở về; “She's gone to Paris” thường = đã đi và hiện không ở đây. *This week* có thể dùng Present Perfect nếu tuần chưa kết thúc; không chọn thì chỉ bằng cách nhìn một từ khóa.
+## Tự kiểm tra
 
-**Tự tạo câu:** Hỏi một kinh nghiệm bằng *Have you ever...?*, trả lời bằng Past Simple với một mốc đã khép lại, rồi nói một việc bạn chưa làm *yet*. Mẫu: “Have you ever worked remotely? Yes, I worked from home last year. I haven't tried working abroad yet.”
+1. Báo bạn đã ăn trưa xong, không nói lúc nào.
+2. Kể bạn ăn trưa lúc 12 giờ hôm qua.
+3. Hỏi bạn mình đã từng đến Đà Nẵng chưa, rồi hỏi họ đi khi nào.
 
-## Ôn tập với Anki
+<details>
+<summary>Đáp án tham khảo và lý do</summary>
 
-Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Present Perfect vs Past Simple` hoặc prefix `present_perfect.` (**42 cards**). [CSV pilot](../../source/pilot/notes.csv): `pilot.transform.02`, `pilot.transform.06`, `pilot.situation.02`, `pilot.situation.06`, `pilot.error.03`.
+1. **I've had lunch.** Kết quả tính đến hiện tại; *had* là V3 của *have*.
+2. **I had lunch at noon yesterday.** Mốc quá khứ đã khép lại.
+3. **Have you ever been to Da Nang? When did you go?** Câu đầu hỏi kinh nghiệm; câu sau hỏi một lần cụ thể.
+
+</details>

@@ -2,11 +2,11 @@
 
 **Business Analysis (11/11/2026):** Đã nhập 108 thẻ IT BA theo 13 chủ đề vào Anki, tập trung vào khái niệm, áp dụng, tình huống và review requirements. Xem [curriculum và nguồn](docs/business-analysis.md) cùng [CSV nguồn](source/business-analysis/notes.csv). Một deck duy nhất, phân loại bằng tags; không có audio. Mặt thẻ chỉ hiện đáp án chính, phần định nghĩa/giải thích thêm có thể mở khi cần; 15 thẻ có sơ đồ BPMN, UML hoặc dữ liệu tự vẽ. Nguồn chỉ lưu trong CSV.
 
-**Học từ bài giải thích đến phản xạ:** Mở [mục lục 16 bài ngữ pháp và nối ý](docs/README.md), đọc bài đúng chủ đề, tự tạo và nói vài câu, rồi mới ôn nhóm card được liên kết ở cuối bài. Quy trình: **Read Lesson → Understand Grammar → Practice Building Sentences → Review with Anki → Speak Aloud → Apply in AI Conversation**. Các bài Markdown giải thích kiến thức; nhóm thẻ nối ý mới được lưu trong CSV English Grammar và đồng bộ theo workflow backup.
+**Học ngữ pháp để tự tạo câu:** Mở [mục lục 16 bài học](docs/README.md). Mỗi bài có phần **Tra nhanh khi quên** để chọn cấu trúc trong một phút và phần đọc sâu để hiểu cách dùng, theo dõi một tình huống được dựng thành câu, rồi tự luyện với đáp án tham khảo. Có thể đọc theo lộ trình hoặc mở lại đúng bài khi cần. Tài liệu này đọc độc lập; nội dung thẻ được quản lý riêng theo workflow CSV bên dưới.
 
 **Nối ý thành câu (11/11/2026):** Thư mục lessons hiện gồm 15 bài ngữ pháp gốc và [bài 16: nối hai ý](docs/lessons/16-connecting-ideas.md). Chín bài Markdown giao tiếp đã được gỡ theo yêu cầu; thẻ Everyday English vẫn được giữ nguyên. [CSV English Grammar](source/english-grammar/notes.csv) hiện có 601 thẻ sau khi thêm 20 thẻ Connecting Ideas, tập trung vào because/so, but/although, and/or, when/if, because of/despite và trình tự thời gian. Dùng validate → diff → sync với backup như workflow bên dưới.
 
-[Báo cáo rà soát nội dung ngữ pháp](docs/GRAMMAR_AUDIT.md) tóm tắt phần kiến thức bổ sung và các chủ đề có thể mở rộng sau này.
+[Báo cáo rà soát nội dung ngữ pháp năm 2026](docs/GRAMMAR_AUDIT.md) lưu lại đợt kiểm tra trước khi 16 bài được viết lại; dùng [mục lục bài học](docs/README.md) để xem nội dung hiện tại.
 
 **Current Anki state (2026-11-09):** `English Grammar` (581 cards), `DE Knowledge` (322), `Everyday English` (95, including three suspended guided drills), and `English Essentials – Daily Reflex` (135) are in the live collection. Anki also retains an empty `Default` deck. The removed decks are recoverable from `private/backups/2026-11-04-pre-cleanup-v2/`; the snapshot immediately before expanding PDF day 1 is at `private/backups/2026-11-09-before-day01-expansion/`. See the [cleanup report](reports/cleanup-2026-11-04.md). The older Speaking Pilot remains source/package only.
 
