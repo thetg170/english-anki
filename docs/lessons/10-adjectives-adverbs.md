@@ -2,15 +2,30 @@
 
 **Học trước:** [Câu cơ bản](01-present-simple-continuous.md). **Học tiếp:** [So sánh](11-comparison.md).
 
-## Learning Objectives
+Để nói tự nhiên, bạn cần phân biệt đang mô tả **người/vật** hay **cách một hành động diễn ra**. Bài này giải thích vị trí tính từ, trạng từ và những cặp có hình thức gần giống nhưng nghĩa khác.
+
+## Sau bài này bạn làm được gì
 
 Miêu tả người, vật, cảm giác và cách một hành động diễn ra; dùng *good/well*, *-ed/-ing* đúng nghĩa.
 
-## Core Concepts
+## Bản chất của cấu trúc
 
 Tính từ thường mô tả danh từ hoặc chủ ngữ sau *be, look, feel, sound, seem*: “The plan sounds good.” Trạng từ thường mô tả cách làm: “She explained it clearly.” Nhiều trạng từ thêm *-ly*, nhưng *fast, hard, late* có thể là trạng từ không *-ly*. Với cảm xúc, *bored* = người cảm thấy chán; *boring* = thứ gây chán.
 
-## Sentence Structures
+## Quy trình chọn tính từ hoặc trạng từ
+
+| Muốn mô tả | Dùng | Ví dụ |
+|---|---|---|
+| Đặc điểm của danh từ | Tính từ trước danh từ | She's a careful driver. |
+| Đặc điểm của chủ ngữ sau *be/look/sound/feel* | Tính từ | She sounds tired. |
+| Cách hành động diễn ra | Trạng từ | She drives carefully. |
+| Mức độ của tính từ/trạng từ | Từ chỉ mức độ | She drives very carefully. |
+
+## Phân tích một tình huống
+
+“She is a good speaker” mô tả **người nói**; “She speaks well” mô tả **cách nói**. Vì vậy “She speaks good” không phải lựa chọn chuẩn trong mẫu cơ bản này. Tuy nhiên *well* còn có nghĩa “khỏe”: “I don't feel well”. Đừng áp dụng máy móc quy tắc thêm *-ly*: *hard* đã là trạng từ trong “She works hard”, còn *hardly* nghĩa là “hầu như không”. Bắt đầu bằng câu hỏi “đang mô tả ai/cái gì hay mô tả hành động như thế nào?” rồi mới chọn từ.
+
+## Cấu trúc câu
 
 | Ý | Ghép câu |
 |---|---|
@@ -18,11 +33,11 @@ Tính từ thường mô tả danh từ hoặc chủ ngữ sau *be, look, feel, 
 | Mô tả hành động | subject + verb + adverb |
 | Cảm giác / nguồn gây cảm giác | person + be + -ed adjective; thing + be + -ing adjective |
 
-## Usage
+## Cách dùng và ranh giới
 
 “You sound tired” nói về ấn tượng khi nghe; “You speak quietly” nói về cách nói. *Good* là tính từ; *well* thường là trạng từ, nhưng “I don't feel well” cũng là cách nói tự nhiên về sức khỏe. *Hardly* không phải cách thường để nói “một cách chăm chỉ”: “I work hard” khác “I hardly work” (tôi hầu như không làm việc).
 
-## Examples
+## Ví dụ trong ngữ cảnh
 
 | English | Nghĩa |
 |---|---|
@@ -31,44 +46,44 @@ Tính từ thường mô tả danh từ hoặc chủ ngữ sau *be, look, feel, 
 | I'm bored, but the movie isn't boring. | Tôi thấy chán, nhưng phim không nhàm chán. |
 | He came home late last night. | Tối qua anh ấy về nhà muộn. |
 
-## Common Mistakes
+## Lỗi thường gặp
 
 - ❌ “She speaks clear.” → ✅ “She speaks clearly.” Bổ nghĩa cho cách nói.
 - ❌ “The plan sounds well.” → ✅ “The plan sounds good.” *Sounds* là linking verb; mô tả *plan*.
 - ❌ “I'm boring with this task.” → ✅ “I'm bored with this task.” Người đang cảm thấy chán.
 
-## Sentence Building
+## Tạo câu từng bước
 
 1. Miêu tả người: **He's a good speaker.**
 2. Miêu tả hành động: **He speaks well.**
 3. Thêm mức độ và ngữ cảnh: **He speaks very clearly during meetings.**
 
-## Variations
+## Biến đổi câu
 
 Đổi chủ ngữ: “She sounds tired” / “They sound tired.” Phủ định: “She doesn't sound tired.” Hỏi: “Does she sound tired?”. Đổi từ miêu tả người sang vật: “I'm excited” / “The trip is exciting”.
 
-## Real-life Situations
+## Tình huống thực tế
 
 **A:** How was the presentation?  
 **B:** Clear and interesting. Mai explained everything really well.
 
-## Practice
+## Tự luyện tập
 
 1. Nói đồng nghiệp là người lái xe cẩn thận và lái rất cẩn thận.
 2. Nói bạn thấy hào hứng vì một dự án thú vị.
 
 **Đáp án tham khảo:** 1. “He's a careful driver. He drives very carefully.” Tính từ trước danh từ; trạng từ sau động từ. 2. “I'm excited about an exciting project.” *Excited* là cảm giác của bạn; *exciting* là đặc tính dự án.
 
-## Tra cứu và mở rộng
+## Tham chiếu nhanh
 
-### Must Know
+### Dùng thường xuyên
 
 | Cặp / cấu trúc | Ví dụ / nghĩa | Dùng khi nào |
 |---|---|---|
 | -ed ↔ -ing | I'm bored. The talk is boring. — Tôi chán; buổi nói chuyện gây chán. | Người cảm nhận ↔ thứ gây cảm giác. |
 | look/feel/sound + adjective | That sounds great. — Nghe hay đấy. | Linking verb nối chủ ngữ với đặc điểm. |
 
-### Good to Know: các cặp dễ nhầm khi tự ghép câu
+### Mở rộng: các cặp dễ nhầm khi tự ghép câu
 
 Hỏi trước: **đang mô tả người/vật, hay mô tả cách hành động diễn ra?** Sau *be/look/sound* thường dùng tính từ để nói đặc điểm của chủ ngữ. Sau động từ hành động thường dùng trạng từ để nói cách làm. Đừng tự thêm *-ly*: một số từ đổi nghĩa hẳn.
 
@@ -87,6 +102,6 @@ Một số tính từ đi với giới từ riêng: *interested in* (quan tâm �
 
 **Tự tạo câu:** Dùng một người và một hoạt động để nói (1) đặc điểm, (2) cách làm, (3) cảm nhận. Mẫu: “Mai is a careful driver. She drives carefully. I feel safe with her.”
 
-## Anki Review
+## Ôn tập với Anki
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Adjectives &amp; Adverbs` hoặc prefix `adjectives_adverbs.` (**36 cards**).
