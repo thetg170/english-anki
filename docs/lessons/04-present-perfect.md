@@ -10,7 +10,7 @@ Hỏi kinh nghiệm, báo việc đã xong/chưa xong và chuyển sang Past Sim
 
 ## Bản chất của cấu trúc
 
-Present Perfect nối một sự việc trước đây với **hiện tại**: kinh nghiệm đến nay, kết quả hiện có, hoặc giai đoạn chưa kết thúc. Past Simple đặt sự việc trong giai đoạn đã khép lại. “I've sent it” tập trung vào việc giờ file đã được gửi; “I sent it yesterday” cho biết lúc gửi. *Have/has* luôn đi với **past participle (V3)**, không phải V2.
+Present Perfect nối một sự việc trước đây với **hiện tại**: kinh nghiệm đến nay, kết quả hiện có, hoặc giai đoạn chưa kết thúc. Past Simple đặt sự việc trong giai đoạn đã khép lại. “I've sent it” tập trung vào việc giờ file đã được gửi; “I sent it yesterday” cho biết lúc gửi. *Have/has* luôn đi với **quá khứ phân từ (V3)**, không phải V2. Với *go*, V2 là *went* còn V3 là *gone*: “I went” nhưng “I have gone”.
 
 ## Quy trình chọn Past Simple hay Present Perfect
 

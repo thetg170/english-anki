@@ -10,7 +10,7 @@ Kể một việc hoặc chuỗi việc đã kết thúc, nói lúc nào xảy r
 
 ## Bản chất của cấu trúc
 
-Past Simple đặt sự việc vào **một thời điểm/giai đoạn đã khép lại**: “I sent it yesterday.” Với động từ thường, câu khẳng định dùng V2; khi có *did/didn't*, động từ chính trở về nguyên thể. Với *be*, dùng *was/were* và không thêm *did*.
+Past Simple đặt sự việc vào **một thời điểm/giai đoạn đã khép lại**: “I sent it yesterday.” Với động từ thường, câu khẳng định dùng V2 (dạng quá khứ đơn); khi có *did/didn't*, động từ chính trở về V1 (dạng gốc). Ví dụ: *go → went* nhưng “Did you go?”. Với *be*, dùng *was/were* và không thêm *did*.
 
 ## Quy trình kể một việc đã xong
 

@@ -10,7 +10,7 @@ Nói “có một...”, thời tiết/thời gian/khoảng cách; đặt câu h
 
 ## Bản chất của cấu trúc
 
-Tiếng Anh thường cần chủ ngữ rõ. *There is/are* giới thiệu sự tồn tại: “There's a problem.” *It* làm chủ ngữ khi nói thời tiết, giờ, khoảng cách hoặc thay cho một ý đã biết: “It's raining”; “It's five miles away.” Câu hỏi trực tiếp có thể cần trợ động từ (*do/does/did*) hoặc đảo *be*; câu hỏi gián tiếp giữ trật tự như câu kể: “Do you know where the room is?”. Cảm thán *What + noun phrase!* khác *How + adjective/adverb!*
+Tiếng Anh thường cần chủ ngữ rõ. **Bổ ngữ** là phần mô tả hoặc hoàn thiện ý nghĩa cho chủ ngữ/tân ngữ: “She is **ready**” và “The news made me **happy**”; nó khác tân ngữ nhận hành động. *There is/are* giới thiệu sự tồn tại: “There's a problem.” *It* làm chủ ngữ khi nói thời tiết, giờ, khoảng cách hoặc thay cho một ý đã biết: “It's raining”; “It's five miles away.” Câu hỏi trực tiếp có thể cần trợ động từ (*do/does/did*) hoặc đảo *be*; câu hỏi gián tiếp giữ trật tự như câu kể: “Do you know where the room is?”. Cảm thán *What + noun phrase!* khác *How + adjective/adverb!*
 
 ## Quy trình chọn khung câu
 

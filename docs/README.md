@@ -8,6 +8,22 @@ Xem [quy chuẩn viết bài học](LESSON_WRITING.md) nếu bạn muốn hiểu
 
 Mỗi bài bắt đầu bằng mục tiêu và kiến thức cần học trước. Phần **quy trình chọn cấu trúc** giúp bạn quyết định nên dùng mẫu nào; phần **phân tích một tình huống** cho thấy lựa chọn đó thay đổi thế nào khi ý định đổi. Sau đó mới đọc công thức, trường hợp dễ nhầm và tự luyện. Cách tổ chức này theo hướng tài liệu tra cứu: bạn có thể quay lại đúng mục đang cần mà không phải đọc lại từ đầu.
 
+## Thuật ngữ cần biết trước khi đọc
+
+Các tên gọi dưới đây giúp bạn hiểu bảng cấu trúc. Khi nói, hãy nghĩ tới **ý muốn truyền đạt** trước; thuật ngữ chỉ giúp kiểm tra lại câu.
+
+| Thuật ngữ | Nghĩa trong bài học | Ví dụ |
+|---|---|---|
+| Chủ ngữ (*subject*) | Người, vật hoặc sự việc mà câu nói tới; không nhất thiết là người thực hiện hành động. | **Mai** called. / **The file** was sent. |
+| Động từ chính | Nêu hành động hoặc trạng thái của câu. | She **works** here. / She **is** tired. |
+| Tân ngữ (*object*) | Người hoặc vật nhận tác động của động từ trong câu chủ động. | Mai sent **the file**. |
+| Bổ ngữ (*complement*) | Từ/cụm từ hoàn thiện ý nghĩa bằng cách mô tả chủ ngữ hoặc tân ngữ; không nhất thiết là vật bị tác động. | She is **tired**. / The news made me **happy**. |
+| Mệnh đề (*clause*) | Nhóm từ có chủ ngữ và động từ chia thì. Mệnh đề độc lập tự thành câu; mệnh đề phụ cần đi cùng một vế khác. | **I stayed home**; **because it rained**. |
+| Trợ động từ (*auxiliary verb*) | Từ giúp tạo câu hỏi, phủ định hoặc các thì/thể; trong bài này thường là *do, be, have*. | **Did** you call? / She **has** left. |
+| V1 / V2 / V3 | Dạng gốc / dạng quá khứ đơn / quá khứ phân từ. V3 dùng sau *have* hoặc trong bị động sau *be*. | go / went / gone; I went; I've gone. |
+
+Một từ có thể đổi vai trò theo câu. Trong “She **is** tired”, *is* là động từ chính nối với tính từ; trong “She **is working**”, *is* giúp tạo hiện tại tiếp diễn. Tra [bảng động từ bất quy tắc](reference/irregular-verbs.md) khi cần phân biệt V2 và V3.
+
 ## Cách học một bài
 
 1. Đọc mục tiêu và ví dụ, chọn một tình huống thật.
