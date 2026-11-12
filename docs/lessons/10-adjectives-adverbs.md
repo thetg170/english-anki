@@ -10,7 +10,7 @@ Miêu tả người, vật, cảm giác và cách một hành động diễn ra;
 
 ## Bản chất của cấu trúc
 
-Tính từ thường mô tả danh từ hoặc chủ ngữ sau *be, look, feel, sound, seem*: “The plan sounds good.” Trạng từ thường mô tả cách làm: “She explained it clearly.” Nhiều trạng từ thêm *-ly*, nhưng *fast, hard, late* có thể là trạng từ không *-ly*. Với cảm xúc, *bored* = người cảm thấy chán; *boring* = thứ gây chán.
+Các động từ nối (*linking verbs*) như *be, look, feel, sound, seem* nối chủ ngữ với đặc điểm của chính nó; vì vậy tính từ thường đứng sau chúng: “The plan sounds good.” Trạng từ thường mô tả cách làm: “She explained it clearly.” Nhiều trạng từ thêm *-ly*, nhưng *fast, hard, late* có thể là trạng từ không *-ly*. Với cảm xúc, *bored* = người cảm thấy chán; *boring* = thứ gây chán.
 
 ## Quy trình chọn tính từ hoặc trạng từ
 

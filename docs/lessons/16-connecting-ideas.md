@@ -10,7 +10,7 @@ Nói một ý rồi thêm ý thứ hai bằng *and, but, or, because, so, althou
 
 ## Bản chất của cấu trúc
 
-Đừng học từ nối như những từ dịch rời. Trước tiên nói hai câu ngắn: “I'm tired. I'll go home.” Sau đó xác định quan hệ: **lý do** (“I'm going home because I'm tired”), **kết quả** (“I'm tired, so I'm going home”) hay **đối lập** (“I'm tired, but I'll finish this first”). Mỗi vế có chủ ngữ và động từ khi là một mệnh đề đầy đủ. Trong lời nói, hai câu ngắn vẫn tự nhiên; chỉ nối khi quan hệ giúp người nghe hiểu nhanh hơn.
+Đừng học từ nối như những từ dịch rời. Trước tiên nói hai câu ngắn: “I'm tired. I'll go home.” Sau đó xác định quan hệ: **lý do** (“I'm going home because I'm tired”), **kết quả** (“I'm tired, so I'm going home”) hay **đối lập** (“I'm tired, but I'll finish this first”). **Mệnh đề** là nhóm từ có chủ ngữ và động từ chia thì: “I stayed home” có thể đứng một mình; “because it rained” cần vế chính để câu hoàn chỉnh. Mỗi vế có chủ ngữ và động từ khi là một mệnh đề đầy đủ. Trong lời nói, hai câu ngắn vẫn tự nhiên; chỉ nối khi quan hệ giúp người nghe hiểu nhanh hơn.
 
 ## Quy trình xác định quan hệ giữa hai ý
 
