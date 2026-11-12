@@ -1,97 +1,63 @@
-# 03. Nói về dự định, lịch hẹn và quyết định
+# 03. Nói dự định, quyết định và lịch hẹn
 
-**Học trước:** [Hiện tại đơn/tiếp diễn](01-present-simple-continuous.md). **Học tiếp:** [Nối hai ý](16-connecting-ideas.md).
+Tiếng Anh có nhiều cách nói về tương lai vì **mức chuẩn bị** của người nói khác nhau. Bài này giúp chọn cách diễn đạt phù hợp với điều đã quyết, đã xếp lịch hoặc vừa nghĩ ra.
 
-Tiếng Anh có nhiều cách nói về tương lai vì người nói có thể hứa, dự định, đã xếp lịch hoặc đọc một lịch trình. Bài này giúp bạn chọn cách nói theo mức chuẩn bị thực tế.
+**Cần biết trước:** [Hiện tại đơn và tiếp diễn](01-present-simple-continuous.md).
 
-## Sau bài này bạn làm được gì
+## Tra nhanh khi quên
 
-Nói quyết định vừa đưa ra, dự định đã có, lịch hẹn đã sắp xếp; hỏi hoặc phủ định các kế hoạch đó.
-
-## Bản chất của cấu trúc
-
-Tiếng Anh có nhiều cách hướng tới tương lai. *Will* thường hợp khi quyết ngay lúc nói, hứa hoặc dự đoán. *Be going to* thường hợp với ý định đã có hoặc dự đoán có dấu hiệu hiện tại. *Present Continuous + mốc tương lai* hợp với cuộc hẹn/lịch đã thu xếp. Đây là **sắc thái thường gặp**, không phải ba ngăn tách biệt tuyệt đối.
-
-## Quy trình nói về tương lai
-
-| Điều người nói biết vào lúc này | Chọn mẫu thường dùng | Ví dụ |
+| Tình huống | Cách nói thường dùng | Ví dụ |
 |---|---|---|
-| Vừa quyết định hoặc hứa ngay khi nói | *will + V* | I'll send it now. |
-| Đã có ý định trước khi nói | *be going to + V* | I'm going to call her tonight. |
-| Đã sắp xếp lịch gặp hoặc hoạt động | Hiện tại tiếp diễn + mốc tương lai | I'm meeting her tomorrow. |
-| Lịch trình cố định | Hiện tại đơn | The train leaves at seven. |
+| Vừa quyết định hoặc hứa khi nói | will + V1 | I'll send it now. |
+| Đã có ý định trước lúc nói | be going to + V1 | I'm going to call her tonight. |
+| Đã thu xếp một lịch hẹn | Hiện tại tiếp diễn + thời gian | I'm meeting her tomorrow. |
+| Lịch trình được công bố | Hiện tại đơn | The train leaves at seven. |
+| Chỉ là khả năng | might/may + V1 | I might join later. |
 
-## Phân tích một tình huống
+**Tự hỏi:** “Tôi đã làm gì để chuẩn bị cho việc này?” Câu trả lời giúp chọn mẫu, dù trong hội thoại một số cách vẫn có thể thay nhau tùy sắc thái.
 
-Bạn đã đặt lịch gặp Mai vào thứ Sáu: “I'm meeting Mai on Friday.” Nếu chưa hẹn mà mới định liên hệ, “I'm going to call Mai on Friday” nói về ý định gọi, không xác nhận rằng cuộc gặp đã được sắp xếp. Khi điện thoại reo và bạn quyết định nhấc máy ngay, “I'll get it” là quyết định tại chỗ. Các cách này có thể chồng lấn trong lời nói; trọng tâm là **mức độ chuẩn bị và cam kết**, không phải chọn theo một từ khóa đơn lẻ.
+## Hiểu bản chất
 
-## Cấu trúc câu
+“I'm meeting Mai on Friday” gợi một cuộc hẹn đã được sắp xếp. “I'm going to call Mai on Friday” chỉ khẳng định ý định **gọi**, không chứng minh Mai đã nhận lời gặp. Khi điện thoại reo và bạn quyết định nhấc ngay, “I'll get it” là quyết định tại chỗ. *Will* cũng dùng cho dự đoán và lời hứa; không nên gán cho nó một nghĩa duy nhất.
 
-| Ý | Ghép câu |
-|---|---|
-| Quyết định/lời hứa | Subject + will/won't + verb |
-| Dự định | Subject + am/is/are (not) going to + verb |
-| Lịch đã hẹn | Subject + am/is/are + verb-ing + future time |
-| Câu hỏi | Will + subject + verb?; Be + subject + going to + verb? |
+Khi một mệnh đề thời gian hoặc điều kiện hướng về tương lai, tiếng Anh thường dùng hiện tại đơn trong vế đó: “I'll call you **when I arrive**”; “If it rains, we'll stay in.” Vế chính vẫn có thể dùng *will*. Đây là mẫu dự đoán thường gặp; một số cách dùng *will* trong vế *if* mang nghĩa sẵn lòng là trường hợp khác.
 
-## Cách dùng và ranh giới
+## Từ ý định đến câu
 
-“I'll help you” có thể là lời đáp ngay khi nghe bạn cần giúp. “I'm going to paint my room” cho thấy dự định đã có. “I'm meeting the client at ten tomorrow” ngụ ý lịch đã chốt. Lịch trình cố định như “The train leaves at six” cũng có thể dùng hiện tại đơn.
+Bạn muốn cập nhật kế hoạch cho đồng nghiệp:
 
-## Ví dụ trong ngữ cảnh
+1. Mới nghĩ ra giải pháp: **I'll ask Mai.**
+2. Đã định hỏi từ trước: **I'm going to ask Mai after lunch.**
+3. Đã hẹn Mai để trao đổi: **I'm meeting Mai at two.**
 
-| English | Nghĩa |
-|---|---|
-| I'll send it now. | Tôi sẽ gửi ngay. |
-| I'm going to cook at home tonight. | Tôi định nấu ở nhà tối nay. |
-| We're meeting at the café tomorrow. | Mai chúng tôi hẹn gặp ở quán cà phê. |
-| Are you going to join the call? | Bạn định tham gia cuộc gọi à? |
+Ba câu đều hướng về tương lai nhưng thông tin về mức cam kết khác nhau. Nếu chưa chắc dự họp được, “I might join” trung thực hơn “I'll join”.
 
-## Lỗi thường gặp
+## Những chỗ dễ nhầm
 
-- ❌ “She going to start.” → ✅ “She is going to start.” Cần *be*.
-- ❌ “He will joins.” → ✅ “He will join.” Sau *will* dùng nguyên thể.
-- ❌ “I'm meet him tomorrow.” → ✅ “I'm meeting him tomorrow” nếu đã hẹn; hoặc “I'll meet him tomorrow” theo ý định.
+- *Going to* cần *be*: **I'm going to leave**, không phải **I going to leave**.
+- “I'm about to leave” nghĩa là sắp đi **ngay**, không phải một kế hoạch tuần sau.
+- “I'll probably go” và “I might go” không có mức chắc chắn cố định tuyệt đối; giọng điệu và ngữ cảnh vẫn ảnh hưởng.
+- Lịch chạy tàu dùng “The train leaves at seven”, dù việc xảy ra trong tương lai.
 
-## Tạo câu từng bước
+## Dự đoán khác với kế hoạch
 
-1. Ý định: **I’m going to call Mai.**
-2. Thêm thời gian: **I’m going to call Mai after lunch.**
-3. Nếu đã hẹn cụ thể, đổi góc nhìn: **I’m calling Mai at two.** Chỉ đổi cấu trúc khi ngữ cảnh thay đổi.
+*Going to* còn dùng khi có dấu hiệu hiện tại: “Look at those clouds. It's going to rain” (Nhìn mây kìa, sắp mưa). *Will* cũng dự đoán, thường thể hiện đánh giá của người nói: “I think it'll rain later” (Tôi nghĩ lát nữa sẽ mưa). Đây là cách định hướng cách nói, không phải quy tắc cứng cho mọi dự đoán.
 
-## Biến đổi câu
+“I'm flying to Hanoi on Friday” gợi việc đã thu xếp như đặt vé; “The flight leaves at seven” nói giờ trong lịch bay. Nếu chỉ muốn nói ý định chưa có lịch, “I'm going to fly to Hanoi next month” là đủ. Khi hẹn lại, “I'll call when I arrive” dùng *arrive* sau *when*; “I'll call if I arrive early” thêm điều kiện **đến sớm**. Đừng thêm *will* vào vế *when/if* chỉ vì sự việc chưa xảy ra.
 
-“She'll call” → “She won't call” → “Will she call?”. “She's going to call” → “She isn't going to call” → “Is she going to call?”. “We're meeting” → “Are we meeting?”.
+## Tự kiểm tra
 
-## Tình huống thực tế
+1. Điện thoại reo; bạn quyết định bắt máy ngay.
+2. Bạn đã đặt lịch gặp Mai ngày mai.
+3. Bạn chưa chắc có thể tham gia buổi họp.
 
-**A:** We need someone to check the slides.  
-**B:** I'll do it. I'm meeting the client tomorrow, so I can ask them too.
+<details>
+<summary>Đáp án tham khảo và lý do</summary>
 
-## Tự luyện tập
+1. **I'll get it.** Quyết định ngay lúc nói.
+2. **I'm meeting Mai tomorrow.** Lịch đã thu xếp.
+3. **I might join the meeting.** Mới là khả năng.
 
-1. Bạn vừa nghe đồng nghiệp cần giúp, hãy nhận làm ngay.
-2. Bạn đã đặt lịch gặp khách hàng lúc 10 giờ sáng mai, hãy nói lịch đó.
+</details>
 
-**Đáp án tham khảo:** 1. “I'll help you.” *Will* hợp với quyết định ngay lúc nói. 2. “I'm meeting the client at ten tomorrow.” Hiện tại tiếp diễn nhấn mạnh lịch đã thu xếp; “I'm going to meet...” cũng có thể đúng nếu đang nhấn mạnh ý định.
-
-## Tham chiếu nhanh
-
-### Dùng thường xuyên: chọn theo điều bạn thực sự muốn nói
-
-| Cấu trúc | Tình huống thường gặp | Ví dụ / nghĩa |
-|---|---|---|
-| will + V | Quyết ngay, hứa, dự đoán | I'll call you back. — Tôi sẽ gọi lại. |
-| be going to + V | Ý định đã có; dấu hiệu hiện tại | Look at those clouds. It's going to rain. — Nhìn mây kìa, sắp mưa rồi. |
-| be + V-ing + mốc tương lai | Lịch hẹn đã sắp xếp | I'm seeing the dentist on Friday. — Thứ Sáu tôi hẹn nha sĩ. |
-| hiện tại đơn + mốc tương lai | Lịch trình cố định | The train leaves at six. — Tàu khởi hành lúc sáu giờ. |
-
-### Ranh giới và ngoại lệ
-
-“I'll probably go” (*probably* = có lẽ) khác “I might go” (có thể, ít cam kết hơn); mức chắc chắn phụ thuộc giọng điệu và ngữ cảnh. “I'm about to leave” = sắp rời đi **ngay**, không phải một kế hoạch cho tuần sau. Trong mệnh đề thời gian/điều kiện thông thường, dùng hiện tại đơn cho tương lai: “I'll call you **when I arrive**” (Tôi sẽ gọi khi đến), “If it rains, we'll stay in” (Nếu mưa, chúng ta ở trong); không tự động thêm *will* sau *when/if*. Một số cách dùng *will* trong vế *if* vẫn tồn tại khi nói về sự sẵn lòng, nên đây là quy tắc cho mẫu dự đoán cơ bản.
-
-**Tự tạo câu:** Cùng một việc “gọi Mai”, nói ba phiên bản: quyết ngay (*I'll call Mai now*), dự định (*I'm going to call Mai tonight*), lịch đã hẹn (*I'm calling Mai at eight*). Giải thích vì sao bạn chọn mỗi dạng.
-
-## Ôn tập với Anki
-
-Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Future: will · be going to · Present Continuous` hoặc prefix `future.` (**32 cards**). [CSV pilot](../../source/pilot/notes.csv) có `pilot.situation.03` để luyện tình huống.
+**Đọc tiếp:** [Nối hai ý](16-connecting-ideas.md) để thêm điều kiện và thời điểm vào kế hoạch.

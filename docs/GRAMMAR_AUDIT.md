@@ -1,5 +1,7 @@
 # Grammar Content Audit — 2026-11-06
 
+> **Lưu trữ:** Báo cáo này mô tả phiên bản bài học trước đợt viết lại. Các mục kiểm tra, số lượng thẻ và liên kết ôn tập bên dưới là dữ liệu lịch sử, không mô tả nội dung 16 bài hiện tại. Xem [mục lục bài học](README.md) để đọc bản mới.
+
 ## Phạm vi và cách làm
 
 Báo cáo này ghi lại đợt rà soát cũ của 24 bài: 15 bài ngữ pháp và 9 bài giao tiếp. Sau đó, 9 bài giao tiếp được gỡ theo yêu cầu; thư mục bài học hiện giữ 15 bài ngữ pháp và bài 16 về nối ý.

@@ -1,107 +1,67 @@
-# 02. Kể việc đã xảy ra
+# 02. Kể một việc đã xảy ra
 
-**Học trước:** [Thói quen và việc đang diễn ra](01-present-simple-continuous.md). **Học tiếp:** [Hiện tại hoàn thành và quá khứ đơn](04-present-perfect.md).
+Past Simple dùng khi bạn đặt một sự việc vào **giai đoạn quá khứ đã khép lại**. Bài này giúp bạn kể, hỏi và phủ định mà không nhầm V1 với V2.
 
-Dùng bài này khi cần kể điều đã xảy ra và đã khép lại: hôm qua làm gì, ai đã gọi, việc nào đến trước trong một chuỗi. Trọng tâm là giữ V2 ở câu khẳng định nhưng trở lại V1 sau *did/didn’t*.
+**Cần biết trước:** [Hiện tại đơn và tiếp diễn](01-present-simple-continuous.md). V1 là dạng gốc; V2 là dạng quá khứ đơn; V3 là quá khứ phân từ.
 
-## Sau bài này bạn làm được gì
+## Tra nhanh khi quên
 
-Kể một việc hoặc chuỗi việc đã kết thúc, nói lúc nào xảy ra, hỏi và phủ định mà không chia sai động từ.
-
-## Bản chất của cấu trúc
-
-Past Simple đặt sự việc vào **một thời điểm/giai đoạn đã khép lại**: “I sent it yesterday.” Với động từ thường, câu khẳng định dùng V2 (dạng quá khứ đơn); khi có *did/didn't*, động từ chính trở về V1 (dạng gốc). Ví dụ: *go → went* nhưng “Did you go?”. Với *be*, dùng *was/were* và không thêm *did*.
-
-## Quy trình kể một việc đã xong
-
-| Cần xác định | Cách xử lý | Ví dụ |
+| Muốn nói | Cách ghép | Ví dụ |
 |---|---|---|
-| Việc thuộc mốc hoặc giai đoạn đã kết thúc? | Dùng Past Simple; động từ thường ở V2. | I sent the file yesterday. |
-| Muốn hỏi hoặc phủ định động từ thường? | Đưa thì quá khứ vào *did/didn't*; động từ chính về V1. | Did you send it? / I didn't send it. |
-| Động từ chính là *be*? | Dùng *was/were*; không mượn *did*. | She was busy. / Was she busy? |
+| Việc đã xong | Chủ ngữ + V2 | I sent the file yesterday. |
+| Hỏi việc đã xảy ra | Did + chủ ngữ + V1? | Did you send it? |
+| Phủ định | Chủ ngữ + didn't + V1 | I didn't send it. |
+| Dùng động từ *be* | was/were, không mượn *did* | She was busy. / Was she busy? |
 
-## Phân tích một tình huống
+**Tự hỏi:** “Tôi đang kể một lần cụ thể trong quá khứ, hay đang báo kết quả hiện tại?” Nếu là kết quả hiện tại, xem [Present Perfect](04-present-perfect.md).
 
-Bạn muốn kể vì sao đến muộn: “I missed the bus, so I took a taxi.” Cả *missed* và *took* đều chỉ việc đã hoàn tất. Nếu người nghe hỏi “Did you call the office?”, bạn trả lời “Yes, I called them” hoặc “No, I didn't call them.” Sau *didn't*, *call* trở về V1. Khi nói “I have missed the bus” mà vẫn đang loay hoay tìm đường, bạn chuyển trọng tâm sang hậu quả hiện tại; bài [Present Perfect](04-present-perfect.md) giải thích rõ sự khác nhau này.
+## Hiểu bản chất
 
-## Cấu trúc câu
+“I met Mai yesterday” chỉ việc gặp Mai ở một mốc đã qua. Bạn có thể kể cả chuỗi bằng nhiều V2: “I got home, made dinner and called Mai.” Một mốc như *yesterday*, *last Friday* hoặc *in 2022* thường giúp xác định giai đoạn khép lại, nhưng ý của cả câu vẫn quan trọng hơn một từ khóa.
 
-| Ý | Ghép câu |
-|---|---|
-| Khẳng định | Subject + V2 + time; subject + was/were + complement |
-| Phủ định | Subject + didn't + verb; subject + wasn't/weren't + complement |
-| Hỏi | Did + subject + verb?; Was/Were + subject + complement? |
+Động từ có quy tắc thường thêm *-ed*: *work → worked*, *study → studied*, *stop → stopped*. Động từ bất quy tắc phải nhớ riêng: *go → went → gone*. Trong Past Simple, dùng **went**; sau *have* hoặc trong một số cấu trúc khác, dùng **gone**. Tra [bảng động từ bất quy tắc](../reference/irregular-verbs.md) khi cần.
 
-## Cách dùng và ranh giới
+## Từ ý định đến câu
 
-*Yesterday, last Friday, in 2022* thường chỉ giai đoạn đã kết thúc. Có thể kể chuỗi việc bằng nhiều động từ V2: “I got home, made dinner and called Mai.” Nếu kết quả còn liên quan hiện tại mà không nêu thời điểm đã khép lại, xem [Present Perfect](04-present-perfect.md).
+Bạn muốn kể vì sao đến muộn hôm qua:
 
-## Ví dụ trong ngữ cảnh
+1. Chọn hai việc đã hoàn tất: **I missed the bus. I took a taxi.**
+2. Nối theo thứ tự nguyên nhân và kết quả: **I missed the bus, so I took a taxi.**
+3. Nếu người nghe hỏi “Did you call the office?”, trả lời **Yes, I called them** hoặc **No, I didn't call them**.
 
-| English | Nghĩa |
-|---|---|
-| I checked the file this morning. | Sáng nay tôi đã kiểm tra file. |
-| We went to the café after work. | Chúng tôi đi quán cà phê sau giờ làm. |
-| Did you call her yesterday? | Hôm qua bạn gọi cho cô ấy chưa? |
-| I wasn't at the office last Friday. | Thứ Sáu trước tôi không ở văn phòng. |
+Trong câu hỏi và phủ định, *did* đã mang thì quá khứ; động từ chính dùng V1. Với *be*, nói “She was late” và “Was she late?”, không nói “Did she was late?”.
 
-## Lỗi thường gặp
+## Những chỗ dễ nhầm
 
-- ❌ “Did you went?” → ✅ “Did you go?” *Did* đã mang thì quá khứ.
-- ❌ “I didn't checked it.” → ✅ “I didn't check it.” Sau *didn't* dùng nguyên thể.
-- ❌ “I was go home.” → ✅ “I went home.” *Was* không đứng trước V2 để tạo quá khứ đơn.
+- **Did you go?** đúng; **Did you went?** sai vì chia quá khứ hai lần.
+- **I didn't check it** đúng; *checked* không theo sau *didn't*.
+- “I used to work here” nói thói quen cũ nay đã đổi. “I'm used to working here” nói đã quen với công việc hiện tại; *to* trong cụm thứ hai là giới từ.
+- Đuôi *-ed* có thể đọc /t/ trong *worked*, /d/ trong *played*, /ɪd/ trong *wanted*.
 
-## Tạo câu từng bước
+## Kể thói quen cũ mà không nhầm với “đã quen”
 
-1. Chọn hành động: **I checked the report.**
-2. Đặt mốc: **I checked the report this morning.**
-3. Thêm kết quả: **I checked the report this morning and sent it to Mai.** Hai việc nối tiếp dùng V2.
-
-## Biến đổi câu
-
-Đổi chủ ngữ không làm V2 đổi: “She checked...” / “They checked...”. Phủ định: “She didn't check...”. Hỏi: “Did she check...?”. Với *be*: “She was busy”; “Was she busy?”.
-
-## Tình huống thực tế
-
-**A:** Did you see my message last night?  
-**B:** Yes, I saw it, but I got home late.
-
-## Tự luyện tập
-
-1. Kể: “Tối qua tôi về nhà, ăn tối rồi gọi cho bạn.”
-2. Hỏi: “Bạn đã gửi file sáng nay chưa?”
-
-**Đáp án tham khảo:** 1. “I got home, had dinner and called my friend last night.” Ba hành động hoàn tất dùng V2. 2. “Did you send the file this morning?” Sau *did* dùng *send*, không dùng *sent*.
-
-## Tham chiếu nhanh
-
-### Dùng thường xuyên: động từ bất quy tắc thường gặp
-
-Tra [bảng V1–V2–V3 đầy đủ theo mức độ và cách dùng](../reference/irregular-verbs.md) khi cần chọn dạng động từ. Sáu hàng sau là ví dụ để bắt đầu kể việc đã xảy ra.
-
-| V1 → V2 → V3 | Ví dụ Past Simple | Nghĩa |
+| Điều muốn nói | Cấu trúc | Ví dụ và nghĩa |
 |---|---|---|
-| go → went → gone | We went home early. | Chúng tôi về sớm. |
-| see → saw → seen | I saw Mai yesterday. | Hôm qua tôi gặp Mai. |
-| get → got → got/gotten | I got your message. | Tôi đã nhận tin nhắn. |
-| have → had → had | We had lunch together. | Chúng tôi ăn trưa cùng nhau. |
-| make → made → made | She made a quick call. | Cô ấy gọi nhanh một cuộc. |
-| send → sent → sent | I sent it last night. | Tôi gửi nó tối qua. |
+| Trước kia thường thế, nay có thể đã khác | used to + V1 | I used to live near here. — Tôi từng sống gần đây. |
+| Phủ định hoặc hỏi thói quen cũ | didn't use to / Did ... use to? | I didn't use to drink coffee. — Trước kia tôi không uống cà phê. |
+| Đã quen với một việc | be used to + danh từ/V-ing | I'm used to working late. — Tôi đã quen làm muộn. |
+| Đang dần quen | get used to + danh từ/V-ing | I'm getting used to the new schedule. — Tôi đang dần quen lịch mới. |
 
-*Gotten* là V3 phổ biến ở tiếng Anh Mỹ, không phải V2. Với động từ quy tắc, thêm *-ed* nhưng chú ý *study → studied*, *stop → stopped*. Phát âm đuôi *-ed* không luôn là /ɪd/: *worked* /t/, *played* /d/, *wanted* /ɪd/.
+*Would + V1* cũng có thể kể một việc lặp lại khi bối cảnh quá khứ đã rõ: “When I was a child, we'd visit my grandparents every summer.” Nó không thay *used to* khi nói một **trạng thái cũ**: “I used to live there” là cách tự nhiên để nói tôi từng sống ở đó. Một việc đơn lẻ hôm qua vẫn dùng Past Simple bình thường: “I visited them yesterday.”
 
-### Mở rộng: thói quen đã chấm dứt
+## Tự kiểm tra
 
-| Cấu trúc | Dùng khi nào | Ví dụ / nghĩa |
-|---|---|---|
-| used to + V | Thói quen/trạng thái trước đây, nay khác | I used to live here. — Tôi từng sống ở đây. |
-| didn't use to + V | Trước đây không như vậy | I didn't use to drink coffee. — Trước đây tôi không uống cà phê. |
-| Did ... use to + V? | Hỏi chuyện trước đây | Did you use to work here? — Trước đây bạn làm ở đây à? |
+1. Kể: “Tối qua tôi về nhà, ăn tối rồi gọi cho Mai.”
+2. Hỏi: “Hôm qua bạn đã gửi file chưa?”
+3. Phủ định: “Tôi không gặp cô ấy thứ Sáu trước.”
 
-*Would + V* cũng kể thói quen lặp lại trong quá khứ khi ngữ cảnh đã rõ, nhưng thường **không** dùng để nói trạng thái: “I used to live here”, không dùng “I would live here” với ý đó. *Be used to + noun/V-ing* = đã quen với; *get used to + noun/V-ing* = dần quen với: “I'm used to working late” (tôi đã quen làm muộn), “I'm getting used to it” (tôi đang dần quen). Chữ *to* trong hai cấu trúc sau là giới từ.
+<details>
+<summary>Đáp án tham khảo và lý do</summary>
 
-**Tự tạo câu:** Kể một thói quen trước đây đã đổi và một sự việc cụ thể hôm qua. Mẫu: “I used to drive to work, but I took the bus yesterday.”
+1. **I got home, had dinner and called Mai last night.** Ba việc đã hoàn tất dùng V2.
+2. **Did you send the file yesterday?** Sau *did*, dùng *send*.
+3. **I didn't meet her last Friday.** Sau *didn't*, dùng *meet*.
 
-## Ôn tập với Anki
+</details>
 
-Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Past Simple` hoặc prefix `past_simple.` (**41 cards**).
+**Đọc tiếp:** [Present Perfect và Past Simple](04-present-perfect.md) để chọn khi nào cần nhấn kết quả hiện tại.

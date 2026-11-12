@@ -1,107 +1,66 @@
-# 10. Tính từ và trạng từ trong câu nói tự nhiên
+# 10. Mô tả người, vật và cách làm
 
-**Học trước:** [Câu cơ bản](01-present-simple-continuous.md). **Học tiếp:** [So sánh](11-comparison.md).
+Muốn nói tự nhiên, hãy tách hai câu hỏi: **người/vật ấy như thế nào?** và **họ làm việc ấy như thế nào?** Bài này giúp chọn tính từ, trạng từ và những cặp dễ nhầm.
 
-Để nói tự nhiên, bạn cần phân biệt đang mô tả **người/vật** hay **cách một hành động diễn ra**. Bài này giải thích vị trí tính từ, trạng từ và những cặp có hình thức gần giống nhưng nghĩa khác.
+**Cần biết trước:** Câu đơn có danh từ và động từ.
 
-## Sau bài này bạn làm được gì
+## Tra nhanh khi quên
 
-Miêu tả người, vật, cảm giác và cách một hành động diễn ra; dùng *good/well*, *-ed/-ing* đúng nghĩa.
-
-## Bản chất của cấu trúc
-
-Các động từ nối (*linking verbs*) như *be, look, feel, sound, seem* nối chủ ngữ với đặc điểm của chính nó; vì vậy tính từ thường đứng sau chúng: “The plan sounds good.” Trạng từ thường mô tả cách làm: “She explained it clearly.” Nhiều trạng từ thêm *-ly*, nhưng *fast, hard, late* có thể là trạng từ không *-ly*. Với cảm xúc, *bored* = người cảm thấy chán; *boring* = thứ gây chán.
-
-## Quy trình chọn tính từ hoặc trạng từ
-
-| Muốn mô tả | Dùng | Ví dụ |
+| Đang mô tả | Dùng | Ví dụ |
 |---|---|---|
-| Đặc điểm của danh từ | Tính từ trước danh từ | She's a careful driver. |
-| Đặc điểm của chủ ngữ sau *be/look/sound/feel* | Tính từ | She sounds tired. |
-| Cách hành động diễn ra | Trạng từ | She drives carefully. |
-| Mức độ của tính từ/trạng từ | Từ chỉ mức độ | She drives very carefully. |
+| Danh từ | Tính từ trước danh từ | She's a careful driver. |
+| Chủ ngữ sau be/look/sound/feel | Tính từ | She sounds tired. |
+| Cách một hành động diễn ra | Trạng từ | She drives carefully. |
+| Cảm giác của người / thứ gây cảm giác | -ed / -ing adjective | I'm bored. / This is boring. |
 
-## Phân tích một tình huống
+**Tự hỏi:** “Từ này mô tả **ai/cái gì** hay mô tả **cách làm**?” Với động từ nối như *sound*, tính từ mô tả chủ ngữ: “The plan sounds good.”
 
-“She is a good speaker” mô tả **người nói**; “She speaks well” mô tả **cách nói**. Vì vậy “She speaks good” không phải lựa chọn chuẩn trong mẫu cơ bản này. Tuy nhiên *well* còn có nghĩa “khỏe”: “I don't feel well”. Đừng áp dụng máy móc quy tắc thêm *-ly*: *hard* đã là trạng từ trong “She works hard”, còn *hardly* nghĩa là “hầu như không”. Bắt đầu bằng câu hỏi “đang mô tả ai/cái gì hay mô tả hành động như thế nào?” rồi mới chọn từ.
+## Hiểu bản chất
 
-## Cấu trúc câu
+“She is a good speaker” mô tả **người nói**; “She speaks well” mô tả **cách nói**. *Well* còn có thể là tính từ về sức khỏe: “I don't feel well.” Không phải mọi trạng từ thêm *-ly*: *fast, hard, late* cũng có thể làm trạng từ. Thêm *-ly* đôi khi tạo nghĩa khác: “I work hard” = làm việc chăm chỉ; “I hardly work” = hầu như không làm việc.
 
-| Ý | Ghép câu |
-|---|---|
-| Mô tả vật/người | adjective + noun; subject + be/look/feel/sound + adjective |
-| Mô tả hành động | subject + verb + adverb |
-| Cảm giác / nguồn gây cảm giác | person + be + -ed adjective; thing + be + -ing adjective |
+Với tính từ cảm xúc, *bored* là trạng thái của người cảm nhận; *boring* là thứ gây cảm giác đó. “I'm bored by the talk” và “The talk is boring” cùng tình huống nhưng nhìn từ hai phía.
 
-## Cách dùng và ranh giới
+## Từ ý định đến câu
 
-“You sound tired” nói về ấn tượng khi nghe; “You speak quietly” nói về cách nói. *Good* là tính từ; *well* thường là trạng từ, nhưng “I don't feel well” cũng là cách nói tự nhiên về sức khỏe. *Hardly* không phải cách thường để nói “một cách chăm chỉ”: “I work hard” khác “I hardly work” (tôi hầu như không làm việc).
+Bạn muốn khen Mai nói rõ trong cuộc họp:
 
-## Ví dụ trong ngữ cảnh
+1. Mô tả người: **Mai is a good speaker.**
+2. Mô tả hành động cụ thể: **Mai explained the plan clearly.**
+3. Nói kết quả với người nghe: **Her explanation was helpful.**
 
-| English | Nghĩa |
-|---|---|
-| Your idea sounds good. | Ý của bạn nghe có vẻ hay. |
-| She speaks clearly. | Cô ấy nói rõ ràng. |
-| I'm bored, but the movie isn't boring. | Tôi thấy chán, nhưng phim không nhàm chán. |
-| He came home late last night. | Tối qua anh ấy về nhà muộn. |
+Câu hai dùng *clearly* vì từ này trả lời “Mai giải thích **như thế nào**?”. “Mai sounds clear” có thể nói về chất lượng tiếng nói khi nghe, không tự động đồng nghĩa cô ấy đã giải thích dễ hiểu.
 
-## Lỗi thường gặp
+## Các cặp cần tra lại
 
-- ❌ “She speaks clear.” → ✅ “She speaks clearly.” Bổ nghĩa cho cách nói.
-- ❌ “The plan sounds well.” → ✅ “The plan sounds good.” *Sounds* là linking verb; mô tả *plan*.
-- ❌ “I'm boring with this task.” → ✅ “I'm bored with this task.” Người đang cảm thấy chán.
-
-## Tạo câu từng bước
-
-1. Miêu tả người: **He's a good speaker.**
-2. Miêu tả hành động: **He speaks well.**
-3. Thêm mức độ và ngữ cảnh: **He speaks very clearly during meetings.**
-
-## Biến đổi câu
-
-Đổi chủ ngữ: “She sounds tired” / “They sound tired.” Phủ định: “She doesn't sound tired.” Hỏi: “Does she sound tired?”. Đổi từ miêu tả người sang vật: “I'm excited” / “The trip is exciting”.
-
-## Tình huống thực tế
-
-**A:** How was the presentation?  
-**B:** Clear and interesting. Mai explained everything really well.
-
-## Tự luyện tập
-
-1. Nói đồng nghiệp là người lái xe cẩn thận và lái rất cẩn thận.
-2. Nói bạn thấy hào hứng vì một dự án thú vị.
-
-**Đáp án tham khảo:** 1. “He's a careful driver. He drives very carefully.” Tính từ trước danh từ; trạng từ sau động từ. 2. “I'm excited about an exciting project.” *Excited* là cảm giác của bạn; *exciting* là đặc tính dự án.
-
-## Tham chiếu nhanh
-
-### Dùng thường xuyên
-
-| Cặp / cấu trúc | Ví dụ / nghĩa | Dùng khi nào |
+| Cặp | Khác biệt | Ví dụ |
 |---|---|---|
-| -ed ↔ -ing | I'm bored. The talk is boring. — Tôi chán; buổi nói chuyện gây chán. | Người cảm nhận ↔ thứ gây cảm giác. |
-| look/feel/sound + adjective | That sounds great. — Nghe hay đấy. | Linking verb nối chủ ngữ với đặc điểm. |
+| good / well | tính chất / cách làm hoặc sức khỏe | a good speaker / speaks well / feel well |
+| bad / badly | tính chất / cách làm kém | bad food / slept badly |
+| hard / hardly | chăm chỉ, mạnh / hầu như không | work hard / hardly work |
+| late / lately | muộn / dạo gần đây | arrived late / been busy lately |
+| near / nearly | gần về vị trí / gần như | near the station / nearly done |
+| fast / fastly | *fast* vừa là tính từ vừa là trạng từ; không dùng *fastly* trong cách nói chuẩn | a fast train / it moves fast |
 
-### Mở rộng: các cặp dễ nhầm khi tự ghép câu
+## Mô tả kết quả và cảm nhận
 
-Hỏi trước: **đang mô tả người/vật, hay mô tả cách hành động diễn ra?** Sau *be/look/sound* thường dùng tính từ để nói đặc điểm của chủ ngữ. Sau động từ hành động thường dùng trạng từ để nói cách làm. Đừng tự thêm *-ly*: một số từ đổi nghĩa hẳn.
+Sau các động từ nối *look, sound, feel, seem, become*, tính từ thường mô tả **chủ ngữ**: “The plan sounds good” (Kế hoạch nghe ổn), “I feel tired” (Tôi thấy mệt). Còn “She explained it clearly” (Cô ấy giải thích rõ ràng) dùng trạng từ vì từ đó mô tả cách **giải thích**. “She looked at me angrily” lại nói cách cô ấy **nhìn** tôi; cùng chữ *look* nhưng chức năng khác.
 
-| Cặp | Dùng để nói gì? | Câu tự nhiên và nghĩa |
-|---|---|---|
-| **good / well** | *Good* là tính từ: người/vật tốt hoặc làm tốt việc gì. *Well* thường là trạng từ: làm việc đó tốt. *Well* cũng có thể là tính từ chỉ **sức khỏe**. | She's a **good** speaker. — Cô ấy là người nói hay. / She speaks **well**. — Cô ấy nói hay. / I don't feel **well**. — Tôi thấy không khỏe. |
-| **bad / badly** | *Bad* tả người/vật/trạng thái; *badly* tả cách làm kém hoặc mức độ nghiêm trọng. | The food tastes **bad**. — Đồ ăn có vị dở. / I slept **badly**. — Tôi ngủ không ngon. |
-| **hard / hardly** | *Hard* = chăm chỉ/mạnh/khó; cũng là trạng từ của chính nó. *Hardly* = hầu như không. | I work **hard**. — Tôi làm việc chăm chỉ. / I **hardly** work on Sundays. — Chủ nhật tôi hầu như không làm việc. |
-| **late / lately** | *Late* = muộn; *lately* = dạo gần đây, thường nói về tình trạng hoặc việc lặp lại. | She arrived **late**. — Cô ấy đến muộn. / I've been busy **lately**. — Dạo này tôi bận. |
-| **near / nearly** | *Near* = gần về vị trí hoặc thời gian; *nearly* = gần như, suýt, xấp xỉ. | I live **near** the station. — Tôi sống gần ga. / I'm **nearly** done. — Tôi gần xong rồi. |
-| **fast / fastly** | *Fast* dùng được cả làm tính từ và trạng từ; *fastly* không phải cách nói chuẩn cho “nhanh”. | It's a **fast** train. — Đó là tàu nhanh. / It moves **fast**. — Nó di chuyển nhanh. |
+So sánh “The instructions are confusing” (Hướng dẫn gây khó hiểu) với “I'm confused” (Tôi thấy khó hiểu). *-ing* thường mô tả điều gây cảm giác; *-ed* mô tả người/vật chịu cảm giác đó. Đây là điểm xuất phát, nhưng một số tính từ có cách dùng riêng; hãy tra câu cụ thể khi gặp một kết hợp lạ.
 
-Khi so sánh, *good* và *well* cùng có dạng **better/best**, nhưng câu gốc vẫn khác vai trò: “She's a **good** speaker → She's a **better** speaker”; “She speaks **well** → She speaks **better**.” Xem [bảng so sánh bất quy tắc](11-comparison.md).
+## Tự kiểm tra
 
-Một số tính từ đi với giới từ riêng: *interested in* (quan tâm đến), *good at* (giỏi), *afraid of* (sợ), *ready for* (sẵn sàng cho): “I'm ready for the meeting” (Tôi sẵn sàng cho buổi họp). Học cả cụm, vì không thể luôn dịch giới từ từ tiếng Việt.
+1. Nói cô ấy là người lái xe cẩn thận và lái cẩn thận.
+2. Nói bạn mệt vì bài học nhàm chán.
+3. Dịch “Tôi làm việc chăm chỉ” và “Tôi hầu như không làm việc”.
 
-**Tự tạo câu:** Dùng một người và một hoạt động để nói (1) đặc điểm, (2) cách làm, (3) cảm nhận. Mẫu: “Mai is a careful driver. She drives carefully. I feel safe with her.”
+<details>
+<summary>Đáp án tham khảo và lý do</summary>
 
-## Ôn tập với Anki
+1. **She's a careful driver. She drives carefully.** Tính từ trước danh từ; trạng từ mô tả cách lái.
+2. **I'm bored because the lesson is boring.** *Bored* là cảm giác; *boring* gây cảm giác.
+3. **I work hard. / I hardly work.** Hai câu khác nghĩa rõ rệt.
 
-Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Adjectives &amp; Adverbs` hoặc prefix `adjectives_adverbs.` (**36 cards**).
+</details>
+
+**Đọc tiếp:** [Bài so sánh](11-comparison.md) để đổi *good/well* thành *better/best*.

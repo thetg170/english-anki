@@ -1,108 +1,70 @@
-# 15. Dựng câu với There, It, câu hỏi và cảm thán
+# 15. Dùng there, it và các khung câu cơ bản
 
-**Học trước:** [Câu cơ bản](01-present-simple-continuous.md), [đại từ](08-pronouns.md). **Học tiếp:** [Nối hai ý](16-connecting-ideas.md).
+Khi chưa biết bắt đầu câu bằng gì, hãy hỏi **mình đang giới thiệu điều mới, nói tiếp điều đã biết, hỏi thông tin hay nói cảm xúc?** Các khung ở đây giải quyết những việc đó.
 
-Những câu bắt đầu bằng *there* và *it* thường phục vụ các mục đích khác nhau: giới thiệu sự tồn tại, nói tiếp về điều đã biết hoặc nêu thời lượng. Bài này đặt chúng vào một tình huống liên tục để bạn chọn đúng.
+**Cần biết trước:** [Câu cơ bản](01-present-simple-continuous.md) và [đại từ](08-pronouns.md).
 
-## Sau bài này bạn làm được gì
+## Tra nhanh khi quên
 
-Nói “có một...”, thời tiết/thời gian/khoảng cách; đặt câu hỏi trực tiếp/gián tiếp, hỏi đuôi, ra lệnh và cảm thán. Nhận ra người nhận và đối tượng trong câu hai tân ngữ.
-
-## Bản chất của cấu trúc
-
-Tiếng Anh thường cần chủ ngữ rõ. **Bổ ngữ** là phần mô tả hoặc hoàn thiện ý nghĩa cho chủ ngữ/tân ngữ: “She is **ready**” và “The news made me **happy**”; nó khác tân ngữ nhận hành động. *There is/are* giới thiệu sự tồn tại: “There's a problem.” *It* làm chủ ngữ khi nói thời tiết, giờ, khoảng cách hoặc thay cho một ý đã biết: “It's raining”; “It's five miles away.” Câu hỏi trực tiếp có thể cần trợ động từ (*do/does/did*) hoặc đảo *be*; câu hỏi gián tiếp giữ trật tự như câu kể: “Do you know where the room is?”. Cảm thán *What + noun phrase!* khác *How + adjective/adverb!*
-
-## Quy trình chọn khung câu
-
-| Ý muốn mở đầu | Khung phù hợp | Ví dụ |
+| Ý định | Khung câu | Ví dụ |
 |---|---|---|
-| Giới thiệu sự tồn tại của người/vật | *There is/are + danh từ* | There's a café nearby. |
-| Nói tiếp về vật đã rõ | *It + be + tính từ* | It's open now. |
-| Nói thời gian cần thiết | *It takes + người + thời gian + to V* | It takes me ten minutes to get there. |
-| Hỏi thông tin | Câu hỏi trực tiếp hoặc gián tiếp | Where is it? / Do you know where it is? |
+| Giới thiệu có người/vật nào đó | There is/are + danh từ | There's a café nearby. |
+| Nói tiếp về vật/việc đã rõ | It + động từ/tính từ | It's open until nine. |
+| Nói thời gian cần thiết | It takes + người + thời gian + to V | It takes me ten minutes to get there. |
+| Hỏi trực tiếp | Từ hỏi + trợ động từ + chủ ngữ + V1? | Where does she work? |
+| Lồng câu hỏi trong một câu khác | Do you know + từ hỏi + chủ ngữ + động từ? | Do you know where she works? |
+| Cảm thán có danh từ | What + (a/an) + tính từ + danh từ! | What a great idea! |
 
-## Phân tích một tình huống
+**Tự hỏi:** “Người nghe đã biết đối tượng tôi đang nói đến chưa?” Nếu chưa, *there is/are* thường giúp giới thiệu; sau đó *it* có thể chỉ lại.
 
-Bạn chỉ đường cho bạn: “There's a café near the station. It's open until nine.” Câu đầu đưa quán mới vào cuộc nói chuyện; câu sau dùng *it* vì người nghe đã biết đang nói về quán. “Do you know where it is?” là câu hỏi gián tiếp, nên phần sau *where* giữ trật tự *it is*, không đảo thành *where is it*. Đây là lựa chọn theo **chức năng của câu**, không phải học thuộc một mẫu *it* dùng cho mọi việc.
+## Hiểu bản chất
 
-## Cấu trúc câu
+“There's a café near the station. It's open until nine.” Câu đầu đưa quán vào cuộc trò chuyện; câu sau dùng *it* vì quán đã rõ. *It* còn có thể làm chủ ngữ cho thời tiết và giờ: “It's raining”; “It's six o'clock.” Tiếng Anh thường cần chủ ngữ rõ, kể cả khi tiếng Việt có thể bỏ.
 
-| Ý | Ghép câu |
-|---|---|
-| Có/tồn tại | There + is/are + noun + place |
-| Thời tiết/giờ | It + is/was + weather/time; It + is + V-ing |
-| Câu hỏi thông tin | Wh-word + do/does/did + subject + verb? |
-| Cảm thán | What + (a/an) + adjective + noun!; How + adjective/adverb + subject + verb! |
-| Hỏi đuôi | Statement, auxiliary + pronoun? (khẳng định ↔ phủ định) |
-| Mệnh lệnh | (Don't) + verb + object. / Let's + verb. |
-| Mô tả kết quả / người nhận | make/find + object + adjective; send + person + thing |
+Câu hỏi trực tiếp có thể đảo trợ động từ hoặc *be*: “Where is the room?” Khi đưa câu hỏi vào sau “Do you know...”, phần phụ giữ trật tự như câu kể: “Do you know where the room is?” **Bổ ngữ** là phần mô tả chủ ngữ hoặc tân ngữ: “She is **ready**”; “The news made me **happy**.” *Happy* không phải trạng từ nói cách tin tức “làm”.
 
-## Cách dùng và ranh giới
+## Từ ý định đến câu
 
-“There is a café near here” giới thiệu quán; “It is open” nói tiếp về quán đã nhắc. “There are two files” chia *are* theo danh từ sau. “It takes me ten minutes to get there” dùng *it* giả khi nói thời gian cần thiết. “What a great idea!” có danh từ *idea*; “How great this is!” nhấn mạnh tính từ. *So* thường đứng trước tính từ (“so useful”), *such* trước cụm danh từ (“such a useful tool”). Trong giao tiếp hằng ngày, “That's great!” thường tự nhiên hơn cảm thán đầy đủ.
+Bạn hỏi đồng nghiệp về nơi họp:
 
-## Ví dụ trong ngữ cảnh
+1. Nêu nhu cầu: **Is there a quiet room nearby?**
+2. Hỏi địa điểm cụ thể: **Where is the room?**
+3. Hỏi mềm hơn: **Do you know where the room is?**
+4. Báo thời gian đi tới: **It takes me ten minutes to get there.**
 
-| English | Nghĩa |
-|---|---|
-| There's a problem with the link. | Có vấn đề với đường link. |
-| There are three people waiting. | Có ba người đang đợi. |
-| It's raining, so let's stay inside. | Trời đang mưa, nên ở trong nhé. |
-| What a nice place! | Chỗ này đẹp quá! |
-| It takes me ten minutes to walk there. | Tôi đi bộ đến đó mất mười phút. |
-| You sent it, didn't you? | Bạn gửi nó rồi, đúng không? |
-| The news made me happy. | Tin đó khiến tôi vui. |
+Mỗi câu giải quyết một việc; không cần nhồi tất cả mẫu vào một câu dài.
 
-## Lỗi thường gặp
+## Những chỗ dễ nhầm
 
-- ❌ “There have a problem” → ✅ “There's a problem.” *There is* cho ý tồn tại.
-- ❌ “Is raining” → ✅ “It's raining.” Cần chủ ngữ giả *it*.
-- ❌ “How a nice place!” → ✅ “What a nice place!” vì sau đó là cụm danh từ.
-- ❌ “Do you know where is the room?” → ✅ “Do you know where the room is?” Câu hỏi gián tiếp không đảo *is*.
-- ❌ “The news made me happily.” → ✅ “The news made me happy.” *Happy* mô tả *me*.
+- **There's a problem**, không dùng **There have a problem** để giới thiệu sự tồn tại.
+- **It's raining**, không bỏ chủ ngữ giả *it*.
+- **Do you know where the room is?**, không đảo lại thành **where is the room** trong phần phụ.
+- **What a nice place!** có cụm danh từ; **How nice!** nhấn tính từ.
+- “You sent it, didn't you?” là câu hỏi đuôi: trợ động từ và đại từ ở đuôi phải khớp câu chính.
 
-## Tạo câu từng bước
+## Những khung câu dễ cần tra riêng
 
-1. Giới thiệu: **There's a café nearby.**
-2. Nói thêm: **It's open until nine.** *It* chỉ quán vừa nhắc.
-3. Hỏi: **Is there a café nearby that's open until nine?** Đưa *is* lên trước *there*.
-
-Với câu hỏi gián tiếp, bắt đầu từ “Where is the room?” rồi đặt vào sau “Do you know...” → “Do you know where the room is?”.
-
-## Biến đổi câu
-
-“There is a seat” → “There are two seats” → “There aren't any seats” → “Are there any seats?”. “It's late” → “It isn't late” → “Is it late?”. Đổi câu nói thành cảm thán: “It's a good idea” → “What a good idea!”.
-
-## Tình huống thực tế
-
-**A:** Is there a quiet place to talk?  
-**B:** There's a small room upstairs. It's empty now.
-
-## Tự luyện tập
-
-1. Nói có ba người đang đợi bên ngoài.
-2. Hỏi có chỗ ngồi trống không; rồi khen chỗ đó đẹp.
-
-**Đáp án tham khảo:** 1. “There are three people waiting outside.” *People* là số nhiều. 2. “Is there a free seat? What a nice place!” *Is there* hỏi sự tồn tại; *What* đi với cụm danh từ.
-
-## Tra cứu các mẫu dễ nhầm
-
-### Dùng thường xuyên: câu hỏi và câu có bổ ngữ
-
-| Mẫu | Ví dụ / nghĩa | Điểm cần nhớ |
+| Việc muốn làm | Ví dụ | Điểm quyết định |
 |---|---|---|
-| Wh- + trợ động từ + S + V? | Where does she work? — Cô ấy làm ở đâu? | Hỏi trực tiếp với động từ thường. |
-| Do you know + wh- + S + V? | Do you know where she works? — Bạn biết cô ấy làm ở đâu không? | Phần câu hỏi gián tiếp giữ trật tự câu kể. |
-| Khẳng định, đuôi phủ định? | She's ready, isn't she? — Cô ấy sẵn sàng rồi, đúng không? | Đuôi khớp trợ động từ và đại từ. |
-| make/find + object + adjective | The news made me happy. — Tin đó khiến tôi vui. | *Happy* là bổ ngữ mô tả *me*; không dùng *happily*. |
-| send + person + thing | I sent Mai the file. — Tôi gửi Mai file. | Có thể đổi thành “I sent the file to Mai”. |
+| Hỏi **ai làm** việc đó | Who called you? — Ai gọi bạn? | *Who* là chủ ngữ, thường không cần *did*. |
+| Hỏi **bạn gọi ai** | Who did you call? — Bạn gọi ai? | *Who* là tân ngữ; *did* mang thì quá khứ. |
+| Xác nhận điều đã nói | You sent it, didn't you? — Bạn gửi rồi, đúng không? | Câu khẳng định thường có đuôi phủ định. |
+| Ra lệnh / rủ cùng làm | Don't delete it. / Let's check. | Mệnh lệnh dùng V1; *let's* rủ người nói cùng làm. |
+| Nói một tác động | The news made me happy. — Tin làm tôi vui. | *Happy* bổ nghĩa cho *me*, không dùng *happily*. |
 
-### Ranh giới và ngoại lệ
+“I sent Mai the file” và “I sent the file **to** Mai” đều có người nhận và vật được gửi, nhưng vị trí hai phần khác nhau. “It's **so** useful” dùng *so* trước tính từ; “It's **such a** useful tool” dùng *such* trước cụm danh từ. Trong hội thoại, “That's great!” thường gọn và tự nhiên hơn một câu cảm thán dài.
 
-*There seems to be a problem* = có vẻ có vấn đề; không nói “There seems a problem” trong mẫu cơ bản này. *It takes + person + time + to V*: “It takes me ten minutes to get there” (Tôi mất mười phút đến đó). *So + adjective* khác *such + (a/an) + adjective + noun*: “It's so useful” (Nó hữu ích quá) / “It's such a useful tool” (Đó là công cụ hữu ích quá). Mệnh lệnh phủ định bắt đầu bằng *Don't + V*: “Don't delete the file” (Đừng xóa file). Với câu hỏi *who* làm chủ ngữ, thường không cần *do*: “Who called you?” (Ai đã gọi bạn?), khác “Who did you call?” (Bạn đã gọi ai?).
+## Tự kiểm tra
 
-**Tự tạo câu:** Từ “Mai sent me a file”, tạo (1) câu hỏi trực tiếp “What did Mai send you?”, (2) câu gián tiếp “Do you know what Mai sent me?”, (3) câu có bổ ngữ “The file made my work easier.” Xác định chủ ngữ, tân ngữ và bổ ngữ ở mỗi câu.
+1. Nói có ba người đang đợi ngoài cửa.
+2. Hỏi gián tiếp phòng họp ở đâu.
+3. Nói bạn mất mười phút để đến đó.
 
-## Ôn tập với Anki
+<details>
+<summary>Đáp án tham khảo và lý do</summary>
 
-Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Sentence Patterns: There · It · Questions · Exclamations` hoặc prefix `sentence_patterns.` (**43 cards**). [CSV pilot](../../source/pilot/notes.csv) có `pilot.situation.04` và `pilot.error.05`.
+1. **There are three people waiting outside.** *People* là số nhiều.
+2. **Do you know where the meeting room is?** Phần sau *where* giữ trật tự câu kể.
+3. **It takes me ten minutes to get there.** Dùng *it takes* cho thời lượng.
+
+</details>

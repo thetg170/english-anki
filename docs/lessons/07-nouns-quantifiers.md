@@ -1,112 +1,59 @@
-# 07. Danh từ đếm được và nói về số lượng
+# 07. Danh từ đếm được và cách nói số lượng
 
-**Học trước:** [Câu cơ bản](01-present-simple-continuous.md). **Học tiếp:** [Mạo từ](06-articles.md).
+Trước khi chọn *many* hay *much*, hãy hỏi danh từ trong nghĩa bạn đang dùng có đếm được từng đơn vị không. Cùng một từ có thể đổi cách đếm theo tình huống.
 
-Muốn nói “nhiều”, “ít”, “bao nhiêu”, trước hết phải biết danh từ trong nghĩa hiện tại có đếm được từng đơn vị hay không. Từ quyết định ấy, bạn mới chọn *many/much*, *few/little* và dạng số nhiều.
+**Cần biết trước:** Danh từ số ít và số nhiều cơ bản.
 
-## Sau bài này bạn làm được gì
+## Tra nhanh khi quên
 
-Hỏi số lượng, dùng *some/any/much/many* đúng với danh từ, và nói sở hữu khi cần.
+| Danh từ | Hỏi lượng | Nói một ít | Ví dụ |
+|---|---|---|---|
+| Đếm được: *question, file, person* | how many | a few / few + số nhiều | How many questions do you have? |
+| Không đếm trực tiếp: *time, advice, information* | how much | a little / little | How much time do we have? |
+| Cần đếm chất/khái niệm | Thêm đơn vị | a piece/cup/glass of... | Two pieces of advice helped me. |
 
-## Bản chất của cấu trúc
+**Tự hỏi:** “Tôi đếm chính danh từ này hay đếm **đơn vị** của nó?” Danh từ không đếm được thường đi với động từ số ít trong nghĩa đó.
 
-Trước khi chọn lượng từ, hãy hỏi danh từ này trong nghĩa đang dùng có **đếm từng đơn vị** được không. *File, question* đếm được; *information, advice, equipment* thường không đếm được. Danh từ không đếm được không đi với *a/an* và thường đi với động từ số ít. Muốn đếm, thêm đơn vị: *a piece of advice*, *two pieces of information*. Một số danh từ có cả hai cách dùng tùy nghĩa, như *coffee* (đồ uống nói chung / một cốc cà phê khi gọi món). Với danh từ đếm được số nhiều, kiểm tra dạng bất quy tắc: *child → children, person → people*.
+## Hiểu bản chất
 
-## Quy trình nói số lượng
+*Advice* thường không đếm trực tiếp: “I need some advice.” Muốn nói hai lời khuyên, dùng “two pieces of advice”. *Coffee* là đồ uống không đếm được trong “I drink coffee”, nhưng “Two coffees, please” tự nhiên khi gọi hai cốc. Vì vậy đếm được/không đếm được là thuộc tính của **nghĩa đang dùng**, không chỉ là nhãn cố định cho một từ.
 
-| Danh từ trong nghĩa đang dùng | Hỏi / nói lượng | Ví dụ |
-|---|---|---|
-| Đếm được từng đơn vị | *how many, many, a few, few* + số nhiều | How many questions do you have? |
-| Không đếm từng đơn vị | *how much, much, a little, little* | How much time do we have? |
-| Muốn đếm một chất/khái niệm | Thêm đơn vị thích hợp | two pieces of advice; three cups of coffee |
+*A few* thường nói vẫn có vài đơn vị; *few* nhấn số lượng quá ít. *A little* và *little* có sự khác biệt tương tự với lượng không đếm trực tiếp. “We have a little time” có thể là vẫn đủ để làm gì đó; “We have little time” nhấn thiếu thời gian. Ngữ cảnh quyết định cảm giác cụ thể.
 
-## Phân tích một tình huống
+## Từ ý định đến câu
 
-Bạn cần hai lời khuyên và một ít thời gian. “I need two pieces of advice and a little time.” *Advice* không đếm trực tiếp nên *two advices* không phù hợp; *time* ở đây là khoảng thời gian nên dùng *a little*. Nếu nói “I have few questions”, người nghe hiểu số câu hỏi ít đến mức đáng kể; “I have a few questions” thường mềm hơn và ngụ ý vẫn có vài câu. Một danh từ như *coffee* có thể không đếm được khi nói chất đồ uống, nhưng “Two coffees, please” tự nhiên trong ngữ cảnh gọi hai cốc.
+Bạn muốn nói còn ít thời gian nhưng có vài lựa chọn:
 
-## Cấu trúc câu
+1. Chọn danh từ: *time* không đếm trực tiếp; *options* đếm được.
+2. Nói: **We have a little time and a few options.**
+3. Nếu muốn nhấn thiếu: **We have little time and few options.**
 
-| Ý | Ghép câu |
-|---|---|
-| Hỏi lượng | How many + plural count noun? / How much + uncountable noun? |
-| Một số | some + plural/uncountable noun; any thường trong câu hỏi/phủ định |
-| Nhiều | a lot of + cả hai; many + số nhiều; much + không đếm được |
-| Sở hữu | person's + noun; plural ending in -s + apostrophe + noun |
-| Một ít / gần như không | a few/few + plural count noun; a little/little + uncountable noun |
+Đổi thành câu hỏi: “How much time do we have?” và “How many options do we have?”
 
-## Cách dùng và ranh giới
+## Những chỗ dễ nhầm
 
-“Do you have any questions?” là câu hỏi mở; “Would you like some coffee?” là lời mời nên *some* rất tự nhiên. *Much* trong câu khẳng định thường trang trọng hơn *a lot of*: “We have a lot of time.” *A few/a little* thường nhấn mạnh vẫn có một ít; *few/little* nhấn mạnh gần như không đủ. Với sở hữu chung: “Tom and Mary's house”; nếu mỗi người có nhà riêng, “Tom's and Mary's houses”. *These/those* cũng theo khoảng cách/ngữ cảnh: những cái này/những cái kia.
+- **Three children**, không phải **three childs**. Một số dạng cần học riêng: *person → people, man → men, woman → women, child → children, tooth → teeth, foot → feet, mouse → mice*. *Sheep* và *deer* thường giữ nguyên.
+- **The news is good**: *news* kết thúc bằng *-s* nhưng thường dùng như danh từ không đếm được.
+- “Would you like some tea?” tự nhiên trong lời mời; *some* không chỉ dùng trong câu khẳng định.
+- *Fewer* thường đi với danh từ đếm được số nhiều; *less* với lượng không đếm được. Xem [bài so sánh](11-comparison.md).
 
-## Ví dụ trong ngữ cảnh
+## Chọn lượng theo điều bạn muốn nhấn
 
-| English | Nghĩa |
-|---|---|
-| How many files do we need? | Chúng ta cần bao nhiêu file? |
-| How much time do you have? | Bạn có bao nhiêu thời gian? |
-| Could you give me some advice? | Bạn cho tôi vài lời khuyên được không? |
-| The engineers' office is upstairs. | Văn phòng của các kỹ sư ở tầng trên. |
-| We have a little time, but very few seats. | Chúng ta còn chút thời gian, nhưng còn rất ít chỗ ngồi. |
+*Some* thường diễn đạt một lượng không xác định: “We have some questions” (Chúng tôi có vài câu hỏi). *Any* rất thường gặp trong câu hỏi và phủ định: “Do you have any questions?”; “I don't have any questions.” Trong lời mời, *some* có thể tự nhiên vì người nói đang đề nghị: “Would you like some tea?”
 
-## Lỗi thường gặp
+“A lot of” dùng được với cả danh từ đếm được số nhiều và không đếm được: “a lot of files”, “a lot of work”. Khi cần nói **từng người trong nhóm**, “every student” đi với danh từ số ít; “all students” đi với số nhiều. Những danh từ như *information, equipment, furniture, homework* thường không đếm trực tiếp trong nghĩa thông dụng. Nói “a piece of information” hoặc “two pieces of furniture”, không thêm *-s* vào các danh từ đó để đếm.
 
-- ❌ “an advice” → ✅ “some advice” hoặc “a piece of advice.”
-- ❌ “How many information?” → ✅ “How much information?” hoặc “How many pieces of information?”.
-- ❌ “The informations are useful.” → ✅ “The information is useful.”
-- ❌ “Three childs are waiting.” → ✅ “Three children are waiting.” Số nhiều bất quy tắc.
+## Tự kiểm tra
 
-## Tạo câu từng bước
+1. Hỏi còn bao nhiêu thời gian.
+2. Nói bạn có vài câu hỏi.
+3. Xin hai lời khuyên về công việc.
 
-1. Chọn danh từ: **information** (không đếm được).
-2. Nói nhu cầu: **I need some information.**
-3. Hỏi lượng hoặc đơn vị: **How much information do you need?** / **I need two pieces of information.**
+<details>
+<summary>Đáp án tham khảo và lý do</summary>
 
-## Biến đổi câu
+1. **How much time do we have?** *Time* ở đây là lượng thời gian.
+2. **I have a few questions.** *Questions* đếm được số nhiều.
+3. **Could you give me two pieces of advice about work?** Đếm bằng *pieces*.
 
-Đổi danh từ: “How many questions?” / “How much time?”. Đổi thành phủ định: “I don't have any questions.” Đổi thành lời mời: “Would you like some coffee?”. Đổi chủ sở hữu: “Mai's laptop” / “the engineers' office”.
-
-## Tình huống thực tế
-
-**A:** Do you have any questions?  
-**B:** Just one. How much time do we have?
-
-## Tự luyện tập
-
-1. Hỏi còn bao nhiêu thời gian và bao nhiêu người đang đợi.
-2. Nhờ một lời khuyên về công việc.
-
-**Đáp án tham khảo:** 1. “How much time do we have? How many people are waiting?” *Time* không đếm được; *people* là số nhiều. 2. “Could you give me some advice about work?” Không thêm *an* trước *advice*.
-
-## Tham chiếu nhanh
-
-### Dùng thường xuyên: học danh từ cùng cách đếm
-
-| Danh từ | Cách dùng | Ví dụ / nghĩa |
-|---|---|---|
-| information, advice, feedback | Thường không đếm được | I need some advice. — Tôi cần lời khuyên. |
-| furniture, equipment, luggage | Thường không đếm được | This equipment is new. — Thiết bị này mới. |
-| work, homework, news | Thường không đếm được trong nghĩa thông dụng | I have homework. — Tôi có bài tập về nhà. The news is good. — Tin tức tốt. |
-| a piece of / a glass of | Đơn vị để đếm thứ không đếm trực tiếp | Two pieces of advice helped me. — Hai lời khuyên đã giúp tôi. |
-
-*A few/few* đi với danh từ đếm được số nhiều; *a little/little* đi với không đếm được. Có **a** thường nhấn “vẫn còn một ít”; không có **a** thường nhấn “ít đến mức thiếu”: “We have a little time” (vẫn còn chút thời gian) khác “We have little time” (gần như hết giờ).
-
-### Ranh giới và ngoại lệ
-
-Số nhiều quy tắc: *box → boxes, city → cities, knife → knives*. Những dạng bất quy tắc hữu ích khi nói về người và vật thường gặp:
-
-| Số ít | Số nhiều | Ví dụ |
-|---|---|---|
-| child | children | Two children are waiting. — Hai đứa trẻ đang đợi. |
-| person | people | Three people called. — Ba người đã gọi. |
-| man / woman | men / women | Two women joined us. — Hai phụ nữ tham gia cùng chúng tôi. |
-| foot / tooth | feet / teeth | My feet hurt. — Tôi đau chân. |
-| mouse | mice | We saw two mice. — Chúng tôi thấy hai con chuột. |
-| sheep / deer | sheep / deer | We saw three deer. — Chúng tôi thấy ba con hươu. |
-
-*Fish* thường giữ nguyên ở số nhiều khi nói về số con; *fishes* có thể dùng khi nhấn các loài khác nhau. Một số từ có cách dùng đếm được trong nghĩa khác: “I drink coffee” (cà phê nói chung), “Two coffees, please” (hai cốc). *Some* có thể dùng trong câu hỏi mời/đề nghị: “Would you like some tea?”; vì thế “some = chỉ khẳng định” là quy tắc quá cứng. *These/those* = những cái này/kia, đi với danh từ số nhiều hoặc đứng một mình.
-
-**Tự tạo câu:** Viết một câu hỏi với *how many* và một với *how much*, sau đó trả lời bằng *a few/a little*. Mẫu: “How many questions do you have? Just a few. How much time do we have? A little.”
-
-## Ôn tập với Anki
-
-Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Nouns, Quantifiers &amp; Determiners` hoặc prefix `nouns_quantifiers.` (**42 cards**).
+</details>
