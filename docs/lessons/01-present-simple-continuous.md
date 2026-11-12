@@ -27,6 +27,12 @@ Một số động từ thường diễn tả **trạng thái** hơn là hoạt 
 
 Ở hiện tại đơn, *he/she/it* thường làm động từ thêm *-s/-es*. Sau *does/doesn't*, động từ chính trở lại dạng gốc. Ở tiếp diễn, cần cả *be* và *V-ing*.
 
+## Lý thuyết: cách tạo và chọn hai thì hiện tại
+
+**Hiện tại đơn** mô tả điều người nói xem là ổn định hoặc lặp lại. Với động từ thường: `S + V1` (I/you/we/they), `S + V-s/es` (he/she/it); phủ định `S + do/does not + V1`; hỏi `Do/Does + S + V1?`. Động từ *be* có hệ riêng: `am/is/are`, phủ định thêm *not*, câu hỏi đảo *be* lên trước chủ ngữ. Tần suất (*usually, often, sometimes*) thường đứng trước động từ thường nhưng sau *be*.
+
+**Hiện tại tiếp diễn** nhìn sự việc như một quá trình đang xảy ra hoặc một giai đoạn tạm thời: `S + am/is/are + V-ing`. Phủ định đặt *not* sau *be*; câu hỏi đảo *be*. Dạng *V-ing* có thể cần bỏ *e* (*make → making*) hoặc gấp đôi phụ âm (*run → running*). “I work here” nói nơi làm việc nói chung; “I'm working here this month” giới hạn ở tháng này. Động từ trạng thái như *know* và *own* thường dùng hiện tại đơn trong nghĩa thông thường, vì không diễn tả hoạt động đang tiến triển.
+
 ## Từ ý định đến câu
 
 Bạn thường làm ở nhà thứ Sáu, nhưng hôm nay đến văn phòng:

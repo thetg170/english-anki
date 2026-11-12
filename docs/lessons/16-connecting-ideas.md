@@ -25,6 +25,12 @@ Hai dữ kiện “The bus didn't come. I walked.” có thể được sắp th
 
 **Mệnh đề** là nhóm từ có chủ ngữ và động từ chia thì. “I stayed home” có thể đứng thành câu; “because it rained” cần đi với một vế chính. *Because + mệnh đề*: “because it rained”. *Because of + danh từ*: “because of the rain”. Tương tự, “although it rained” nhưng “despite the rain”.
 
+## Lý thuyết: nối theo quan hệ giữa hai mệnh đề
+
+**Mệnh đề** có chủ ngữ và động từ chia thì. Hai mệnh đề độc lập có thể đứng riêng; từ nối cho biết chúng liên quan thế nào. *And* thêm ý, *or* đưa lựa chọn, *but* tạo đối lập, *so* nêu kết quả. *Because, although, when, if* mở một **mệnh đề phụ**: “I stayed home **because it rained**.” Mệnh đề phụ này cần gắn với một vế chính để thành câu hoàn chỉnh.
+
+**Nguyên nhân khác kết quả:** “I walked because the bus didn't come” trả lời *vì sao*; “The bus didn't come, so I walked” kể *điều gì xảy ra tiếp*. **Đối lập khác điều kiện:** “Although it was raining, we went out” nói việc đi ra ngoài vẫn xảy ra; “If it rains, we'll stay in” nói kế hoạch phụ thuộc mưa. Sau *because of/despite/in spite of* dùng danh từ hoặc cụm tương đương; sau *because/although* dùng mệnh đề. Khi vế phụ đứng đầu, thường đặt dấu phẩy sau nó. Đừng nối câu dài nếu hai câu ngắn đã truyền đúng ý.
+
 ## Từ ý định đến câu
 
 Bạn muốn giải thích mình đã đi bộ vì xe buýt không tới:

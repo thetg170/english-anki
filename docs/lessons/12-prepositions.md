@@ -23,6 +23,12 @@ Giới từ nói quan hệ giữa sự việc với **mốc**, **khoảng**, **�
 
 Với địa điểm, “I'm at the café” thường báo nơi gặp; “I'm in the café” nhấn đang ở trong quán. Các mẫu *at/on/in* là điểm khởi đầu, không phải luật cho mọi cụm. Học cả cụm cố định như *depend on*, *interested in*, *good at*, *reason for*.
 
+## Lý thuyết: giới từ nối một cụm với phần còn lại
+
+**Giới từ** đứng trước danh từ, đại từ hoặc dạng *V-ing* và diễn đạt quan hệ thời gian, vị trí, hướng, nguyên nhân hoặc mối liên hệ cố định. “At six” là một điểm giờ; “on Friday” là ngày; “in November” là khoảng tháng. Với nơi chốn, *at* có thể định vị một điểm gặp, *in* nhấn bên trong, *on* nhấn trên bề mặt. Đây là mô hình cơ bản; nhiều cụm quen dùng cần học nguyên cụm.
+
+Phân biệt **hạn hoàn thành** và **thời gian duy trì**: “Send it **by Friday**” = không muộn hơn thứ Sáu; “Wait **until Friday**” = tiếp tục đợi tới thứ Sáu. *During* đi với cụm danh từ (*during the meeting*), còn *while* đi với mệnh đề (*while we were meeting*). Sau giới từ, nếu muốn nêu hành động, thường dùng *V-ing*: “before leaving”, “interested in learning”. Không dịch từng chữ “ở/đến/cho” sang một giới từ cố định.
+
 ## Từ ý định đến câu
 
 Bạn muốn nhờ đồng nghiệp gửi báo cáo trước hạn rồi báo lúc nào mình sẽ có mặt:

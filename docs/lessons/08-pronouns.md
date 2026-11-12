@@ -22,6 +22,12 @@
 
 *My file* cần danh từ *file*; *mine* thay cả cụm “my file”. *Myself* không phải dạng lịch sự của *me*. “Please call me” là lời nhờ bình thường; “Please call myself” sai khi người được gọi không đồng thời là chủ ngữ của hành động.
 
+## Lý thuyết: vị trí trong câu quyết định dạng đại từ
+
+**Đại từ nhân xưng** thay người/vật đã rõ. Chủ ngữ đứng ở vị trí mà câu nói tới (*I, he, she, we, they*); tân ngữ theo sau động từ hoặc giới từ (*me, him, her, us, them*). “She called him” khác “He called her” vì đổi dạng cũng đổi vai người làm và người nhận. Sau giới từ dùng dạng tân ngữ: “to me”, không dùng “to I”.
+
+**Tính từ sở hữu** cần danh từ phía sau (*my book, their plan*); **đại từ sở hữu** thay cả cụm (*mine, theirs*). **Đại từ phản thân** như *myself, herself* chỉ trở lại chủ ngữ hoặc nhấn chính người ấy: “She made it herself.” Nó không phải cách nói lịch sự hơn của *me*. **Đại từ chỉ định** *this/that/these/those* phụ thuộc số ít/số nhiều và điều được chỉ trong ngữ cảnh. Nếu một đại từ có thể trỏ tới nhiều người/vật, dùng lại danh từ để tránh mơ hồ.
+
 ## Từ ý định đến câu
 
 Bạn muốn báo Mai đã gửi file của cô ấy cho Nam:

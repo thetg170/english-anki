@@ -24,6 +24,12 @@ Các từ như *can, should, must* thay đổi **mức độ** điều bạn đa
 
 Sau phần lớn modal trong bài, động từ chính giữ dạng gốc: “She can help”, không phải “She can helps”. Câu hỏi đưa modal lên trước chủ ngữ: “Can she help?”. Phủ định đặt *not* sau modal: “She can't help.” Với *have to*, câu hỏi/phủ định thường dùng *do/does*: “Does she have to come?”.
 
+## Lý thuyết: modal thay đổi thái độ của người nói
+
+**Modal verb** đứng trước động từ chính và thể hiện khả năng, lời khuyên, nghĩa vụ, sự cho phép hoặc mức chắc chắn. Mẫu thông thường: `S + modal + V1`; hỏi `Modal + S + V1?`; phủ định `modal + not + V1`. Modal như *can, should, must, might* không thêm *-s* theo *he/she/it* và không thêm *to* trước động từ chính. “She can swim”, không phải “She cans to swim”.
+
+Chọn modal theo **chức năng** trước khi chọn theo bản dịch tiếng Việt. *Can* nói khả năng hoặc xin phép; *should* là lời khuyên; *must/have to* có thể nói nghĩa vụ; *might* nêu khả năng chưa chắc. *Have to* không phải modal thuần nên có dạng `has to`, `didn't have to`, `Does she have to...?`. *Mustn't* cấm, còn *don't have to* bỏ yêu cầu. Với suy luận, “She must be home” nghĩa người nói rất tin điều đó, không ra lệnh. Cùng một hình thức có thể có nghĩa khác theo ngữ cảnh.
+
 ## Từ ý định đến câu
 
 Bạn muốn đồng nghiệp báo lại trước khi về:

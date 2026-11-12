@@ -21,6 +21,12 @@ Một việc đã xảy ra có thể được kể theo **thời điểm** hoặ
 
 V3 là quá khứ phân từ, không phải V2. *Write → wrote → written*: “I wrote it yesterday” nhưng “I've written it.” *Been to* thường nói đã đến và trở về; *gone to* thường nói đã đi và hiện không ở đây. Vì vậy “I've been to Hanoi” và “She's gone to Hanoi” không chỉ khác chủ ngữ. Tra [bảng V1–V2–V3](../reference/irregular-verbs.md) để chọn đúng dạng.
 
+## Lý thuyết: quá khứ nối với hiện tại
+
+Present Perfect có công thức `S + have/has + V3`; phủ định `haven't/hasn't + V3`; hỏi `Have/Has + S + V3?`. *Have/has* mang dấu hiệu ngôi và thì; V3 là quá khứ phân từ, có thể khác V2 (*go–went–gone*). Dạng này đặt một việc xảy ra trước hiện tại vào **khung còn liên hệ với hiện tại**: kết quả đã có, trải nghiệm tính đến nay, hoặc một tình trạng bắt đầu trước đây vẫn tiếp tục.
+
+So sánh “I lost my key yesterday” (kể việc ở mốc hôm qua) với “I've lost my key” (giờ tôi không có chìa). Không gắn Present Perfect thông thường với mốc quá khứ đã đóng như *yesterday*. `for + khoảng thời gian` và `since + điểm bắt đầu` giúp nói sự kéo dài. Present Perfect Continuous (`have/has been + V-ing`) nhấn quá trình kéo dài: “I've been working all morning”; Present Perfect đơn có thể nhấn kết quả: “I've finished the report.” Đây là khác biệt về trọng tâm, không phải cứ kéo dài là bắt buộc dùng Continuous.
+
 ## Từ ý định đến câu
 
 Đồng nghiệp hỏi “Is the file ready?”:

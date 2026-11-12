@@ -21,6 +21,12 @@ Cùng nói về trời mưa: “If it rains, I stay home” có thể kể thói
 
 Ở mẫu khả năng thật, vế *if* thường dùng hiện tại đơn dù nói về ngày mai: “If she calls, I'll answer.” Vế kết quả không bắt buộc là *will*: “If you need help, call me.” Với giả định quá khứ, cả điều kiện lẫn kết quả đều nhìn lại chuyện đã không xảy ra: “If I'd left earlier, I wouldn't have missed the train.”
 
+## Lý thuyết: hai vế của câu điều kiện
+
+Câu điều kiện có **vế điều kiện** (*if-clause*) và **vế kết quả**. Thứ tự có thể đổi: “If it rains, I'll stay home” = “I'll stay home if it rains”; khi vế *if* đứng đầu, thường có dấu phẩy. Chọn dạng theo quan hệ với thực tế: quy luật/thói quen dùng hiện tại ở hai vế; khả năng thật ở tương lai thường dùng `if + hiện tại`, vế kết quả `will/can/mệnh lệnh + V1`; tưởng tượng hiện tại dùng `if + quá khứ`, `would/could + V1`; giả định quá khứ dùng `if + had + V3`, `would/could have + V3`.
+
+Thì quá khứ ở “If I **had** more time” không kể chuyện hôm qua; nó đánh dấu **khoảng cách với thực tế hiện tại**. “If I'd **had** more time yesterday” nhìn lại một điều đã không xảy ra. Vì thế không chọn loại câu chỉ theo “từ chỉ thời gian”. Vế kết quả có thể dùng *could* để nói khả năng, *would* để nói kết quả giả định. *Unless* thường mang nghĩa “if ... not”, nhưng phải kiểm tra để không vô tình đảo ý.
+
 ## Từ ý định đến câu
 
 Bạn muốn nói về việc đi sớm:

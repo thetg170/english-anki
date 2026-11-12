@@ -20,6 +20,12 @@ Trước khi chọn *many* hay *much*, hãy hỏi danh từ trong nghĩa bạn �
 
 *A few* thường nói vẫn có vài đơn vị; *few* nhấn số lượng quá ít. *A little* và *little* có sự khác biệt tương tự với lượng không đếm trực tiếp. “We have a little time” có thể là vẫn đủ để làm gì đó; “We have little time” nhấn thiếu thời gian. Ngữ cảnh quyết định cảm giác cụ thể.
 
+## Lý thuyết: đếm được là tính chất của cách dùng danh từ
+
+Danh từ **đếm được** có thể chỉ từng đơn vị: *one question, two questions*. Số ít thường cần từ hạn định; số nhiều có thể đi với *many, a few, several*. Danh từ **không đếm trực tiếp** diễn đạt chất, lượng hoặc khái niệm trong nghĩa đang dùng: *water, advice, information*. Chúng thường không lấy *a/an* hay *-s* khi giữ nghĩa đó, và đi với *much, a little*. Muốn đếm, thêm một đơn vị: *two glasses of water*, *a piece of advice*.
+
+Tính đếm được có thể đổi theo nghĩa: “I drink coffee” nói đồ uống nói chung; “Two coffees, please” là hai phần/cốc trong quán. *Some* diễn đạt một lượng không xác định; *any* thường xuất hiện trong câu hỏi/phủ định, nhưng không phải luật tuyệt đối. *A few/a little* thường ngụ ý vẫn có một lượng; *few/little* nhấn thiếu. Khi chia động từ, xem **danh từ trung tâm**: “The information **is** useful”, “The two pieces of information **are** useful.”
+
 ## Từ ý định đến câu
 
 Bạn muốn nói còn ít thời gian nhưng có vài lựa chọn:

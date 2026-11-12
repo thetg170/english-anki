@@ -22,6 +22,12 @@ Tiếng Anh có nhiều cách nói về tương lai vì **mức chuẩn bị** c
 
 Khi một mệnh đề thời gian hoặc điều kiện hướng về tương lai, tiếng Anh thường dùng hiện tại đơn trong vế đó: “I'll call you **when I arrive**”; “If it rains, we'll stay in.” Vế chính vẫn có thể dùng *will*. Đây là mẫu dự đoán thường gặp; một số cách dùng *will* trong vế *if* mang nghĩa sẵn lòng là trường hợp khác.
 
+## Lý thuyết: tương lai là ý nghĩa, không chỉ là một thì
+
+Tiếng Anh dùng nhiều cấu trúc để nhìn một việc chưa xảy ra. `will + V1` thường dùng khi quyết định lúc nói, hứa hoặc dự đoán theo đánh giá. `am/is/are going to + V1` diễn đạt ý định đã có hoặc dự đoán dựa trên dấu hiệu hiện tại. `am/is/are + V-ing` có thể nói một sự thu xếp trong tương lai khi có mốc rõ; hiện tại đơn có thể trình bày thời gian biểu cố định. Các mẫu có thể cùng đúng, nhưng cho người nghe mức chuẩn bị hoặc góc nhìn khác nhau.
+
+Phủ định và hỏi theo trợ động từ của từng mẫu: “I **won't** go / **Will** you go?”, “I **am not going to** go / **Are** you going to go?”. Sau *when, before, after, if* chỉ tương lai, vế phụ thường dùng hiện tại đơn: “I'll call when I arrive.” Trong câu này *arrive* không nói hiện tại; cấu trúc của mệnh đề thời gian quy định dạng động từ. *Might/may* nói khả năng, không đồng nghĩa một kế hoạch đã quyết.
+
 ## Từ ý định đến câu
 
 Bạn muốn cập nhật kế hoạch cho đồng nghiệp:
