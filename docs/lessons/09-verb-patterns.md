@@ -2,15 +2,31 @@
 
 **Học trước:** [Câu cơ bản](01-present-simple-continuous.md). **Học tiếp:** [Nối hai ý](16-connecting-ideas.md).
 
-## Learning Objectives
+Sau một động từ, động từ tiếp theo không tự động lấy *to* hoặc *-ing*. Bài này giúp bạn đọc cụm đứng trước, nhận diện khi đổi dạng sẽ đổi nghĩa, rồi ghép hai hành động thành một câu.
+
+## Sau bài này bạn làm được gì
 
 Ghép hai hành động trong một câu bằng *V-ing* hoặc *to V*, nói mục đích và nhận ra trường hợp đổi dạng thì đổi nghĩa.
 
-## Core Concepts
+## Bản chất của cấu trúc
 
 Động từ thứ hai không tự động chia theo thì. Dạng của nó phụ thuộc động từ/giới từ đứng trước: *enjoy doing*, *want to do*, *think of doing*. Sau giới từ, thường dùng danh từ hoặc *V-ing*: “I'm interested in learning.” *To V* có thể nói mục đích: “I went out to buy milk.” Một số cặp như *stop doing* (ngừng việc đang làm) và *stop to do* (dừng lại để làm việc khác) khác nghĩa.
 
-## Sentence Structures
+## Quy trình chọn dạng động từ thứ hai
+
+| Từ đứng trước | Dạng thường dùng | Ví dụ |
+|---|---|---|
+| *want, hope, plan, decide* | *to + V* | I plan to leave early. |
+| *enjoy, avoid, finish, consider* | *V-ing* | I enjoy working here. |
+| Giới từ như *in, of, to* trong cụm cố định | Danh từ hoặc *V-ing* | I'm interested in learning. |
+| *ask/tell/want + người* | *người + to V* | I asked her to wait. |
+| *let/make + người* | *người + V* | Let me explain. |
+
+## Phân tích một tình huống
+
+“Tôi muốn ngừng làm việc để ăn trưa” không thể dịch bằng cách nối hai động từ bất kỳ. “I stopped working to have lunch”: *stop working* = ngừng việc đang làm, *to have lunch* = mục đích của việc dừng. Đổi thành “I stopped to work” thì nghĩa là dừng một việc khác **để làm việc**. Động từ thứ hai không mang thì riêng; cấu trúc đứng trước quyết định nó là *to V* hay *V-ing*. Với *look forward to seeing you*, chữ *to* là giới từ, nên dùng *seeing*.
+
+## Cấu trúc câu
 
 | Ý | Ghép câu |
 |---|---|
@@ -19,11 +35,11 @@ Ghép hai hành động trong một câu bằng *V-ing* hoặc *to V*, nói mụ
 | Sau giới từ | interested in / think of / look forward to + V-ing |
 | Mục đích | Main action + to V |
 
-## Usage
+## Cách dùng và ranh giới
 
 Đừng học một quy tắc “mọi động từ đều + V-ing” hoặc “đều + to V”. Học cả **cụm** với một câu thật. *Remember to call* = nhớ để gọi; *remember calling* = nhớ rằng mình đã gọi. Các động từ khác có thể chấp nhận cả hai dạng với khác biệt rất nhỏ hoặc phụ thuộc ngữ cảnh.
 
-## Examples
+## Ví dụ trong ngữ cảnh
 
 | English | Nghĩa |
 |---|---|
@@ -32,28 +48,28 @@ Ghép hai hành động trong một câu bằng *V-ing* hoặc *to V*, nói mụ
 | I'm thinking of applying for the job. | Tôi đang nghĩ đến việc ứng tuyển. |
 | I went to the store to buy milk. | Tôi đến cửa hàng để mua sữa. |
 
-## Common Mistakes
+## Lỗi thường gặp
 
 - ❌ “I enjoy to work here.” → ✅ “I enjoy working here.”
 - ❌ “I'm interested in learn.” → ✅ “I'm interested in learning.” Sau *in* dùng *V-ing*.
 - ❌ “I went out for buy milk.” → ✅ “I went out to buy milk.” Mục đích thường dùng *to V*.
 
-## Sentence Building
+## Tạo câu từng bước
 
 1. Chọn ý chính: **I want a new job.**
 2. Nêu hành động: **I want to apply for a new job.**
 3. Nêu ý định đang cân nhắc: **I'm thinking of applying for a new job.** Sắc thái chuyển từ mong muốn sang cân nhắc.
 
-## Variations
+## Biến đổi câu
 
 “I want to apply” → “She wants to apply” → “She doesn't want to apply” → “Does she want to apply?”. Với *enjoy*: “She enjoys working”; “Does she enjoy working?”. Động từ đầu đổi thì, còn dạng sau nó vẫn theo cấu trúc.
 
-## Real-life Situations
+## Tình huống thực tế
 
 **A:** Are you thinking of changing jobs?  
 **B:** Maybe. I enjoy working here, but I want to try something new.
 
-## Practice
+## Tự luyện tập
 
 1. Nói bạn đang nghĩ đến việc học một ngôn ngữ mới.
 2. Phân biệt: “I stopped smoking” và “I stopped to smoke.”
@@ -64,7 +80,7 @@ Ghép hai hành động trong một câu bằng *V-ing* hoặc *to V*, nói mụ
 
 Các bảng dưới đây là **cụm thường dùng**, không phải luật cho mọi nghĩa của từ. Học cả ví dụ và ý định nói. [Cambridge Grammar](https://dictionary.cambridge.org/grammar/british-grammar/verb-patterns-verb-infinitive-or-verb-ing) phân biệt rõ những động từ đổi nghĩa theo cấu trúc.
 
-### Must Know: chọn dạng sau động từ
+### Dùng thường xuyên: chọn dạng sau động từ
 
 | Verb / nhóm | Pattern | Example | Nghĩa |
 |---|---|---|---|
@@ -78,7 +94,7 @@ Các bảng dưới đây là **cụm thường dùng**, không phải luật ch
 
 *Help + object + (to) V* có cả hai cách: “She helped me (to) move” (Cô ấy giúp tôi chuyển đồ). Sau giới từ dùng *V-ing*: *interested in learning* (quan tâm đến việc học), *good at explaining* (giỏi giải thích), *look forward to seeing you* (mong được gặp bạn). Chữ *to* cuối cùng là **giới từ**, không phải dấu của *to-infinitive*.
 
-### Good to Know: nhiều cách dùng
+### Mở rộng: nhiều cách dùng
 
 | Nhóm | Ví dụ / nghĩa | Ghi chú |
 |---|---|---|
@@ -86,7 +102,7 @@ Các bảng dưới đây là **cụm thường dùng**, không phải luật ch
 | start/begin/continue | It started raining / to rain. — Trời bắt đầu mưa. | Thường ít khác nghĩa, nhưng không hoán đổi trong mọi câu. |
 | see/hear/watch + object | I saw her cross the street. — Tôi thấy cô ấy băng qua đường; I saw her crossing it. — Tôi thấy cô ấy đang băng qua. | V nguyên thể nhìn sự việc như toàn bộ; V-ing nhấn quá trình. |
 
-### Special Cases: đổi dạng, đổi nghĩa
+### Trường hợp đổi nghĩa: đổi dạng, đổi nghĩa
 
 | Cặp | Khác biệt và ví dụ |
 |---|---|
@@ -102,6 +118,6 @@ Các bảng dưới đây là **cụm thường dùng**, không phải luật ch
 
 **Tự tạo câu:** Chọn một việc như *call Mai*. Nói (1) ý định “I plan to call Mai”, (2) lời nhờ “I asked Nam to call Mai”, (3) việc đã làm và nhớ lại “I remember calling Mai”. Sau đó đổi sang *stop* hoặc *try* để tự giải thích sự đổi nghĩa.
 
-## Anki Review
+## Ôn tập với Anki
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Gerund &amp; Infinitive (V-ing / to V)` hoặc prefix `verb_patterns.` (**41 cards**). [CSV pilot](../../source/pilot/notes.csv) có `pilot.error.01` và `pilot.error.02`.

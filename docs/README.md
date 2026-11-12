@@ -2,6 +2,12 @@
 
 Thư mục [lessons/](lessons/) chỉ gồm **15 bài ngữ pháp nền tảng** và [bài 16: nối hai ý](lessons/16-connecting-ideas.md). Các tài liệu giao tiếp theo chủ đề đã được gỡ khỏi mục lục bài học theo yêu cầu; [thẻ Everyday English](../source/everyday-english/notes.csv) vẫn được giữ nguyên trong Anki và CSV.
 
+## Cách đọc tài liệu
+
+Xem [quy chuẩn viết bài học](LESSON_WRITING.md) nếu bạn muốn hiểu cách các bài được biên soạn và rà soát.
+
+Mỗi bài bắt đầu bằng mục tiêu và kiến thức cần học trước. Phần **quy trình chọn cấu trúc** giúp bạn quyết định nên dùng mẫu nào; phần **phân tích một tình huống** cho thấy lựa chọn đó thay đổi thế nào khi ý định đổi. Sau đó mới đọc công thức, trường hợp dễ nhầm và tự luyện. Cách tổ chức này theo hướng tài liệu tra cứu: bạn có thể quay lại đúng mục đang cần mà không phải đọc lại từ đầu.
+
 ## Cách học một bài
 
 1. Đọc mục tiêu và ví dụ, chọn một tình huống thật.

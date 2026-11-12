@@ -2,15 +2,30 @@
 
 **Học trước:** [Tính từ và trạng từ](10-adjectives-adverbs.md). **Học tiếp:** [Nối hai ý](16-connecting-ideas.md).
 
-## Learning Objectives
+So sánh không chỉ là thêm *-er*. Bạn cần xác định so hai đối tượng hay chọn một trong nhóm, sau đó chọn dạng của tính từ/trạng từ và mức chênh lệch muốn nói.
+
+## Sau bài này bạn làm được gì
 
 So sánh hai phương án, nói mức độ khác biệt, nói “bằng nhau” và chọn phương án tốt nhất trong một nhóm.
 
-## Core Concepts
+## Bản chất của cấu trúc
 
 So sánh hơn cần **hai đối tượng**: *faster than*, *more useful than*. So sánh nhất chọn một đối tượng trong nhóm: *the fastest*, *the most useful*. Với tính từ ngắn thường thêm *-er/-est*; tính từ dài thường dùng *more/most*. Có dạng bất quy tắc: *good → better → best*, *bad → worse → worst*. Không áp dụng máy móc theo số chữ vì một số tính từ hai âm tiết có cả hai cách dùng tùy từ/ngữ cảnh.
 
-## Sentence Structures
+## Quy trình tạo câu so sánh
+
+| Ý định | Cách ghép | Ví dụ |
+|---|---|---|
+| So hai đối tượng | Dạng hơn + *than* nếu nêu đối tượng thứ hai | This one is cheaper than that one. |
+| Nói ngang bằng | *as + tính từ/trạng từ + as* | It's as fast as mine. |
+| Chọn một trong nhóm | Dạng nhất, thường với *the* khi mô tả danh từ | This is the fastest route. |
+| Nói chênh lệch lớn/nhỏ | *much/a lot/a bit* + dạng hơn | It's a bit cheaper. |
+
+## Phân tích một tình huống
+
+Có hai tuyến đường: A mất 20 phút, B mất 25 phút. “Route A is faster than route B” nêu so sánh trực tiếp; “Route A is a bit faster” đủ nếu người nghe đã biết hai phương án. Nếu có ba tuyến và A nhanh nhất, “Route A is the fastest” mới đúng phạm vi. *Good/well → better/best* là bất quy tắc, nhưng trước khi chọn dạng, vẫn phải biết mình mô tả người/vật hay cách làm: “a better plan” khác “work better”.
+
+## Cấu trúc câu
 
 | Ý | Ghép câu |
 |---|---|
@@ -19,11 +34,11 @@ So sánh hơn cần **hai đối tượng**: *faster than*, *more useful than*. 
 | Nhất | A + be + the + adjective-est / most + adjective + in/of group |
 | Hơn nhiều / hơi | much/a lot/a bit + comparative |
 
-## Usage
+## Cách dùng và ranh giới
 
 “This one is better” đủ nếu hai phương án đã rõ; thêm *than the old one* khi cần. “The best” cần nhóm so sánh hiểu được từ ngữ cảnh. *As good as* nói ngang bằng; *not as good as* nói kém hơn, thường mềm hơn một nhận xét trực diện.
 
-## Examples
+## Ví dụ trong ngữ cảnh
 
 | English | Nghĩa |
 |---|---|
@@ -32,37 +47,37 @@ So sánh hơn cần **hai đối tượng**: *faster than*, *more useful than*. 
 | Her plan is as simple as ours. | Kế hoạch của cô ấy đơn giản bằng của chúng tôi. |
 | This is the most useful feature for me. | Đây là tính năng hữu ích nhất với tôi. |
 
-## Common Mistakes
+## Lỗi thường gặp
 
 - ❌ “more faster” → ✅ “faster.” Không dùng hai dấu so sánh hơn cùng lúc.
 - ❌ “as tall than” → ✅ “as tall as.”
 - ❌ “the better of all” → ✅ “the best of all” nếu chọn nhất trong cả nhóm.
 
-## Sentence Building
+## Tạo câu từng bước
 
 1. Nêu nhận xét: **This plan is simple.**
 2. So với kế hoạch cũ: **This plan is simpler than the old one.**
 3. Nêu mức độ và lý do: **It's a bit simpler than the old one, so I'd choose it.**
 
-## Variations
+## Biến đổi câu
 
 Đổi chủ ngữ: “This phone is faster” / “These phones are faster.” Phủ định: “It isn't faster.” Hỏi: “Is it faster than yours?”. Đổi tính từ sang trạng từ: “She works harder than I do.”
 
-## Real-life Situations
+## Tình huống thực tế
 
 **A:** Which design do you prefer?  
 **B:** The second one. It's clearer and a little easier to use.
 
-## Practice
+## Tự luyện tập
 
 1. So sánh quán mới rẻ hơn quán cũ một chút.
 2. Hỏi chiếc điện thoại này có tốt bằng chiếc kia không.
 
 **Đáp án tham khảo:** 1. “The new café is a bit cheaper than the old one.” *A bit* trước dạng so sánh. 2. “Is this phone as good as that one?” Dùng *as...as* khi hỏi ngang mức.
 
-## Tra cứu và mở rộng
+## Tham chiếu nhanh
 
-### Must Know: chọn cách tạo dạng so sánh
+### Dùng thường xuyên: chọn cách tạo dạng so sánh
 
 Đầu tiên xác định bạn đang so sánh **đặc điểm**, **cách làm**, hay **số lượng**. Sau đó chọn dạng trong hai bảng dưới. *The* thường đứng trước dạng so sánh nhất khi nêu một thành viên nổi bật trong nhóm: “the fastest train”; trạng từ có thể linh hoạt hơn, như “She runs fastest”.
 
@@ -89,14 +104,14 @@ So sánh hơn cần **hai đối tượng**: *faster than*, *more useful than*. 
 | few (số lượng ít) | fewer | fewest | We made fewer mistakes. — Chúng ta mắc ít lỗi hơn. Dùng với danh từ đếm được số nhiều. |
 | old | older; elder (trong quan hệ gia đình) | oldest; eldest (trong quan hệ gia đình) | My brother is older than me. — Anh tôi lớn tuổi hơn tôi. / My elder brother lives here. — Anh trai tôi sống ở đây. |
 
-**Chú ý:** *Elder/eldest* thường đứng trước danh từ chỉ quan hệ gia đình; dùng “My brother is **older** than me”, không dùng “is elder than me”. *Fewer* là dạng so sánh của *few*, không phải dạng bất quy tắc như *better*; bảng đặt chung để chọn đúng từ khi nói số lượng. *Less* thường đi với danh từ không đếm được, *fewer* với danh từ đếm được số nhiều. Xem [bảng good/well và các cặp dễ nhầm](10-adjectives-adverbs.md#good-to-know-các-cặp-dễ-nhầm-khi-tự-ghép-câu) để chọn đúng từ gốc.
+**Chú ý:** *Elder/eldest* thường đứng trước danh từ chỉ quan hệ gia đình; dùng “My brother is **older** than me”, không dùng “is elder than me”. *Fewer* là dạng so sánh của *few*, không phải dạng bất quy tắc như *better*; bảng đặt chung để chọn đúng từ khi nói số lượng. *Less* thường đi với danh từ không đếm được, *fewer* với danh từ đếm được số nhiều. Xem [bảng good/well và các cặp dễ nhầm](10-adjectives-adverbs.md#mở-rộng-các-cặp-dễ-nhầm-khi-tự-ghép-câu) để chọn đúng từ gốc.
 
-### Good to Know / Special Cases
+### Ranh giới và ngoại lệ
 
 *Much/a lot/far + comparative* = hơn nhiều; *a bit/a little/slightly + comparative* = hơn một chút: “It's much easier” (Nó dễ hơn nhiều). *Less + adjective* = ít ... hơn: “This version is less stable” (Bản này kém ổn định hơn). *Fewer* thường đi với danh từ đếm được số nhiều, *less* với không đếm được: “fewer mistakes” (ít lỗi hơn), “less time” (ít thời gian hơn). Trong lời nói đời thường có ngoại lệ, đặc biệt đơn vị đo và con số; tránh coi quy tắc này tuyệt đối. “The more you practice, the easier it gets” = càng luyện càng dễ. Nếu chỉ có hai đối tượng, thường nói “the better of the two” chứ không mặc định *the best*.
 
 **Tự tạo câu:** So sánh hai lựa chọn bằng một điểm hơn, một điểm kém và kết luận. Mẫu: “The new app is faster but a bit more expensive. I'd choose it because it saves time.”
 
-## Anki Review
+## Ôn tập với Anki
 
 Lọc [CSV ngữ pháp](../../source/english-grammar/notes.csv) theo `field:Unit` = `Comparison` hoặc prefix `comparison.` (**33 cards**).
