@@ -1,5 +1,7 @@
 # English Anki
 
+**English Grammar Exercises.** Deck bài tập riêng gồm 151 câu chọn từ sáu bộ ghi chú khóa học. Dùng bộ này để luyện chọn từ, sửa lỗi, nhận diện thành phần, sắp xếp từ và tự đặt câu. Mặt sau có đáp án cùng lý do ngắn. [CSV bài tập](source/grammar-exercises/notes.csv) lưu mã ổn định và vị trí bài gốc. Có thể lọc trong Anki Browse bằng `deck:"English Grammar Exercises" tag:topic::verbs`. Các tag còn lại là `topic::pronouns`, `topic::nouns`, `topic::descriptions`, `topic::prepositions` và `topic::sentences`.
+
 **Business Analysis (11/11/2026):** Đã nhập 108 thẻ IT BA theo 13 chủ đề vào Anki, tập trung vào khái niệm, áp dụng, tình huống và review requirements. Xem [curriculum và nguồn](docs/business-analysis.md) cùng [CSV nguồn](source/business-analysis/notes.csv). Một deck duy nhất, phân loại bằng tags; không có audio. Mặt thẻ chỉ hiện đáp án chính, phần định nghĩa/giải thích thêm có thể mở khi cần; 15 thẻ có sơ đồ BPMN, UML hoặc dữ liệu tự vẽ. Nguồn chỉ lưu trong CSV.
 
 **Học ngữ pháp để tự tạo câu:** Mở [mục lục 16 bài học](docs/README.md). Mỗi bài có phần **Tra nhanh khi quên** để chọn cấu trúc trong một phút và phần đọc sâu để hiểu cách dùng, theo dõi một tình huống được dựng thành câu, rồi tự luyện với đáp án tham khảo. Có thể đọc theo lộ trình hoặc mở lại đúng bài khi cần. Tài liệu này đọc độc lập; nội dung thẻ được quản lý riêng theo workflow CSV bên dưới.

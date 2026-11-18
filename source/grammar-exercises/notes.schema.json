@@ -1,0 +1,20 @@
+{
+  "deck": "English Grammar Exercises",
+  "notetype": "EN_Grammar_Exercises_v1",
+  "fields": [
+    "Key",
+    "Topic",
+    "Task",
+    "Prompt",
+    "Answer",
+    "Why",
+    "Exercise"
+  ],
+  "templates": {
+    "Practice": {
+      "Front": "<div class=\"wrap\"><div class=\"topic\">{{Topic}} · {{Task}}</div><div class=\"prompt\">{{Prompt}}</div><div class=\"instruction\">Nói câu hoặc nêu lý do trước khi lật.</div></div>",
+      "Back": "{{FrontSide}}<div class=\"wrap\"><hr id=\"answer\"><div class=\"answer\">{{Answer}}</div><div class=\"why\">{{Why}}</div><div class=\"exercise\">{{Exercise}}</div></div>"
+    }
+  },
+  "css": ".card{font-family:system-ui,sans-serif;font-size:20px;line-height:1.55;text-align:left;padding:20px 16px;color:#26323b;background:#f8faf9}.wrap{max-width:680px;margin:0 auto}.topic,.instruction{font-size:14px;color:#4e6169}.topic{font-weight:650}.prompt,.answer{font-size:23px;font-weight:600;margin:16px 0}.answer{color:#164c39}.why{margin-top:12px}.exercise{font-size:13px;opacity:.75;margin-top:20px}hr{border:0;border-top:1px solid #9faeb2}.nightMode.card{background:#20282a;color:#f5f7f6}.nightMode .topic,.nightMode .instruction{color:#b8c9c8}.nightMode .answer{color:#a5ecd4}"
+}
