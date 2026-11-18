@@ -1,6 +1,6 @@
 # 02. Kể một việc đã xảy ra
 
-Past Simple dùng khi bạn đặt một sự việc vào **giai đoạn quá khứ đã khép lại**. Bài này giúp bạn kể, hỏi và phủ định mà không nhầm V1 với V2.
+Bạn đi cà phê với bạn bè tối qua. Sáng nay một người hỏi buổi đi chơi thế nào. Quá khứ đơn giúp bạn kể chuyện theo thứ tự và hỏi lại chi tiết.
 
 **Cần biết trước:** [Hiện tại đơn và tiếp diễn](01-present-simple-continuous.md). V1 là dạng gốc; V2 là dạng quá khứ đơn; V3 là quá khứ phân từ.
 
@@ -15,27 +15,34 @@ Past Simple dùng khi bạn đặt một sự việc vào **giai đoạn quá kh
 
 **Tự hỏi:** “Tôi đang kể một lần cụ thể trong quá khứ, hay đang báo kết quả hiện tại?” Nếu là kết quả hiện tại, xem [Present Perfect](04-present-perfect.md).
 
-## Hiểu bản chất
+## Lý thuyết
 
-“I met Mai yesterday” chỉ việc gặp Mai ở một mốc đã qua. Bạn có thể kể cả chuỗi bằng nhiều V2: “I got home, made dinner and called Mai.” Một mốc như *yesterday*, *last Friday* hoặc *in 2022* thường giúp xác định giai đoạn khép lại, nhưng ý của cả câu vẫn quan trọng hơn một từ khóa.
+### Động từ thường ở quá khứ đơn (Past Simple)
 
-Động từ có quy tắc thường thêm *-ed*: *work → worked*, *study → studied*, *stop → stopped*. Động từ bất quy tắc phải nhớ riêng: *go → went → gone*. Trong Past Simple, dùng **went**; sau *have* hoặc trong một số cấu trúc khác, dùng **gone**. Tra [bảng động từ bất quy tắc](../reference/irregular-verbs.md) khi cần.
+Với động từ thường, câu khẳng định dùng V2. V2 có quy tắc thường thêm *-ed* (*walk → walked*, *study → studied*, *stop → stopped*). V2 bất quy tắc cần học theo từng từ, chẳng hạn *take → took* và *go → went*. Có thể tra [bảng V1–V2–V3](../reference/irregular-verbs.md).
 
-## Lý thuyết: quá khứ đơn được hình thành thế nào?
+| Dạng | Vị trí đánh dấu quá khứ | Ví dụ |
+|---|---|---|
+| Khẳng định | Động từ chính ở V2 | We took a taxi. |
+| Phủ định | *didn't* đứng trước động từ gốc | We didn't take a taxi. |
+| Nghi vấn | *did* đứng trước chủ ngữ | Did you take a taxi? |
 
-Past Simple đặt sự việc vào một khoảng quá khứ mà người nói xem là đã kết thúc. Với động từ thường, **khẳng định** dùng V2: `S + V2`. Động từ có quy tắc thêm *-ed*; bất quy tắc cần tra từng dạng. **Phủ định** dùng `S + did not + V1`; **câu hỏi** dùng `Did + S + V1?`. Không dùng V2 lần nữa sau *did*. Với *be*, dùng *was* cho I/he/she/it và *were* cho you/we/they; câu hỏi đảo *was/were*, không mượn *did*.
+### Động từ *be* và mốc quá khứ
 
-Mốc quá khứ có thể nói ra (*yesterday, last year, in 2020*) hoặc đã rõ từ cuộc trò chuyện. Quá khứ đơn cũng kể các việc nối tiếp: “I opened the door, walked in and sat down.” Nó không tự cho biết sự việc còn tác động đến hiện tại hay không; nếu muốn lấy **kết quả hiện tại** làm trọng tâm, cân nhắc Present Perfect ở bài 04. *Used to + V1* nói thói quen hoặc trạng thái cũ; đó là một mẫu riêng, không phải cách thay thế mọi câu quá khứ đơn.
+Dùng *was* với *I/he/she/it* và *were* với *you/we/they*. Thêm *not* để phủ định hoặc đảo *was/were* để hỏi. *The café was busy → It wasn't busy → Was it busy?*
 
-## Từ ý định đến câu
+Người nghe có thể xác định thời điểm từ một từ như *yesterday*, hoặc từ câu trước. Trong *How was your trip? Did you take any pictures?*, chuyến đi đã là mốc chung. Khi muốn nhấn kết quả tại thời điểm hiện tại, xem [bài Present Perfect](04-present-perfect.md).
 
-Bạn muốn kể vì sao đến muộn hôm qua:
+## Tình huống và cách ghép câu
 
-1. Chọn hai việc đã hoàn tất: **I missed the bus. I took a taxi.**
-2. Nối theo thứ tự nguyên nhân và kết quả: **I missed the bus, so I took a taxi.**
-3. Nếu người nghe hỏi “Did you call the office?”, trả lời **Yes, I called them** hoặc **No, I didn't call them**.
+**Kể chuyện đến quán cà phê tối qua.**
 
-Trong câu hỏi và phủ định, *did* đã mang thì quá khứ; động từ chính dùng V1. Với *be*, nói “She was late” và “Was she late?”, không nói “Did she was late?”.
+1. Bắt đầu bằng điều xảy ra trước. **We missed the bus.** — Bọn tôi lỡ xe buýt. *Missed* là V2.
+2. Kể tiếp cách giải quyết. **We took a taxi.** — Bọn tôi đi taxi. *Took* là V2 của *take*.
+3. Thêm chi tiết về quán. **The café was still open when we arrived.** — Quán vẫn mở khi bọn tôi tới. *Was* mô tả trạng thái, *arrived* kể hành động.
+4. Khi bạn nghe hỏi lại, chuyển dấu quá khứ sang *did*. **Did you take a taxi home too?** — Bạn cũng đi taxi về à?
+
+Bạn có thể nối hai câu đầu bằng *so* nếu muốn kể luôn kết quả. **We missed the bus, so we took a taxi.**
 
 ## Những chỗ dễ nhầm
 
@@ -60,6 +67,7 @@ Trong câu hỏi và phủ định, *did* đã mang thì quá khứ; động t�
 1. Kể: “Tối qua tôi về nhà, ăn tối rồi gọi cho Mai.”
 2. Hỏi: “Hôm qua bạn đã gửi file chưa?”
 3. Phủ định: “Tôi không gặp cô ấy thứ Sáu trước.”
+4. Sửa câu “Did Mai was at the café last night?”.
 
 <details>
 <summary>Đáp án tham khảo và lý do</summary>
@@ -67,6 +75,7 @@ Trong câu hỏi và phủ định, *did* đã mang thì quá khứ; động t�
 1. **I got home, had dinner and called Mai last night.** Ba việc đã hoàn tất dùng V2.
 2. **Did you send the file yesterday?** Sau *did*, dùng *send*.
 3. **I didn't meet her last Friday.** Sau *didn't*, dùng *meet*.
+4. **Was Mai at the café last night?** Động từ chính là *be*, nên đưa *was* lên trước chủ ngữ.
 
 </details>
 

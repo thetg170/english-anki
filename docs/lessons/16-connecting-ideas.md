@@ -1,6 +1,6 @@
 # 16. Nối hai ý mà vẫn nói tự nhiên
 
-Khi đã nói được hai câu ngắn, bạn có thể cho người nghe thấy **quan hệ** giữa chúng: thêm ý, đối lập, lý do, kết quả, thời điểm hoặc điều kiện. Nếu câu nối trở nên khó nói, hai câu ngắn vẫn là lựa chọn tốt.
+Bạn nhắn cho bạn mình vì sao đến muộn. “Mưa to. Tôi đợi xe lâu.” là hai thông tin riêng. Khi nối lại, bạn có thể nói ngay lý do, kể tiếp kết quả hoặc cho thấy kết quả trái dự đoán.
 
 **Cần biết trước:** [Câu cơ bản](01-present-simple-continuous.md), [kể việc quá khứ](02-past-simple.md).
 
@@ -17,29 +17,33 @@ Khi đã nói được hai câu ngắn, bạn có thể cho người nghe thấy
 
 **Tự hỏi:** “Tôi muốn người nghe hiểu **vì sao**, **nên chuyện gì xảy ra**, hay **dù vậy chuyện gì vẫn xảy ra**?” Chọn từ nối theo ý đó.
 
-## Hiểu bản chất
+## Lý thuyết
 
-Hai dữ kiện “The bus didn't come. I walked.” có thể được sắp theo hai góc nhìn. “I walked **because** the bus didn't come” bắt đầu bằng kết quả rồi giải thích lý do. “The bus didn't come, **so** I walked” bắt đầu bằng lý do rồi nêu hệ quả. Không ghép *because ... so ...* cho cùng một quan hệ trong mẫu cơ bản.
+### Mệnh đề chính và mệnh đề phụ
 
-“But” và “although” cùng diễn đạt sự trái kỳ vọng: “It was raining, but we went out” / “Although it was raining, we went out.” Không thêm *but* sau vế *although* trong mẫu này. *When* nói thời điểm của việc dự kiến xảy ra; *if* nói điều kiện chưa chắc xảy ra. “I'll call you when I arrive” khác “I'll call you if I arrive early”.
+Trong các ví dụ cơ bản của bài, một **mệnh đề** có chủ ngữ và động từ đã chia. *It was raining* có thể đứng riêng. *Because it was raining* mở một vế phụ chỉ lý do, cần gắn vào câu chính trong văn viết đầy đủ. Nếu vế phụ đứng đầu, thường đặt dấu phẩy sau nó: *Because it was raining, I took a taxi.*
 
-**Mệnh đề** là nhóm từ có chủ ngữ và động từ chia thì. “I stayed home” có thể đứng thành câu; “because it rained” cần đi với một vế chính. *Because + mệnh đề*: “because it rained”. *Because of + danh từ*: “because of the rain”. Tương tự, “although it rained” nhưng “despite the rain”.
+| Quan hệ | Từ nối | Ví dụ và nghĩa |
+|---|---|---|
+| Bổ sung hoặc chọn | *and / or* | We can wait here or take a taxi. — Có thể đợi ở đây hoặc đi taxi. |
+| Nguyên nhân | *because* | I took a taxi because it was raining. — Tôi đi taxi vì trời mưa. |
+| Kết quả | *so* | It was raining, so I took a taxi. — Trời mưa nên tôi đi taxi. |
+| Trái kỳ vọng | *but / although* | Although it was raining, I walked. — Dù mưa, tôi vẫn đi bộ. |
+| Thời điểm / điều kiện | *when / if* | I'll call when I get home. / I'll call if I get home early. |
 
-## Lý thuyết: nối theo quan hệ giữa hai mệnh đề
+### Kiểm tra phần đi sau từ nối
 
-**Mệnh đề** có chủ ngữ và động từ chia thì. Hai mệnh đề độc lập có thể đứng riêng; từ nối cho biết chúng liên quan thế nào. *And* thêm ý, *or* đưa lựa chọn, *but* tạo đối lập, *so* nêu kết quả. *Because, although, when, if* mở một **mệnh đề phụ**: “I stayed home **because it rained**.” Mệnh đề phụ này cần gắn với một vế chính để thành câu hoàn chỉnh.
+*Because/although* có thể mở một mệnh đề như *because it rained*. *Because of/despite* có thể đi với cụm danh từ như *because of the rain* hoặc *despite the rain*. Trong câu cơ bản, dùng một từ cho cùng một quan hệ. *Because ... so ...* và *although ... but ...* thường lặp vai trò giữa hai vế.
 
-**Nguyên nhân khác kết quả:** “I walked because the bus didn't come” trả lời *vì sao*; “The bus didn't come, so I walked” kể *điều gì xảy ra tiếp*. **Đối lập khác điều kiện:** “Although it was raining, we went out” nói việc đi ra ngoài vẫn xảy ra; “If it rains, we'll stay in” nói kế hoạch phụ thuộc mưa. Sau *because of/despite/in spite of* dùng danh từ hoặc cụm tương đương; sau *because/although* dùng mệnh đề. Khi vế phụ đứng đầu, thường đặt dấu phẩy sau nó. Đừng nối câu dài nếu hai câu ngắn đã truyền đúng ý.
+## Tình huống và cách ghép câu
 
-## Từ ý định đến câu
+**Bạn tới trễ và cần nhắn cho người đang đợi.**
 
-Bạn muốn giải thích mình đã đi bộ vì xe buýt không tới:
+1. Nếu họ hỏi *vì sao*, bắt đầu từ việc tới trễ. **I'm late because the bus didn't come.** — Tôi trễ vì xe buýt không tới.
+2. Nếu kể chuyện theo thứ tự, bắt đầu từ lý do. **The bus didn't come, so I took a taxi.** — Xe buýt không tới nên tôi đi taxi.
+3. Nếu muốn nói có việc xảy ra trái dự đoán, dùng *but* hoặc *although*. **Although I took a taxi, I was still late.** — Dù đã đi taxi, tôi vẫn trễ.
 
-1. Nói hai câu đủ rõ: **The bus didn't come. I walked.**
-2. Nếu người nghe hỏi “Vì sao đi bộ?”: **I walked because the bus didn't come.**
-3. Nếu đang kể chuỗi sự việc: **The bus didn't come, so I walked.**
-
-Kiểm tra cả hai vế có đủ ý, rồi đọc thành tiếng. Đừng nối ba, bốn quan hệ vào một câu chỉ vì đã học nhiều từ nối.
+Đọc cả câu và xác định ý bạn muốn người nghe nhớ. Với *because*, trọng tâm có thể là câu trả lời cho “tại sao?”. Với *so*, người nghe được dẫn từ lý do đến chuyện xảy ra sau đó.
 
 ## Thời điểm, thứ tự và dấu câu
 
@@ -62,7 +66,8 @@ Khi đưa một thông tin phụ lên đầu, kiểm tra dấu phẩy: “Althou
 
 1. Nói “Tôi về sớm vì tôi mệt” bằng *because*, rồi đổi sang *so*.
 2. Nói “Dù trời mưa, chúng tôi vẫn ra ngoài.”
-3. Nói “Khi về đến nhà, tôi sẽ nhắn bạn.”
+3. Nói “Khi về đến nhà, tôi sẽ nhắn cho bạn.”
+4. Sửa “Although I left early, but I missed the bus.”
 
 <details>
 <summary>Đáp án tham khảo và lý do</summary>
@@ -70,5 +75,6 @@ Khi đưa một thông tin phụ lên đầu, kiểm tra dấu phẩy: “Althou
 1. **I went home early because I was tired. / I was tired, so I went home early.** Cùng sự việc, khác hướng trình bày.
 2. **Although it was raining, we went out.** Không thêm *but*.
 3. **When I get home, I'll text you.** Vế *when* dùng hiện tại đơn dù hướng tương lai.
+4. **Although I left early, I missed the bus.** Bạn cũng có thể nói **I left early, but I missed the bus.** Cả hai nối cùng một quan hệ trái kỳ vọng.
 
 </details>

@@ -1,6 +1,6 @@
 # 04. Kể quá khứ hay báo kết quả hiện tại?
 
-Một việc đã xảy ra có thể được kể theo **thời điểm** hoặc theo **ý nghĩa của nó lúc này**. Bài này giúp bạn chọn Past Simple hay Present Perfect theo thông tin người nghe cần.
+Bạn tìm mãi chưa thấy chìa khóa. Một người hỏi có chuyện gì, rồi hỏi bạn lần cuối thấy nó khi nào. Hai câu trả lời nói về quá khứ, nhưng một câu báo tình trạng hiện tại, còn câu kia kể theo mốc.
 
 **Cần biết trước:** [Past Simple](02-past-simple.md), đặc biệt V2 và V3.
 
@@ -15,27 +15,34 @@ Một việc đã xảy ra có thể được kể theo **thời điểm** hoặ
 
 **Tự hỏi:** “Tôi đang chỉ một mốc đã xong, hay đang nối chuyện cũ với hiện tại?”
 
-## Hiểu bản chất
+## Lý thuyết
 
-“I've sent the file” báo file **giờ đã được gửi**. “I sent it at nine” trả lời câu hỏi lúc gửi. Với *yesterday* hoặc *last year*, giai đoạn nói đến đã khép lại nên Past Simple thường phù hợp. Với *this week*, lựa chọn có thể phụ thuộc tuần đó còn đang diễn ra và góc nhìn của người nói.
+### Hiện tại hoàn thành (Present Perfect)
 
-V3 là quá khứ phân từ, không phải V2. *Write → wrote → written*: “I wrote it yesterday” nhưng “I've written it.” *Been to* thường nói đã đến và trở về; *gone to* thường nói đã đi và hiện không ở đây. Vì vậy “I've been to Hanoi” và “She's gone to Hanoi” không chỉ khác chủ ngữ. Tra [bảng V1–V2–V3](../reference/irregular-verbs.md) để chọn đúng dạng.
+Công thức là **chủ ngữ + have/has + V3**. Dùng *has* với *he/she/it*. Thêm *not* sau *have/has* để phủ định, hoặc đảo *have/has* trước chủ ngữ để hỏi. V3 là quá khứ phân từ, có thể khác V2 như *see–saw–seen*. Tra [bảng động từ bất quy tắc](../reference/irregular-verbs.md) khi chưa chắc.
 
-## Lý thuyết: quá khứ nối với hiện tại
+| Ý cần diễn đạt | Ví dụ | Vì sao dùng Present Perfect? |
+|---|---|---|
+| Báo kết quả | I've lost my keys. | Hiện giờ chìa khóa đang thất lạc. |
+| Hỏi kinh nghiệm | Have you ever lost your keys? | Hỏi tổng quãng thời gian tính đến bây giờ. |
+| Nói tình trạng còn tiếp diễn | I've lived here since 2022. | Giai đoạn sống ở đây bắt đầu năm 2022 và vẫn tiếp tục. |
 
-Present Perfect có công thức `S + have/has + V3`; phủ định `haven't/hasn't + V3`; hỏi `Have/Has + S + V3?`. *Have/has* mang dấu hiệu ngôi và thì; V3 là quá khứ phân từ, có thể khác V2 (*go–went–gone*). Dạng này đặt một việc xảy ra trước hiện tại vào **khung còn liên hệ với hiện tại**: kết quả đã có, trải nghiệm tính đến nay, hoặc một tình trạng bắt đầu trước đây vẫn tiếp tục.
+### So với quá khứ đơn
 
-So sánh “I lost my key yesterday” (kể việc ở mốc hôm qua) với “I've lost my key” (giờ tôi không có chìa). Không gắn Present Perfect thông thường với mốc quá khứ đã đóng như *yesterday*. `for + khoảng thời gian` và `since + điểm bắt đầu` giúp nói sự kéo dài. Present Perfect Continuous (`have/has been + V-ing`) nhấn quá trình kéo dài: “I've been working all morning”; Present Perfect đơn có thể nhấn kết quả: “I've finished the report.” Đây là khác biệt về trọng tâm, không phải cứ kéo dài là bắt buộc dùng Continuous.
+*I lost my keys yesterday* đặt câu chuyện vào hôm qua. *I've lost my keys* đặt trọng tâm vào việc giờ mình thiếu chìa khóa. Cả hai có thể kể cùng một sự kiện. Khi nói mốc đã khép lại như *yesterday*, dạng thông thường là quá khứ đơn. Với *today* hay *this week*, hãy xem người nói đang tổng kết một giai đoạn còn mở hay kể một lần đã xác định.
 
-## Từ ý định đến câu
+*For* nêu khoảng kéo dài, *since* nêu điểm bắt đầu. *I've been looking for my keys for ten minutes* dùng **have/has been + V-ing** để nhấn quá trình tìm. *I've found them* nhấn kết quả tìm thấy.
 
-Đồng nghiệp hỏi “Is the file ready?”:
+## Tình huống và cách ghép câu
 
-1. Báo kết quả: **I've sent the file.**
-2. Báo chưa xong: **I haven't sent it yet.**
-3. Nếu họ hỏi “When did you send it?”, chuyển sang mốc: **I sent it at nine this morning.**
+**Bạn đã tìm thấy chìa khóa hay chưa?**
 
-Tương tự, “Have you ever tried this place?” hỏi kinh nghiệm. Khi trả lời “Yes, I tried it last week”, bạn đổi sang Past Simple vì đã nêu lần cụ thể.
+- **A:** Have you found your keys yet? — Bạn đã tìm thấy chìa khóa chưa? *Have* đưa lên đầu, *found* là V3, *yet* nghĩa là tính đến lúc này.
+- **B:** No, I haven't found them yet. — Chưa, tôi vẫn chưa tìm thấy. *Haven't* giữ ý kết quả chưa có.
+- **A:** When did you last see them? — Lần cuối bạn nhìn thấy chúng khi nào? *Did + see* hỏi về một lần cụ thể.
+- **B:** I saw them after lunch. — Tôi thấy chúng sau bữa trưa. *Saw* kể sự việc ở mốc đó.
+
+Khi nói về đi đâu, *has been to* thường nói đã đến và đã về, còn *has gone to* cho biết đã đi tới đó và chưa quay về.
 
 ## Những chỗ dễ nhầm
 
@@ -60,6 +67,7 @@ Các từ trên gợi ngữ cảnh, nhưng bạn vẫn chọn thì theo ý đị
 1. Báo bạn đã ăn trưa xong, không nói lúc nào.
 2. Kể bạn ăn trưa lúc 12 giờ hôm qua.
 3. Hỏi bạn mình đã từng đến Đà Nẵng chưa, rồi hỏi họ đi khi nào.
+4. Sửa “I've went there twice” bằng một cách nói tự nhiên để kể rằng bạn đã đến đó hai lần.
 
 <details>
 <summary>Đáp án tham khảo và lý do</summary>
@@ -67,5 +75,6 @@ Các từ trên gợi ngữ cảnh, nhưng bạn vẫn chọn thì theo ý đị
 1. **I've had lunch.** Kết quả tính đến hiện tại; *had* là V3 của *have*.
 2. **I had lunch at noon yesterday.** Mốc quá khứ đã khép lại.
 3. **Have you ever been to Da Nang? When did you go?** Câu đầu hỏi kinh nghiệm; câu sau hỏi một lần cụ thể.
+4. **I've been there twice.** *Been there* là cách thông dụng để kể hai lần đã đến. Nếu giữ động từ *go*, V3 là *gone*, nên **I've gone there twice** cũng có thể dùng. *Twice* đếm số lần tính đến nay, còn *When did you go?* hỏi mốc của một lần cụ thể.
 
 </details>

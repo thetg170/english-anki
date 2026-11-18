@@ -1,6 +1,6 @@
 # 06. Chọn a, an, the hoặc không dùng mạo từ
 
-Mạo từ giúp người nghe biết bạn đang nói về **một đối tượng mới**, **đối tượng đã xác định** hay **cả một loại**. Hãy chọn theo ý đó trước khi nhớ các ngoại lệ.
+Bạn nhắn cho bạn mình rằng đã tìm được một quán cà phê. Đến tin nhắn sau, hai người đều biết đang nhắc đến quán nào. Đây là lúc *a café* chuyển thành *the café*.
 
 **Cần biết trước:** [Danh từ đếm được và không đếm được](07-nouns-quantifiers.md).
 
@@ -14,27 +14,31 @@ Mạo từ giúp người nghe biết bạn đang nói về **một đối tư�
 
 **Tự hỏi:** “Người nghe có biết chính xác cái nào không?” *A/an* chọn theo **âm đầu**, không chỉ theo chữ cái: *an hour*, *a university*.
 
-## Hiểu bản chất
+## Lý thuyết
 
-“I found a café near the station” giới thiệu một quán chưa được xác định trong cuộc trò chuyện. Câu tiếp “The café has good coffee” chỉ lại quán ấy. “Cafés near stations are often busy” nói chung về các quán thuộc loại đó. Người nói có biết quán nào không chưa đủ; điều quan trọng là người nghe có xác định được đối tượng từ ngữ cảnh hay không.
+### Mạo từ (articles) đứng ở đâu?
 
-Danh từ đếm được số ít thường cần một từ đứng trước: *a book, the book, my book*. Danh từ không đếm được không lấy *a/an* trong nghĩa thông thường, nhưng vẫn dùng được *the* khi đã xác định: “The information you sent was useful.” Muốn đếm, thêm đơn vị: “a piece of information”.
+Mạo từ đứng đầu cụm danh từ, trước tính từ nếu có. Trong *a quiet café*, *a* giúp giới thiệu một quán chưa xác định, *quiet* mô tả quán, *café* là danh từ chính. Danh từ đếm được số ít thường cần một từ hạn định như *a, the, this, my*. Với *my coffee* hay *this cup*, từ hạn định đã có sẵn.
 
-## Lý thuyết: mạo từ giúp người nghe nhận diện danh từ
+| Chọn | Khi dùng | Ví dụ và ý nghĩa |
+|---|---|---|
+| *a / an* | Một đối tượng đếm được số ít, người nghe chưa cần biết chính xác cái nào | Is there a café nearby? — Có quán cà phê nào gần đây không? |
+| *the* | Người nghe xác định được đối tượng từ câu trước, tình huống hoặc lời mô tả | The café next to the station is open. — Quán cạnh nhà ga đang mở. |
+| Không có mạo từ | Thường gặp khi nói chung bằng danh từ số nhiều hoặc không đếm được | Cafés get busy on weekends. — Quán cà phê thường đông vào cuối tuần. |
 
-Danh từ đếm được số ít thường cần một **từ hạn định** như *a/an, the, this, my*: không nói “I bought book” trong câu chuẩn. *A/an* giới thiệu **một** thành viên chưa xác định của một loại. *The* chỉ đối tượng mà người nghe có thể nhận ra từ lần nhắc trước, tình huống hoặc phần mô tả đi kèm. “I saw a dog. The dog was wet” chuyển từ giới thiệu sang chỉ lại. *A/an* chọn theo **âm đầu** của từ tiếp theo, nên “an hour” nhưng “a university”.
+### Vì sao lại là *an hour* nhưng *a university*?
 
-**Không mạo từ** thường dùng khi nói chung bằng danh từ số nhiều hoặc không đếm được: “Books are useful”; “Water matters.” Nhưng khi xác định một nhóm/lượng cụ thể, vẫn dùng *the*: “The books on this shelf are mine”; “The water in this glass is cold.” Tên riêng, bữa ăn và địa điểm có các quy ước riêng, nên quy trình chọn theo “mới hay đã xác định?” là nền tảng chứ không thay thế việc học các cụm cố định.
+Nghe âm đầu của **từ ngay sau mạo từ**. *Hour* bắt đầu bằng âm nguyên âm, còn *university* bắt đầu bằng âm /j/. Tính từ đứng giữa cũng làm thay đổi lựa chọn. *A cup* thành *an empty cup* vì âm đầu lúc này là âm của *empty*. Với danh từ không đếm được, có thể dùng *the* khi lượng đã xác định, như *the milk in the fridge*.
 
-## Từ ý định đến câu
+## Tình huống và cách ghép câu
 
-Bạn kể một lần tìm quán để gặp bạn:
+**Bạn báo với bạn mình về chỗ gặp.**
 
-1. Giới thiệu: **I found a café near the station.**
-2. Nói tiếp cùng quán: **The café is open until nine.**
-3. Mở rộng nhận xét về cả loại: **Cafés near stations are often busy.**
+1. **I found a café near your office.** — Tôi tìm được một quán gần chỗ bạn làm. Người nghe mới biết có một quán.
+2. **The café has an outdoor seating area.** — Quán đó có khu ngồi ngoài trời. *The café* chỉ lại quán đã nhắc, *an outdoor seating area* giới thiệu khu ngồi mới.
+3. **Let's sit outside. The weather is nice today.** — Mình ngồi ngoài nhé. Hôm nay trời đẹp. Hai người hiểu *the weather* là thời tiết ở chỗ mình hôm nay, dù chưa nhắc từ này trước đó.
 
-Đổi *café* sang *advice*: “I got some advice”; nếu nói lời khuyên cụ thể đã nhắc, “The advice helped me.”
+Khi chuyển sang nhận xét về quán nói chung, bạn có thể nói **Cafés are often crowded on weekends.**
 
 ## Những chỗ dễ nhầm
 
@@ -59,6 +63,7 @@ Bạn kể một lần tìm quán để gặp bạn:
 1. Bạn lần đầu kể đã mua một chiếc túi. Câu sau nói chiếc túi màu xanh.
 2. Bạn cần một ít lời khuyên.
 3. Bạn nói chung rằng sách có thể đắt.
+4. Điền *a/an/the* vào “I bought ___ umbrella. ___ umbrella is in my bag.”
 
 <details>
 <summary>Đáp án tham khảo và lý do</summary>
@@ -66,5 +71,6 @@ Bạn kể một lần tìm quán để gặp bạn:
 1. **I bought a bag. The bag is blue.** *A* giới thiệu; *the* chỉ lại.
 2. **I need some advice.** *Advice* không đếm trực tiếp.
 3. **Books can be expensive.** Danh từ số nhiều nói chung không cần *the*.
+4. **I bought an umbrella. The umbrella is in my bag.** *An* đi trước âm nguyên âm của *umbrella*. *The* chỉ lại chiếc ô vừa nhắc.
 
 </details>

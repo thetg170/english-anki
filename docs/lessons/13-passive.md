@@ -1,6 +1,6 @@
 # 13. Nói về việc được làm: câu bị động
 
-Dùng bị động khi người nghe cần biết **điều gì xảy ra với một vật/việc** hơn là ai đã thực hiện. Bài này hướng dẫn đổi trọng tâm và giữ đúng thì.
+Bạn đặt một món đồ. Bạn muốn biết kiện hàng đã gửi chưa, dự kiến giao khi nào và có đang được giao không. Trong cuộc trò chuyện đó, kiện hàng là điều hai bên đang theo dõi.
 
 **Cần biết trước:** [Past Simple](02-past-simple.md) và V3 trong [bảng động từ bất quy tắc](../reference/irregular-verbs.md).
 
@@ -14,36 +14,33 @@ Dùng bị động khi người nghe cần biết **điều gì xảy ra với m
 
 **Tự hỏi:** “Thông tin quan trọng nhất ở đầu câu là người làm hay đối tượng nhận tác động?” Sau khi chọn bị động, chia **be** theo thời điểm; V3 giữ nguyên.
 
-## Hiểu bản chất
+## Lý thuyết
 
-“Someone moved the meeting to Thursday” nhấn hành động của người nào đó. “The meeting was moved to Thursday” đưa lịch mới lên trước. Dù tiếng Việt có thể dịch là “được dời”, không phải mọi câu tiếng Anh có *be + V3* đều cần dịch máy móc thành “được/bị”.
+### Đưa vật được tác động lên đầu câu
 
-| Thời/thể | Công thức | Ví dụ |
+**Câu bị động** đưa đối tượng của câu chủ động lên làm chủ ngữ. *The shop shipped my order* → *My order was shipped*. Bước đầu là tìm thứ được gửi (*my order*). Bước tiếp theo là giữ thời điểm bằng cách chọn dạng của *be*. Cuối cùng dùng V3 của động từ chính. Cụm *by the shop* có thể thêm khi cần nói ai làm.
+
+| Thời điểm hoặc góc nhìn | Cấu trúc bị động | Ví dụ |
 |---|---|---|
-| Hiện tại đơn | am/is/are + V3 | The room is cleaned every day. |
-| Quá khứ đơn | was/were + V3 | The file was sent yesterday. |
-| Tương lai | will be + V3 | The file will be sent tomorrow. |
-| Hiện tại hoàn thành | have/has been + V3 | The file has been sent. |
-| Đang diễn ra | am/is/are being + V3 | The server is being repaired. |
-| Sau modal | modal + be + V3 | It must be checked. |
+| Việc thường lệ | *am/is/are + V3* | Orders are shipped daily. |
+| Sự việc quá khứ | *was/were + V3* | My order was shipped yesterday. |
+| Kết quả tính đến nay | *has/have been + V3* | My order has been shipped. |
+| Đang thực hiện | *am/is/are being + V3* | My order is being packed. |
+| Việc sẽ xảy ra / yêu cầu | *will/must + be + V3* | It will be delivered tomorrow. |
 
-V3 có thể là từ bất quy tắc: *send → sent*, *steal → stolen*. “A broken window” dùng V3 như tính từ mô tả trạng thái; không phải lúc nào cũng đang kể một hành động bị động.
+### Hỏi và phủ định
 
-## Lý thuyết: đổi trọng tâm nhưng giữ thời điểm
+Đảo trợ động từ đầu tiên để hỏi, thêm *not* sau trợ động từ đầu tiên để phủ định. *Has my order been shipped?* / *My order hasn't been shipped yet.* Câu *My order arrived yesterday* là chủ động vì *arrive* trong câu này không có tân ngữ để chuyển lên đầu. Tra [bảng V3](../reference/irregular-verbs.md) khi gặp động từ bất quy tắc.
 
-Câu chủ động thường có dạng `người/vật làm + động từ + đối tượng`. Khi đối tượng quan trọng hơn, đưa nó lên làm chủ ngữ của câu bị động: `đối tượng + be (chia theo thì) + V3`. “Mai sent the file” → “The file was sent (by Mai).” *By + người làm* chỉ thêm khi thông tin ấy cần thiết. Bị động không thay đổi sự kiện hay thời điểm; nó thay **điểm bắt đầu của câu**.
+## Tình huống và cách ghép câu
 
-Trong “The file **was sent**”, *was* cho biết quá khứ; *sent* là V3. “The file **has been sent**” dùng Present Perfect, còn “The file **is being sent**” nhấn quá trình đang diễn ra. Sau modal: `modal + be + V3` (“It must be checked”). Chỉ động từ có đối tượng nhận hành động mới thường chuyển theo cách này. Đừng dùng bị động khi người làm là thông tin chính hoặc khi câu chủ động đã rõ và gọn hơn.
+**Bạn hỏi cửa hàng về đơn của mình.**
 
-## Từ ý định đến câu
+- **A:** Has my order been shipped yet? — Đơn của tôi đã được gửi chưa? *Has ... been shipped* hỏi về kết quả hiện tại.
+- **B:** Not yet. It's being packed now. — Chưa. Đơn đang được đóng gói. *Is being packed* nói việc đang diễn ra.
+- **B:** It'll be delivered tomorrow. — Đơn sẽ được giao ngày mai. *Will be delivered* nói việc dự kiến trong tương lai.
 
-Bạn muốn cập nhật tình trạng báo cáo:
-
-1. Câu chủ động: **Mai sent the report yesterday.**
-2. Nếu người nghe chỉ quan tâm báo cáo: **The report was sent yesterday.**
-3. Nếu cần nói người chịu trách nhiệm: **The report was sent by Mai yesterday.**
-
-Không thêm *by someone*: người nghe không được thông tin mới. Với việc chưa xong, “The report is being checked now” nói quá trình đang diễn ra; “The report has been checked” báo kết quả đã xong.
+Nếu cần phân biệt ai đóng gói và ai giao, dùng câu chủ động như **We pack it here. The courier delivers it.** Chủ ngữ ở mỗi câu cho biết bên nào làm việc đó.
 
 ## Những chỗ dễ nhầm
 
@@ -63,6 +60,7 @@ Với hai tân ngữ, “Mai gave me a key” có thể thành “I was given a 
 1. Đổi “Someone stole my laptop yesterday” sang bị động.
 2. Báo file đã được gửi rồi, không nói ai gửi.
 3. Nói máy chủ đang được sửa ngay lúc này.
+4. Chuyển “Someone left your parcel at the front desk” sang bị động, giữ thời điểm cũ.
 
 <details>
 <summary>Đáp án tham khảo và lý do</summary>
@@ -70,5 +68,6 @@ Với hai tân ngữ, “Mai gave me a key” có thể thành “I was given a 
 1. **My laptop was stolen yesterday.** *Was* mang thì quá khứ; *stolen* là V3.
 2. **The file has been sent.** *Has been + V3* báo kết quả hiện tại.
 3. **The server is being repaired right now.** *Is being + V3* nhấn quá trình.
+4. **Your parcel was left at the front desk.** Dùng *was* ở quá khứ và V3 *left*. *At the front desk* giữ nguyên vì cho biết kiện hàng ở đâu.
 
 </details>

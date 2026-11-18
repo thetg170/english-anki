@@ -1,6 +1,6 @@
 # 09. Sau một động từ, dùng V-ing hay to V?
 
-Khi muốn nói hai hành động trong một câu, dạng của động từ thứ hai phụ thuộc vào **từ/cấu trúc đứng trước**. Bài này giúp bạn chọn dạng và nhận ra trường hợp đổi dạng sẽ đổi nghĩa.
+Bạn kể với bạn mình về thói quen đi bộ và dự định cuối tuần. Trong tiếng Việt, “thích đi” và “định đi” đều dùng “đi”. Trong tiếng Anh, từ đứng trước quyết định bạn nói *walking* hay *to walk*.
 
 **Cần biết trước:** [Câu cơ bản](01-present-simple-continuous.md); V1 là động từ nguyên thể không *to*.
 
@@ -17,27 +17,33 @@ Khi muốn nói hai hành động trong một câu, dạng của động từ th
 
 **Tự hỏi:** “Động từ thứ hai đi theo cụm nào?” Đừng chia thì cả hai động từ như hai câu độc lập.
 
-## Hiểu bản chất
+## Lý thuyết
 
-“I enjoy working here” và “I want to work here” đều có hai động từ, nhưng *enjoy* đi với *V-ing* còn *want* đi với *to V*. Đây là mẫu của từng động từ, không suy ra được bằng cách dịch “thích” hay “muốn”. Sau giới từ thường dùng danh từ hoặc *V-ing*: “I'm looking forward to seeing you.” Chữ *to* ở đây là **giới từ**, không phải dấu hiệu của *to-infinitive*.
+### Ba dạng của động từ theo sau
 
-Một số động từ chấp nhận cả hai dạng nhưng nghĩa đổi: “I stopped working” = ngừng công việc đang làm; “I stopped to work” = dừng một việc khác để bắt đầu làm việc. “Remember to call” = nhớ để gọi; “I remember calling” = nhớ mình đã gọi.
+| Từ hoặc cụm đứng trước | Dạng tiếp theo | Ví dụ |
+|---|---|---|
+| *enjoy, avoid, finish* | *V-ing* | I enjoy walking. |
+| *want, plan, decide* | *to + V1* | I plan to walk home. |
+| *ask, tell* + người | *to + V1* | She asked me to wait. |
+| *let, make* + người | V1 không *to* | They let me leave early. |
+| Giới từ như *in, of, to* | Danh từ hoặc *V-ing* | I'm looking forward to seeing you. |
 
-## Lý thuyết: động từ thứ hai phụ thuộc cấu trúc phía trước
+**Danh động từ (gerund)** là dạng *V-ing* dùng để nói về một hoạt động trong các vị trí như chủ ngữ (*Walking helps me relax*) hoặc sau *enjoy* (*I enjoy walking*). Trong *I'm walking*, cùng hình thức đó tham gia vào thì tiếp diễn. **Động từ nguyên thể** có thể có *to* hoặc không, tùy cấu trúc. *To + V1* cũng nêu mục đích: *I went out to get some fresh air.*
 
-Sau một động từ, phần nói về hành động tiếp theo có thể là **to-infinitive** (`to + V1`), **gerund** (`V-ing`) hoặc **bare infinitive** (`V1` không *to*). Không thể suy ra mọi trường hợp từ bản dịch tiếng Việt. Học theo cụm: `want/decide/plan + to V`; `enjoy/avoid/finish + V-ing`; `ask/tell + người + to V`; `let/make + người + V1`. Sau giới từ, dùng danh từ hoặc *V-ing*: “interested in learning”, “look forward to meeting”. Chữ *to* trong cụm sau là giới từ.
+### Đổi dạng có thể đổi nghĩa
 
-Một số động từ nhận cả hai dạng nhưng ý khác: `stop + V-ing` = ngừng chính hoạt động đó; `stop + to V` = dừng hoạt động khác **để** làm việc này. `remember + to V` = nhớ việc cần làm; `remember + V-ing` = nhớ việc đã làm. Dạng của **động từ đầu** vẫn chia theo thì và chủ ngữ: “She wants to go”; “She wanted to go.” Động từ thứ hai giữ mẫu mà từ đứng trước yêu cầu.
+*I stopped walking* nghĩa là tôi ngừng đi bộ. *I stopped to drink some water* nghĩa là tôi dừng việc đang làm để uống nước. *Remember to lock the door* là nhớ làm việc cần làm, còn *I remember locking the door* là nhớ mình đã làm. Khi đổi thì của động từ đầu, dạng phía sau vẫn theo mẫu của nó: *She plans to walk → She planned to walk*.
 
-## Từ ý định đến câu
+## Tình huống và cách ghép câu
 
-Bạn đang cân nhắc xin việc mới:
+**Rủ bạn đi bộ cuối tuần.**
 
-1. Nói ý muốn: **I want to apply for a new job.**
-2. Nói mới đang cân nhắc: **I'm thinking of applying for a new job.**
-3. Nhờ người khác chờ quyết định: **I asked Mai to wait.**
+- **A:** Do you feel like going for a walk? — Bạn có muốn đi dạo không? Sau *feel like* dùng *going*.
+- **B:** Sure. I need to buy some water first. — Được. Tôi cần mua nước trước. *Need* trong câu này đi với *to buy*.
+- **A:** Let's stop to get some on the way. — Mình ghé mua trên đường nhé. *To get* nói mục đích của việc dừng.
 
-*Want* chọn *to apply*; *think of* chọn *applying* vì *of* là giới từ; *ask + người* chọn *to wait*. Chủ ngữ hoặc thì của động từ đầu có thể đổi mà mẫu phía sau vẫn giữ nguyên.
+Đổi hoạt động mà giữ cấu trúc. *Do you feel like grabbing coffee?* dùng cùng mẫu với *going for a walk*.
 
 ## Những chỗ dễ nhầm
 
@@ -58,12 +64,14 @@ Khi kể điều mình đã chứng kiến, “I saw her **cross** the road” g
 1. Nói bạn thích đọc sách vào buổi tối.
 2. Nói bạn đã ra ngoài để mua nước.
 3. Giải thích sự khác nhau giữa “I stopped smoking” và “I stopped to smoke”.
+4. Bạn nhắn “Nhớ mang chìa khóa.” Chọn *Remember bringing your keys* hay *Remember to bring your keys*?
 
 <details>
 <summary>Đáp án tham khảo và lý do</summary>
 
 1. **I enjoy reading at night.** *Enjoy + V-ing*.
 2. **I went out to buy water.** *To V* nói mục đích.
-3. Câu đầu = bỏ hút thuốc; câu sau = dừng việc khác để hút thuốc.
+3. Câu đầu nói ngừng hút thuốc, có thể trong lúc đó hoặc bỏ hẳn tùy ngữ cảnh. Câu sau nói dừng việc khác để hút thuốc.
+4. **Remember to bring your keys.** Đây là lời nhắc làm một việc, nên dùng *remember + to V*.
 
 </details>

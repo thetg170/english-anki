@@ -1,6 +1,6 @@
 # 14. Nói điều kiện thật và điều giả định
 
-Câu bắt đầu bằng *if* không tự động thuộc một “loại” vì có một từ khóa. Chọn mẫu theo **điều kiện có thật, có thể xảy ra hay chỉ tưởng tượng** và theo thời điểm của kết quả.
+Bạn lên kế hoạch đi chơi cuối tuần. Bạn có thể nói về điều sẽ làm nếu trời mưa, tưởng tượng mình có thêm thời gian, hoặc tiếc vì chuyến trước đã xuất phát muộn. Cả ba đều dùng được *if*, nhưng nhìn thực tế theo cách khác nhau.
 
 **Cần biết trước:** [Hiện tại đơn](01-present-simple-continuous.md), [Past Simple](02-past-simple.md), [V3](../reference/irregular-verbs.md).
 
@@ -15,27 +15,32 @@ Câu bắt đầu bằng *if* không tự động thuộc một “loại” vì
 
 **Tự hỏi:** “Điều kiện này là quy luật, khả năng thật, hay ngược với sự thật?” Đừng chọn chỉ vì nhìn thấy chữ *yesterday* trong một vế.
 
-## Hiểu bản chất
+## Lý thuyết
 
-Cùng nói về trời mưa: “If it rains, I stay home” có thể kể thói quen. “If it rains tomorrow, I'll stay home” là kế hoạch phụ thuộc thời tiết. “If it weren't raining, I'd go out” tưởng tượng một hiện tại khác: hiện giờ trời đang mưa. Ba câu không chỉ thay hình thức động từ; chúng diễn đạt ba quan hệ với thực tế.
+### Tách điều kiện và kết quả
 
-Ở mẫu khả năng thật, vế *if* thường dùng hiện tại đơn dù nói về ngày mai: “If she calls, I'll answer.” Vế kết quả không bắt buộc là *will*: “If you need help, call me.” Với giả định quá khứ, cả điều kiện lẫn kết quả đều nhìn lại chuyện đã không xảy ra: “If I'd left earlier, I wouldn't have missed the train.”
+Trong câu điều kiện, vế *if* nêu hoàn cảnh và vế chính nêu điều xảy ra trong hoàn cảnh đó. Nếu vế *if* đứng đầu, thường dùng dấu phẩy sau vế ấy. Bạn có thể đảo hai vế mà giữ nguyên quan hệ: *If it rains, we'll stay in* → *We'll stay in if it rains*.
 
-## Lý thuyết: hai vế của câu điều kiện
+| Quan hệ với thực tế | Khung câu thường gặp | Ví dụ và nghĩa |
+|---|---|---|
+| Quy luật hoặc thói quen | *if + hiện tại*, hiện tại | If I skip breakfast, I get hungry. — Hễ bỏ bữa sáng là tôi đói. |
+| Khả năng còn mở | *if + hiện tại*, *will/can* hoặc mệnh lệnh | If it rains tomorrow, we'll stay in. — Mai mà mưa thì bọn tôi ở nhà. |
+| Giả định hiện tại hoặc tương lai | *if + dạng quá khứ*, *would/could + V1* | If I had more time, I'd go with you. — Nếu có thêm thời gian, tôi sẽ đi cùng bạn. |
+| Giả định quá khứ | *if + had + V3*, *would/could have + V3* | If I'd left earlier, I'd have caught the bus. — Nếu đi sớm hơn thì tôi đã kịp xe. |
 
-Câu điều kiện có **vế điều kiện** (*if-clause*) và **vế kết quả**. Thứ tự có thể đổi: “If it rains, I'll stay home” = “I'll stay home if it rains”; khi vế *if* đứng đầu, thường có dấu phẩy. Chọn dạng theo quan hệ với thực tế: quy luật/thói quen dùng hiện tại ở hai vế; khả năng thật ở tương lai thường dùng `if + hiện tại`, vế kết quả `will/can/mệnh lệnh + V1`; tưởng tượng hiện tại dùng `if + quá khứ`, `would/could + V1`; giả định quá khứ dùng `if + had + V3`, `would/could have + V3`.
+### Vì sao dạng quá khứ có thể nói chuyện bây giờ?
 
-Thì quá khứ ở “If I **had** more time” không kể chuyện hôm qua; nó đánh dấu **khoảng cách với thực tế hiện tại**. “If I'd **had** more time yesterday” nhìn lại một điều đã không xảy ra. Vì thế không chọn loại câu chỉ theo “từ chỉ thời gian”. Vế kết quả có thể dùng *could* để nói khả năng, *would* để nói kết quả giả định. *Unless* thường mang nghĩa “if ... not”, nhưng phải kiểm tra để không vô tình đảo ý.
+*If I had more time right now* dùng *had* để đặt tình huống cách xa thực tế, mặc dù *right now* chỉ hiện tại. *If I'd had more time yesterday* dùng *had had* để nhìn lại một điều khác với việc đã xảy ra. Để chọn dạng, xác định **lúc của điều kiện**, **lúc của kết quả** và bạn xem điều kiện đó là khả năng thật hay giả định.
 
-## Từ ý định đến câu
+## Tình huống và cách ghép câu
 
-Bạn muốn nói về việc đi sớm:
+**Cùng một buổi đi chơi, nói ba ý ở ba hoàn cảnh.**
 
-1. Kế hoạch thật cho ngày mai: **If I leave early tomorrow, I'll catch the train.**
-2. Hiện giờ không thể đi sớm: **If I could leave early, I'd catch the train.**
-3. Hôm qua đã đi muộn: **If I'd left early yesterday, I'd have caught the train.**
+1. Chưa biết mai rảnh không. **If I finish work early, I'll join you.** — Nếu xong việc sớm, tôi sẽ đi cùng. *Finish* ở hiện tại vì khả năng còn mở.
+2. Bây giờ biết mình không rảnh. **If I weren't so busy, I'd join you.** — Nếu không bận thế này, tôi sẽ đi cùng. *Weren't* và *would* tạo giả định.
+3. Hôm qua đã không đi. **If I'd finished work earlier, I'd have joined you.** — Nếu hôm qua xong sớm hơn, tôi đã đi cùng. Hai vế nhìn lại quá khứ.
 
-Trước khi đổi dạng, hãy nói bằng tiếng Việt bạn đang dự đoán, giả sử chuyện hiện tại khác, hay tiếc một chuyện quá khứ.
+Bạn cũng có thể dùng mệnh lệnh ở vế chính. **If you get there first, save me a seat.** — Nếu đến trước, giữ cho tôi một chỗ nhé.
 
 ## Những chỗ dễ nhầm
 
@@ -55,6 +60,7 @@ Câu giả định không bắt buộc hai vế cùng một thời điểm. “I
 1. Nói “Nếu mai tôi xong sớm, tôi sẽ gọi bạn.”
 2. Nói “Nếu tôi có nhiều thời gian hơn bây giờ, tôi sẽ học đàn.”
 3. Nói “Nếu hôm qua tôi đi sớm hơn, tôi đã không lỡ tàu.”
+4. Chọn *get* hay *will get* trong “If I ___ there early tomorrow, I'll text you.”
 
 <details>
 <summary>Đáp án tham khảo và lý do</summary>
@@ -62,5 +68,6 @@ Câu giả định không bắt buộc hai vế cùng một thời điểm. “I
 1. **If I finish early tomorrow, I'll call you.** Khả năng thật; vế *if* ở hiện tại.
 2. **If I had more time, I'd learn an instrument.** Giả định hiện tại.
 3. **If I'd left earlier yesterday, I wouldn't have missed the train.** Giả định quá khứ.
+4. **If I get there early tomorrow, I'll text you.** Vế *if* nói khả năng còn mở. *Tomorrow* cho biết thời điểm, còn *get* giữ mẫu hiện tại.
 
 </details>

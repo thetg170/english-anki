@@ -1,6 +1,6 @@
 # 01. Nói thói quen và việc đang diễn ra
 
-Dùng bài này để quyết định nên nói **I work** hay **I'm working**. Hai câu đều nói về công việc, nhưng người nói nhìn sự việc theo hai cách khác nhau.
+Bạn vừa quen một người mới. Họ hỏi bạn thường làm gì sau giờ làm, rồi hỏi tối nay bạn đang làm gì. Bạn có thể dùng cùng một động từ ở hai câu và đổi thì để người nghe hiểu ngay đâu là thói quen, đâu là việc đang diễn ra.
 
 **Cần biết trước:** Chủ ngữ, động từ và câu khẳng định đơn giản.
 
@@ -14,34 +14,36 @@ Dùng bài này để quyết định nên nói **I work** hay **I'm working**. 
 
 **Tự hỏi:** “Đây là nếp thường ngày, hay chỉ đúng trong giai đoạn này?” Từ *today* hoặc *this week* giúp đọc ngữ cảnh, nhưng không tự quyết định thì.
 
-## Hiểu bản chất
+## Lý thuyết
 
-Hiện tại đơn trình bày một sự việc như đặc điểm, thói quen hoặc lịch lặp lại. Nó không khẳng định hành động đang diễn ra đúng lúc bạn nói: “I work at a bank” chỉ cho biết công việc của tôi. Hiện tại tiếp diễn đặt người nghe vào một hoạt động đang diễn ra hoặc một tình huống có giới hạn: “I'm working at a bank this summer” nhấn mạnh mùa hè này.
+### Hiện tại đơn (Present Simple)
 
-Một số động từ thường diễn tả **trạng thái** hơn là hoạt động có quá trình: *know, need, own, belong*. Vì vậy “I know the answer” tự nhiên hơn “I'm knowing the answer”. Cùng một từ có thể đổi nghĩa: “I think you're right” = tôi cho rằng; “I'm thinking about the offer” = tôi đang cân nhắc.
+Dùng cho thói quen, trạng thái, sự thật và lịch trình. Với động từ thường, *he/she/it* thêm *-s/-es* trong câu khẳng định. Khi đã có *does/doesn't*, động từ chính về dạng gốc. Động từ *be* dùng *am/is/are* và tự tạo câu hỏi hoặc phủ định.
 
-| Dạng | Khẳng định | Phủ định | Câu hỏi |
+| Loại động từ | Khẳng định | Phủ định | Câu hỏi |
 |---|---|---|---|
-| Hiện tại đơn | She works here. | She doesn't work here. | Does she work here? |
-| Hiện tại tiếp diễn | She is working now. | She isn't working now. | Is she working now? |
+| Động từ thường | Mai plays badminton. | Mai doesn't play on Mondays. | Does Mai play on Sundays? |
+| *Be* | Mai is free on Sundays. | Mai isn't free on Mondays. | Is Mai free on Sundays? |
 
-Ở hiện tại đơn, *he/she/it* thường làm động từ thêm *-s/-es*. Sau *does/doesn't*, động từ chính trở lại dạng gốc. Ở tiếp diễn, cần cả *be* và *V-ing*.
+Các dạng hay gặp gồm *play → plays*, *watch → watches*, *study → studies* và *have → has*. Với *usually*, nói *I usually play after work* hoặc *I'm usually free after work*. Vị trí của từ chỉ tần suất thay đổi khi động từ chính là *be*.
 
-## Lý thuyết: cách tạo và chọn hai thì hiện tại
+### Hiện tại tiếp diễn (Present Continuous)
 
-**Hiện tại đơn** mô tả điều người nói xem là ổn định hoặc lặp lại. Với động từ thường: `S + V1` (I/you/we/they), `S + V-s/es` (he/she/it); phủ định `S + do/does not + V1`; hỏi `Do/Does + S + V1?`. Động từ *be* có hệ riêng: `am/is/are`, phủ định thêm *not*, câu hỏi đảo *be* lên trước chủ ngữ. Tần suất (*usually, often, sometimes*) thường đứng trước động từ thường nhưng sau *be*.
+Công thức là **chủ ngữ + am/is/are + V-ing**. Thêm *not* sau *be* để phủ định, hoặc đưa *be* lên đầu để hỏi. Đuôi *-ing* có thể cần đổi chính tả, chẳng hạn *make → making*, *run → running*, *lie → lying*.
 
-**Hiện tại tiếp diễn** nhìn sự việc như một quá trình đang xảy ra hoặc một giai đoạn tạm thời: `S + am/is/are + V-ing`. Phủ định đặt *not* sau *be*; câu hỏi đảo *be*. Dạng *V-ing* có thể cần bỏ *e* (*make → making*) hoặc gấp đôi phụ âm (*run → running*). “I work here” nói nơi làm việc nói chung; “I'm working here this month” giới hạn ở tháng này. Động từ trạng thái như *know* và *own* thường dùng hiện tại đơn trong nghĩa thông thường, vì không diễn tả hoạt động đang tiến triển.
+Hiện tại tiếp diễn trình bày một việc như đang xảy ra hoặc đang diễn ra trong một giai đoạn tạm thời. Bạn có thể nói *I'm reading a new book this week* dù lúc nói đang ở ngoài đường. Động từ chỉ trạng thái như *know, own, need* thường dùng hiện tại đơn. Một động từ có thể đổi nghĩa theo cách dùng. *I think it's a good idea* là ý kiến, còn *I'm thinking about it* là đang cân nhắc.
 
-## Từ ý định đến câu
+## Tình huống và cách ghép câu
 
-Bạn thường làm ở nhà thứ Sáu, nhưng hôm nay đến văn phòng:
+**Bạn thường nấu ở nhà, nhưng hôm nay đang chờ đồ ăn giao tới.**
 
-1. Nói nếp thường ngày: **I usually work from home on Fridays.**
-2. Nói ngoại lệ: **I'm working at the office today.**
-3. Ghép nếu cần đối chiếu: **I usually work from home on Fridays, but I'm working at the office today.**
+| Câu nói | Nghĩa | Vì sao chọn dạng đó? |
+|---|---|---|
+| I usually cook at home. | Tôi thường nấu ở nhà. | *Usually cook* nói nếp thường ngày. |
+| I'm waiting for a delivery right now. | Tôi đang chờ đồ giao tới. | *Am waiting* đặt người nghe vào việc đang diễn ra. |
+| Is Mai cooking tonight? | Tối nay Mai có nấu không? | Đảo *is* lên trước *Mai*. Trong ngữ cảnh này câu hỏi nói kế hoạch tối nay. |
 
-Nếu hỏi lịch chung, nói “Do you usually work from home?”; nếu hỏi hôm nay, nói “Are you working from home today?”. Câu hỏi thay đổi vì thông tin cần biết thay đổi.
+Đổi chủ ngữ để kiểm tra cấu trúc. *I cook → Mai cooks → Mai doesn't cook.* Sau đó giữ nguyên chủ ngữ nhưng đổi ý. *Mai usually cooks at home. Today she's eating out.*
 
 ## Những chỗ dễ nhầm
 
@@ -60,6 +62,7 @@ Không phải mọi *V-ing* đều nghĩa “ngay lúc này”. “I'm reading a
 1. Bạn làm ở nhà vào các thứ Sáu. Nói một câu.
 2. Tuần này bạn tạm làm ở nhà. Nói một câu.
 3. Hỏi Mai có đang làm báo cáo ngay lúc này không.
+4. Sửa câu “Does Nam cooks at home?” và giải thích vì sao.
 
 <details>
 <summary>Đáp án tham khảo và lý do</summary>
@@ -67,6 +70,7 @@ Không phải mọi *V-ing* đều nghĩa “ngay lúc này”. “I'm reading a
 1. **I work from home on Fridays.** Đây là nếp lặp lại.
 2. **I'm working from home this week.** Đây là giai đoạn tạm thời.
 3. **Is Mai working on the report right now?** Đảo *is* lên trước chủ ngữ; giữ *working*.
+4. **Does Nam cook at home?** *Does* đã mang dấu hiệu ngôi thứ ba số ít, nên giữ *cook* ở dạng gốc.
 
 </details>
 

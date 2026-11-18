@@ -1,6 +1,6 @@
 # 05. Nói khả năng, lời khuyên và nghĩa vụ
 
-Các từ như *can, should, must* thay đổi **mức độ** điều bạn đang nói. Một câu ngữ pháp đúng vẫn có thể quá mạnh hoặc sai ý nếu chọn modal không phù hợp.
+Bạn tổ chức một buổi ăn chung. Có người hỏi có cần mang gì không, có người hỏi có được dẫn bạn theo không. Các từ như *can, should, must* cho người nghe biết mức độ yêu cầu hay lời khuyên.
 
 **Cần biết trước:** Câu đơn có chủ ngữ và động từ.
 
@@ -18,27 +18,33 @@ Các từ như *can, should, must* thay đổi **mức độ** điều bạn đa
 
 **Tự hỏi:** “Tôi đang cho phép, khuyên, yêu cầu, cấm hay chỉ đoán?” Các ý này không thay thế cho nhau.
 
-## Hiểu bản chất
+## Lý thuyết
 
-“You can join” cho biết người nghe có thể tham gia; “You should join” là lời khuyên; “You must join” thể hiện nghĩa vụ. Khi kế hoạch đổi, “You don't have to join” nói không còn bắt buộc. “You mustn't join” lại là **không được** tham gia. Đây là một cặp dễ đảo nghĩa khi dịch “không phải”.
+### Modal đi với động từ gốc
 
-Sau phần lớn modal trong bài, động từ chính giữ dạng gốc: “She can help”, không phải “She can helps”. Câu hỏi đưa modal lên trước chủ ngữ: “Can she help?”. Phủ định đặt *not* sau modal: “She can't help.” Với *have to*, câu hỏi/phủ định thường dùng *do/does*: “Does she have to come?”.
+Một **động từ khuyết thiếu (modal)** đứng trước động từ chính để thêm ý như khả năng, xin phép, lời khuyên, nghĩa vụ hoặc suy đoán. Công thức là **chủ ngữ + modal + V1**. Modal thường gặp như *can, could, should, must, might* giữ nguyên với mọi chủ ngữ. Đảo modal để hỏi, thêm *not* để phủ định. *She can come → Can she come? → She can't come.*
 
-## Lý thuyết: modal thay đổi thái độ của người nói
+| Bạn đang nói gì? | Mẫu thường dùng | Ví dụ |
+|---|---|---|
+| Có khả năng hoặc được phép | *can + V1* | You can bring a friend. |
+| Nhờ người khác | *Could you + V1?* | Could you bring some ice? |
+| Khuyên | *should + V1* | You should bring a jacket. |
+| Bắt buộc | *must / have to + V1* | We have to leave by ten. |
+| Cấm hoặc miễn nghĩa vụ | *mustn't / don't have to* | You mustn't park here. / You don't have to bring anything. |
 
-**Modal verb** đứng trước động từ chính và thể hiện khả năng, lời khuyên, nghĩa vụ, sự cho phép hoặc mức chắc chắn. Mẫu thông thường: `S + modal + V1`; hỏi `Modal + S + V1?`; phủ định `modal + not + V1`. Modal như *can, should, must, might* không thêm *-s* theo *he/she/it* và không thêm *to* trước động từ chính. “She can swim”, không phải “She cans to swim”.
+### *Have to* và lời suy đoán
 
-Chọn modal theo **chức năng** trước khi chọn theo bản dịch tiếng Việt. *Can* nói khả năng hoặc xin phép; *should* là lời khuyên; *must/have to* có thể nói nghĩa vụ; *might* nêu khả năng chưa chắc. *Have to* không phải modal thuần nên có dạng `has to`, `didn't have to`, `Does she have to...?`. *Mustn't* cấm, còn *don't have to* bỏ yêu cầu. Với suy luận, “She must be home” nghĩa người nói rất tin điều đó, không ra lệnh. Cùng một hình thức có thể có nghĩa khác theo ngữ cảnh.
+*Have to* diễn đạt nghĩa vụ nhưng chia như động từ thường: *she has to*, *Does she have to...?*, *I had to leave early yesterday*. *Must* còn có thể thể hiện suy luận. Trong *You must be tired after that trip*, người nói suy ra bạn chắc mệt. *You might be tired* chỉ nêu khả năng. Trong các câu này, *be* là động từ chính ở dạng gốc.
 
-## Từ ý định đến câu
+## Tình huống và cách ghép câu
 
-Bạn muốn đồng nghiệp báo lại trước khi về:
+**Một người sắp đến nhà bạn ăn tối và nhắn hỏi.**
 
-1. Nhờ nhẹ nhàng: **Could you let me know before you leave?**
-2. Đưa lời khuyên: **You should let the team know before you leave.**
-3. Nếu là quy định bắt buộc: **You have to let the team know before you leave.**
+- **A:** Do I have to bring anything? — Tôi có cần mang gì không? Hỏi nghĩa vụ nên dùng *do ... have to*.
+- **B:** You don't have to bring food. Could you bring some ice, though? — Bạn không cần mang đồ ăn. Nhưng bạn mang giúp chút đá được không? Câu đầu bỏ yêu cầu mang đồ ăn, câu sau đưa ra một lời nhờ riêng.
+- **A:** Can I bring my brother? — Tôi dẫn em trai theo được không? *Can I ...?* là cách xin phép tự nhiên trong tình huống thân mật.
 
-Không thêm *must* chỉ để nghe “ngữ pháp hơn”. Chọn mức độ đúng với quan hệ giữa người nói và người nghe.
+Khi muốn khuyên họ mang áo khoác vì trời lạnh, dùng **You should bring a jacket.** Sắc thái khác với yêu cầu bắt buộc **You have to bring a jacket.**
 
 ## Những chỗ dễ nhầm
 
@@ -58,6 +64,7 @@ Nếu cần nói nghĩa vụ trong quá khứ, dùng “I **had to** leave early
 1. Nói đồng nghiệp không bắt buộc dự họp.
 2. Cấm ai đó chia sẻ mật khẩu.
 3. Nhờ bạn gửi lại file bằng giọng mềm.
+4. Biển báo muốn nói “Cấm đỗ xe ở đây.” Chọn *mustn't* hay *don't have to*?
 
 <details>
 <summary>Đáp án tham khảo và lý do</summary>
@@ -65,5 +72,6 @@ Nếu cần nói nghĩa vụ trong quá khứ, dùng “I **had to** leave early
 1. **You don't have to join the meeting.** Không bắt buộc, không phải bị cấm.
 2. **You mustn't share your password.** Đây là lệnh cấm.
 3. **Could you send me the file again?** *Could you* là lời nhờ.
+4. **You mustn't park here.** *Mustn't* diễn đạt lệnh cấm. *You don't have to park here* chỉ nói bạn không bắt buộc đỗ ở đây.
 
 </details>
