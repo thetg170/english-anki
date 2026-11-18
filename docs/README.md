@@ -23,6 +23,10 @@ Khi gặp một câu khác đáp án mẫu, hỏi: “Câu này có đúng ý, �
 
 Thứ tự này là gợi ý, không phải điều kiện cứng. Các bài có dòng “Cần biết trước” để bạn quay về đúng kiến thức nền nếu cần.
 
+## Ghi chú khóa học
+
+Sáu file ghi chú gốc gồm [động từ](course-notes/verbs.md), [danh từ](course-notes/nouns.md), [đại từ](course-notes/pronouns.md), [tính từ và trạng từ](course-notes/adjectives-and-adverbs.md), [giới từ](course-notes/prepositions.md) và [mẫu câu](course-notes/sentence-patterns.md). Mở mục **Phần cuối** trong từng file để xem bài tập và đáp án.
+
 ## Thuật ngữ dùng trong tài liệu
 
 | Từ | Nghĩa ngắn | Ví dụ |
