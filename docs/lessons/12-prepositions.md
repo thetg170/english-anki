@@ -1,6 +1,6 @@
 # 12. Chọn giới từ theo quan hệ thời gian và nơi chốn
 
-Giới từ nói quan hệ giữa sự việc với **mốc**, **khoảng**, **địa điểm**, **hướng đi** hoặc một từ đi kèm cố định. Dịch từng giới từ từ tiếng Việt thường làm đảo ý.
+Bạn giải thích cho bạn mình cách đến quán và hẹn giờ gặp. Những cụm như “ở đầu hẻm”, “trên tầng hai”, “vào sáng thứ Bảy” dễ nhớ hơn khi bạn đặt chúng trong cùng một chuyến đi.
 
 **Cần biết trước:** Câu đơn và cụm danh từ.
 
@@ -17,27 +17,33 @@ Giới từ nói quan hệ giữa sự việc với **mốc**, **khoảng**, **�
 
 **Tự hỏi:** “Đó là điểm, khoảng, hạn hoàn thành hay thời gian tiếp diễn?”
 
-## Hiểu bản chất
+## Lý thuyết
 
-“Send the file **by Friday**” yêu cầu gửi **không muộn hơn** thứ Sáu; có thể gửi sớm hơn. “Wait **until Friday**” yêu cầu tiếp tục đợi **tới** thứ Sáu. Cùng có thể được dịch là “đến thứ Sáu” nhưng nghĩa hành động khác nhau. “During the meeting” đặt việc trong khoảng cuộc họp; “Wait until the meeting ends” nối với mệnh đề có động từ.
+### Nhìn quan hệ không gian
 
-Với địa điểm, “I'm at the café” thường báo nơi gặp; “I'm in the café” nhấn đang ở trong quán. Các mẫu *at/on/in* là điểm khởi đầu, không phải luật cho mọi cụm. Học cả cụm cố định như *depend on*, *interested in*, *good at*, *reason for*.
+| Giới từ | Hình dung | Ví dụ và nghĩa |
+|---|---|---|
+| *at* | Một điểm trên đường hoặc bản đồ | at the entrance — ở lối vào |
+| *in* | Bên trong một khu vực | in the café — ở trong quán |
+| *on* | Trên bề mặt hoặc một tầng | on the second floor — ở tầng hai |
+| *next to / across from* | Kế bên / đối diện | across from the pharmacy — đối diện hiệu thuốc |
+| *into / across / through* | Đi vào / băng qua / đi xuyên qua | walk across the street — đi băng qua đường |
 
-## Lý thuyết: giới từ nối một cụm với phần còn lại
+*At the café* cho biết điểm gặp, còn *in the café* làm rõ bạn ở bên trong. *Across from the café* là vị trí đối diện, còn *walk across the street* nói chuyển động qua đường.
 
-**Giới từ** đứng trước danh từ, đại từ hoặc dạng *V-ing* và diễn đạt quan hệ thời gian, vị trí, hướng, nguyên nhân hoặc mối liên hệ cố định. “At six” là một điểm giờ; “on Friday” là ngày; “in November” là khoảng tháng. Với nơi chốn, *at* có thể định vị một điểm gặp, *in* nhấn bên trong, *on* nhấn trên bề mặt. Đây là mô hình cơ bản; nhiều cụm quen dùng cần học nguyên cụm.
+### Nhìn mốc thời gian
 
-Phân biệt **hạn hoàn thành** và **thời gian duy trì**: “Send it **by Friday**” = không muộn hơn thứ Sáu; “Wait **until Friday**” = tiếp tục đợi tới thứ Sáu. *During* đi với cụm danh từ (*during the meeting*), còn *while* đi với mệnh đề (*while we were meeting*). Sau giới từ, nếu muốn nêu hành động, thường dùng *V-ing*: “before leaving”, “interested in learning”. Không dịch từng chữ “ở/đến/cho” sang một giới từ cố định.
+Dùng *at* cho giờ, *on* cho ngày, *in* cho tháng, năm hoặc buổi chung như *in the morning*. Khi gắn với ngày cụ thể, nói *on Saturday morning*. *By* nêu hạn hoàn tất, *until* nêu mốc một việc duy trì tới. *During* đi với một cụm như *during lunch*, còn *while* có thể đi với vế có chủ ngữ và động từ như *while we were eating*.
 
-## Từ ý định đến câu
+## Tình huống và cách ghép câu
 
-Bạn muốn nhờ đồng nghiệp gửi báo cáo trước hạn rồi báo lúc nào mình sẽ có mặt:
+**Nhắn cho bạn mới tới khu này lần đầu.**
 
-1. Chọn hạn: **Please send the report by Friday.**
-2. Chọn thời điểm gặp: **I'll be at the office on Friday morning.**
-3. Nếu đi qua công viên tới văn phòng: **I'll walk through the park to get there.**
+> Let's meet **at** the café **at** nine **on** Saturday morning. It's **across from** the pharmacy. I'll wait **at** the entrance **until** nine fifteen.
 
-Trong câu hai, *on Friday morning* có thứ cụ thể nên dùng *on*, dù có chữ *morning*. Nếu chỉ nói một buổi sáng không xác định, “in the morning” là mẫu thông thường.
+“Mình gặp ở quán lúc chín giờ sáng thứ Bảy nhé. Quán đối diện hiệu thuốc. Tôi sẽ đợi ở lối vào tới chín giờ mười lăm.”
+
+*At the café* định vị điểm gặp, *at nine* nêu giờ, *on Saturday morning* nêu ngày và buổi cụ thể. *Until nine fifteen* diễn tả việc đợi kéo dài tới mốc đó. Nếu bạn cần họ tới chậm nhất lúc đó, nói **Please get there by nine fifteen.**
 
 ## Những chỗ dễ nhầm
 
@@ -57,6 +63,7 @@ Một số cụm động từ có thể tách khi tân ngữ là danh từ: “T
 1. Nhờ gửi file chậm nhất thứ Sáu.
 2. Nói bạn sẽ đợi đến khi cuộc họp kết thúc.
 3. Nói bạn đang ở trong quán cà phê và đi xuyên qua công viên để đến đó.
+4. Điền từ vào “The café is ___ the second floor. See you ___ Saturday ___ nine.”
 
 <details>
 <summary>Đáp án tham khảo và lý do</summary>
@@ -64,5 +71,6 @@ Một số cụm động từ có thể tách khi tân ngữ là danh từ: “T
 1. **Please send the file by Friday.** *By* là hạn hoàn thành.
 2. **I'll wait until the meeting ends.** *Until* nói sự chờ kéo dài.
 3. **I'm in the café. I walked through the park to get here.** *In* nhấn bên trong; *through* đi xuyên khu vực.
+4. **The café is on the second floor. See you on Saturday at nine.** Dùng *on* cho tầng và ngày, *at* cho giờ cụ thể.
 
 </details>

@@ -1,6 +1,6 @@
 # 11. So sánh hai lựa chọn hoặc chọn một trong nhóm
 
-Trước khi thêm *-er* hay *more*, hãy xác định bạn đang so **hai đối tượng**, nói **bằng nhau**, hay chọn **một đối tượng nổi bật nhất**.
+Bạn cần mua tai nghe. Một chiếc rẻ hơn nhưng pin dùng ít lâu hơn. Một chiếc khác vừa túi tiền và có âm thanh tốt nhất trong ba chiếc. Bạn cần nói rõ đang so đặc điểm nào và so với cái gì.
 
 **Cần biết trước:** [Tính từ và trạng từ](10-adjectives-adverbs.md).
 
@@ -15,27 +15,33 @@ Trước khi thêm *-er* hay *more*, hãy xác định bạn đang so **hai đ�
 
 **Tự hỏi:** “Nhóm so sánh có mấy phương án, và người nghe đã biết phương án kia chưa?” “A is cheaper” vẫn đủ nếu B đã rõ.
 
-## Hiểu bản chất
+## Lý thuyết
 
-Có hai đường: A mất 20 phút, B mất 25 phút. “Route A is faster than route B” so trực tiếp; “Route A is a bit faster” thêm mức độ. Nếu có ba đường và A nhanh nhất, “Route A is the fastest” mới nói về cả nhóm. *As fast as* nói ngang tốc độ; *not as fast as* nói kém hơn mà không cần “slower”.
+### Chọn quan hệ trước khi chọn đuôi
 
-Cách tạo dạng phụ thuộc từ gốc. Nhiều tính từ ngắn thêm *-er/-est*: *fast → faster → fastest*. Kết thúc bằng *-e* chỉ thêm *-r/-st*: *nice → nicer → nicest*. *Big → bigger → biggest* gấp đôi phụ âm; *happy → happier → happiest* đổi *y* thành *i*. Tính từ dài thường dùng *more/most*: *useful → more useful → most useful*. Trạng từ *carefully* dùng *more carefully*; trạng từ ngắn *fast/hard/early* dùng *faster/harder/earlier*.
+| Bạn muốn nói | Khung câu | Ví dụ |
+|---|---|---|
+| A hơn B | *comparative + than + B* | This pair is cheaper than that one. |
+| A bằng B | *as + tính từ/trạng từ + as + B* | It's as light as my old pair. |
+| A chưa bằng B | *not as + tính từ/trạng từ + as + B* | It isn't as comfortable as my old pair. |
+| A nổi bật nhất trong nhóm | *the + superlative* | This one has the best sound of the three. |
 
-## Lý thuyết: ba quan hệ so sánh
+### Tạo dạng hơn và dạng nhất
 
-**So sánh hơn** đặt hai đối tượng lên một thang: `A + be/V + comparative + than + B`. **So sánh bằng** dùng `as + adjective/adverb + as`; phủ định `not as ... as` diễn đạt A chưa bằng B. **So sánh nhất** xác định một đối tượng nổi bật trong một nhóm: `the + superlative + (in/of + nhóm)`. Với tính từ/trạng từ ngắn, thường thêm *-er/-est*; với nhiều từ dài, dùng *more/most*. Không ghép đôi *more faster* hoặc *most fastest*.
+Nhiều từ ngắn dùng *-er/-est*: *light → lighter → lightest*, *nice → nicer → nicest*, *big → bigger → biggest*. Một số từ hai âm tiết kết thúc bằng *-y* đổi *y* thành *i*, như *easy → easier → easiest*. Nhiều từ dài dùng *more/most*, như *more comfortable*, *most carefully*. Trạng từ ngắn như *fast* và *hard* có dạng *faster* và *harder*.
 
-Hình thức so sánh phải khớp **loại từ và ý**: *good/well → better → best*, *bad/badly → worse → worst*, *many/much → more → most*, *little* (lượng) → *less → least*. *Fewer* đi với đơn vị đếm được (*fewer errors*); *less* đi với lượng (*less time*). *Farther/further* đều có thể nói khoảng cách trong nhiều ngữ cảnh; *further* còn nói mức độ/thông tin thêm. Sau khi chọn dạng, nói rõ tiêu chí: “This plan is cheaper **than the other one**.”
+Bảng bất quy tắc bên dưới dùng cho cả mô tả tính chất và cách làm. Trong *a better battery*, *better* là dạng so sánh của *good*. Trong *These headphones work better*, nó là dạng so sánh của *well*. Có thể thêm *a bit* hoặc *much* để nói chênh lệch ít hay nhiều: *a bit cheaper*, *much lighter*.
 
-## Từ ý định đến câu
+## Tình huống và cách ghép câu
 
-Bạn chọn giữa hai ứng dụng:
+**So sánh ba chiếc tai nghe trước khi mua.**
 
-1. Nêu một điểm: **The new app is faster than the old one.**
-2. Nói mức độ: **It's a bit faster, but more expensive.**
-3. Kết luận có lý do: **I'd choose it because it saves time.**
+1. **This pair is cheaper than that one.** — Chiếc này rẻ hơn chiếc kia. *Than* nêu phương án đem ra so.
+2. **It isn't as comfortable as my old pair.** — Đeo không thoải mái bằng chiếc cũ. Sau *as*, giữ *comfortable* ở dạng gốc.
+3. **This one has the best sound of the three.** — Chiếc này có âm thanh hay nhất trong ba chiếc. *Of the three* xác định nhóm.
+4. **I'll take the cheaper one.** — Tôi lấy chiếc rẻ hơn. Khi hai món đã rõ, *the cheaper one* xác định chiếc bạn chọn.
 
-Không dùng “more faster”: *faster* đã là dạng hơn. Khi so sánh điều **ít hơn**, chọn theo danh từ: “fewer mistakes” cho số lỗi đếm được, “less time” cho lượng thời gian.
+Thử chuyển từ mô tả sản phẩm sang cách nó hoạt động. **It has a better battery** → **The battery lasts longer.**
 
 ## Dạng bất quy tắc và giới hạn
 
@@ -62,6 +68,7 @@ Mẫu “**The more** I practice, **the easier** it gets” nghĩa là “Càng 
 1. Nói điện thoại này đắt hơn điện thoại cũ một chút.
 2. Nói hôm nay bạn có ít thời gian hơn nhưng mắc ít lỗi hơn.
 3. Nói Mai nói tiếng Anh tốt hơn trước.
+4. Sửa “This route is much more faster than the other one.”
 
 <details>
 <summary>Đáp án tham khảo và lý do</summary>
@@ -69,5 +76,6 @@ Mẫu “**The more** I practice, **the easier** it gets” nghĩa là “Càng 
 1. **This phone is a bit more expensive than my old one.** *Expensive* dùng *more*.
 2. **I have less time today, but I make fewer mistakes.** *Time* không đếm trực tiếp; *mistakes* đếm được.
 3. **Mai speaks English better now.** *Well → better* khi mô tả cách nói.
+4. **This route is much faster than the other one.** *Faster* đã mang nghĩa so sánh hơn. *Much* cho biết chênh lệch lớn.
 
 </details>

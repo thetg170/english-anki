@@ -5,7 +5,7 @@ Bộ 16 bài được viết cho người đã biết từ vựng nhưng cần c
 ## Một trang có hai lớp
 
 1. **Tra nhanh khi quên:** nêu các ý định giao tiếp, cách chọn và câu mẫu trong một bảng ngắn. Câu hỏi “mình muốn nói gì?” phải dẫn tới lựa chọn.
-2. **Đọc sâu:** giải thích bản chất, đi từ một tình huống đến câu hoàn chỉnh, phân biệt các cách gần nghĩa, rồi cho người học tự thử và đối chiếu đáp án.
+2. **Đọc sâu:** mở bằng một tình huống quen thuộc. Giải thích thuật ngữ, dạng câu và cách chọn trong mục Lý thuyết. Sau đó quay lại tình huống, đưa câu tiếng Anh kèm nghĩa tiếng Việt và chỉ rõ từng phần đóng góp gì vào ý câu.
 
 Tránh lặp cùng một bảng dưới nhiều tiêu đề. Đừng bắt người đọc đoán nghĩa của thuật ngữ để hiểu công thức; định nghĩa tại chỗ hoặc liên kết tới [bảng thuật ngữ](README.md#thuật-ngữ-dùng-trong-tài-liệu).
 
@@ -15,7 +15,7 @@ Tránh lặp cùng một bảng dưới nhiều tiêu đề. Đừng bắt ngư�
 - Một đoạn xử lý một ý. Tiêu đề cho biết người đọc tìm được gì trong mục.
 - Cùng một tình huống nên được dùng để so sánh hai cấu trúc khi điều đó làm rõ khác biệt về ý định.
 - Khi nhiều cách đều đúng, giải thích khác biệt về góc nhìn hoặc sắc thái; không đưa ra quy tắc tuyệt đối sai.
-- Bài tập đi từ câu có gợi ý tới tự tạo câu. Đáp án tham khảo có giải thích ngắn.
+- Dùng câu hỏi nhận diện hoặc sửa lỗi bên cạnh bài tự tạo câu. Phần đáp án giải thích vì sao chọn dạng đó trong tình huống đã nêu.
 - Không trộn hướng dẫn học với thông tin quản lý thẻ. Tài liệu đọc hiểu độc lập với công cụ ôn tập.
 
 ## Rà soát trước khi lưu

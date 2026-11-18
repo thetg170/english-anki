@@ -1,6 +1,6 @@
 # 08. Chọn đại từ theo vai trò trong câu
 
-Đại từ giúp bạn không lặp tên người hoặc vật. Dạng cần dùng phụ thuộc vào **vai trò trong câu**, không phụ thuộc người đó là ai.
+Sau một buổi gặp bạn bè, mấy chiếc ô giống hệt nhau nằm chung một góc. Bạn cần nói ô nào của ai, ai đã cầm nhầm và ai tự mang ô về. Đây là các vai trò khác nhau của đại từ.
 
 **Cần biết trước:** Câu đơn với chủ ngữ, động từ và tân ngữ.
 
@@ -16,27 +16,31 @@
 
 **Tự hỏi:** “Từ này đứng ở vị trí làm, nhận, sở hữu hay quay lại chính chủ ngữ?”
 
-## Hiểu bản chất
+## Lý thuyết
 
-“Mai sent the file to Nam” có ba vai: Mai gửi, file là vật được gửi, Nam nhận. Khi cả ba đã rõ trong hội thoại, “She sent it to him” tránh lặp. Nếu *it* có thể chỉ nhiều vật khác nhau, giữ danh từ để người nghe không phải đoán.
+### Từ thay người, từ đứng trước danh từ
 
-*My file* cần danh từ *file*; *mine* thay cả cụm “my file”. *Myself* không phải dạng lịch sự của *me*. “Please call me” là lời nhờ bình thường; “Please call myself” sai khi người được gọi không đồng thời là chủ ngữ của hành động.
+**Đại từ nhân xưng** chỉ người hoặc vật. Dùng dạng chủ ngữ khi người/vật ở vị trí chủ ngữ, và dạng tân ngữ khi theo sau động từ hoặc giới từ. *She called me* và *I called her* đổi cả vai lẫn dạng của đại từ. Sau *to/for/with*, dùng *me/him/her/us/them* khi cần dạng tân ngữ.
 
-## Lý thuyết: vị trí trong câu quyết định dạng đại từ
+| Bạn muốn diễn đạt | Ví dụ | Cách đọc câu |
+|---|---|---|
+| Ai đưa ô và đưa cho ai? | She gave it to him. | *She* là người đưa, *it* là chiếc ô, *him* là người nhận. |
+| Ô của ai? | That's her umbrella. | *Her* đứng trước danh từ *umbrella*. |
+| Ô của cô ấy ở đâu? | Hers is by the door. | *Hers* thay cả cụm *her umbrella*. |
 
-**Đại từ nhân xưng** thay người/vật đã rõ. Chủ ngữ đứng ở vị trí mà câu nói tới (*I, he, she, we, they*); tân ngữ theo sau động từ hoặc giới từ (*me, him, her, us, them*). “She called him” khác “He called her” vì đổi dạng cũng đổi vai người làm và người nhận. Sau giới từ dùng dạng tân ngữ: “to me”, không dùng “to I”.
+### Đại từ phản thân có ba cách dùng quen thuộc
 
-**Tính từ sở hữu** cần danh từ phía sau (*my book, their plan*); **đại từ sở hữu** thay cả cụm (*mine, theirs*). **Đại từ phản thân** như *myself, herself* chỉ trở lại chủ ngữ hoặc nhấn chính người ấy: “She made it herself.” Nó không phải cách nói lịch sự hơn của *me*. **Đại từ chỉ định** *this/that/these/those* phụ thuộc số ít/số nhiều và điều được chỉ trong ngữ cảnh. Nếu một đại từ có thể trỏ tới nhiều người/vật, dùng lại danh từ để tránh mơ hồ.
+Khi chủ ngữ và người/vật nhận tác động là một, dùng *myself, yourself, himself, herself...*. *I hurt myself* nghĩa là tôi làm chính mình bị thương. Dạng này cũng nhấn người thực hiện, như *I fixed it myself* (chính tôi sửa). *By myself* thường nhấn làm một mình hoặc không có người giúp. Với *you*, chọn *yourself* nếu nói với một người và *yourselves* nếu nói với nhiều người.
 
-## Từ ý định đến câu
+## Tình huống và cách ghép câu
 
-Bạn muốn báo Mai đã gửi file của cô ấy cho Nam:
+**Cả nhóm đang tìm lại ô sau buổi gặp.**
 
-1. Câu đủ danh từ: **Mai sent her file to Nam.**
-2. Khi hai người đã biết: **She sent her file to him.**
-3. Khi file cũng đã biết: **She sent it to him.**
+- **A:** Is this your umbrella? — Đây là ô của bạn à? *Your* đi kèm *umbrella*.
+- **B:** No, mine is black. That one is Mai's. — Không, ô của tôi màu đen. Cái kia của Mai. *Mine* thay cả *my umbrella*, *that one* chỉ chiếc đang được nhắc.
+- **A:** I'll give it to her. — Tôi sẽ đưa nó cho Mai. *It* thay ô, *her* thay Mai sau *to*.
 
-Nếu muốn nói file ấy là của Mai: “The file is hers.” Trong câu khác, “Mai sent Nam her file” cũng đúng; người nhận đứng ngay sau *sent*.
+Thử đổi người và giữ nguyên vai. *Is this Nam's umbrella? No, his is black. I'll give it to him.*
 
 ## Những chỗ dễ nhầm
 
@@ -64,6 +68,7 @@ Nếu muốn nói file ấy là của Mai: “The file is hers.” Trong câu kh
 1. Thay Mai và the report trong “Mai sent the report to me” bằng đại từ.
 2. Nói “Chiếc ghế này không phải của tôi. Ghế của tôi ở kia.”
 3. Nói “Cô ấy tự làm việc đó.”
+4. Chọn *hers* hoặc *herself* trong cả hai chỗ trống: “That's ___.” “She carried it home ___.”
 
 <details>
 <summary>Đáp án tham khảo và lý do</summary>
@@ -71,5 +76,6 @@ Nếu muốn nói file ấy là của Mai: “The file is hers.” Trong câu kh
 1. **She sent it to me.** *She* làm chủ ngữ; *it* nhận hành động.
 2. **This isn't my seat. Mine is over there.** *My* đi với danh từ; *mine* đứng riêng.
 3. **She did it herself.** *Herself* quay lại chủ ngữ *she*.
+4. **That's hers. She carried it home herself.** *Hers* thay cả cụm “ô của cô ấy”. *Herself* nhấn chính cô ấy mang về.
 
 </details>

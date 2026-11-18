@@ -1,6 +1,6 @@
 # 10. Mô tả người, vật và cách làm
 
-Muốn nói tự nhiên, hãy tách hai câu hỏi: **người/vật ấy như thế nào?** và **họ làm việc ấy như thế nào?** Bài này giúp chọn tính từ, trạng từ và những cặp dễ nhầm.
+Bạn nếm một món mới rồi kể cho bạn mình. “Món đó ngon” mô tả món ăn. “Bạn ấy nấu khéo” mô tả cách nấu. Hai ý cần hai loại từ khác nhau.
 
 **Cần biết trước:** Câu đơn có danh từ và động từ.
 
@@ -15,27 +15,33 @@ Muốn nói tự nhiên, hãy tách hai câu hỏi: **người/vật ấy như t
 
 **Tự hỏi:** “Từ này mô tả **ai/cái gì** hay mô tả **cách làm**?” Với động từ nối như *sound*, tính từ mô tả chủ ngữ: “The plan sounds good.”
 
-## Hiểu bản chất
+## Lý thuyết
 
-“She is a good speaker” mô tả **người nói**; “She speaks well” mô tả **cách nói**. *Well* còn có thể là tính từ về sức khỏe: “I don't feel well.” Không phải mọi trạng từ thêm *-ly*: *fast, hard, late* cũng có thể làm trạng từ. Thêm *-ly* đôi khi tạo nghĩa khác: “I work hard” = làm việc chăm chỉ; “I hardly work” = hầu như không làm việc.
+### Tính từ (adjective) mô tả người, vật hoặc trạng thái
 
-Với tính từ cảm xúc, *bored* là trạng thái của người cảm nhận; *boring* là thứ gây cảm giác đó. “I'm bored by the talk” và “The talk is boring” cùng tình huống nhưng nhìn từ hai phía.
+Tính từ thường đứng trước danh từ (*a spicy dish*) hoặc sau động từ nối như *be, look, taste, sound, feel, seem* (*The dish tastes spicy*). **Động từ nối** đưa người đọc từ chủ ngữ sang đặc điểm hoặc tên gọi của chủ ngữ. *Spicy* mô tả món ăn trong cả hai ví dụ.
 
-## Lý thuyết: từ nào đang được mô tả?
+Một số tính từ có vị trí đặc biệt. *The child is asleep* tự nhiên, còn trước danh từ thường nói *a sleeping child*. Nếu có hai tính từ, nhận xét thường đứng trước màu sắc hoặc chất liệu, như *a lovely blue mug*. Thứ tự này là khuynh hướng trong cách nói thông thường.
 
-**Tính từ** mô tả danh từ hoặc chủ ngữ/tân ngữ qua một động từ nối: “a careful driver”, “She is careful”, “The news made her happy.” **Trạng từ** thường mô tả cách hành động diễn ra: “She drives carefully.” Nhiều trạng từ được tạo bằng *-ly* (*quick → quickly*), nhưng không phải tất cả: *fast* và *hard* có thể là trạng từ; *hardly* lại có nghĩa “hầu như không”. Sau *be, seem, look, sound, feel* theo nghĩa nối với chủ ngữ, thường dùng tính từ: “It sounds good.”
+### Trạng từ (adverb) có nhiều nhiệm vụ
 
-Khi chọn *-ed/-ing* cho cảm xúc, hỏi ai **cảm thấy** và điều gì **gây cảm giác**: “I'm interested” (tôi thấy hứng thú), “The talk is interesting” (buổi nói chuyện thú vị). *Good* thường mô tả danh từ/chủ ngữ; *well* thường mô tả cách làm, nhưng *well* cũng có thể là tính từ về sức khỏe. Cần xét vai trò trong câu, không chỉ nhìn hậu tố.
+| Nhiệm vụ | Ví dụ | Từ được bổ nghĩa |
+|---|---|---|
+| Nói cách làm | She cut the onions carefully. | *Cut* |
+| Nói tần suất | She often cooks at home. | *Cooks* |
+| Nói mức độ | It's very spicy. / She spoke quite softly. | *Spicy* / *softly* |
 
-## Từ ý định đến câu
+Nhiều trạng từ chỉ cách làm thêm *-ly*, như *careful → carefully* hay *easy → easily*. *Fast* và *hard* dùng được cả làm tính từ và trạng từ. *Good* thường là tính từ, *well* thường là trạng từ chỉ cách làm và cũng có thể là tính từ về sức khỏe (*I don't feel well*).
 
-Bạn muốn khen Mai nói rõ trong cuộc họp:
+## Tình huống và cách ghép câu
 
-1. Mô tả người: **Mai is a good speaker.**
-2. Mô tả hành động cụ thể: **Mai explained the plan clearly.**
-3. Nói kết quả với người nghe: **Her explanation was helpful.**
+**Kể về món súp bạn vừa ăn.**
 
-Câu hai dùng *clearly* vì từ này trả lời “Mai giải thích **như thế nào**?”. “Mai sounds clear” có thể nói về chất lượng tiếng nói khi nghe, không tự động đồng nghĩa cô ấy đã giải thích dễ hiểu.
+1. **It was a really good bowl of soup.** — Bát súp đó ngon lắm. *Good* mô tả *bowl of soup*, *really* cho biết mức độ.
+2. **It smelled amazing.** — Món đó thơm tuyệt. *Smelled* nối *it* với đặc điểm *amazing*.
+3. **She cooked it really well.** — Bạn ấy nấu món đó rất khéo. *Well* mô tả cách nấu.
+
+So sánh **The soup looked good** với **She looked closely at the soup**. Câu đầu nói món súp trông thế nào. Câu sau dùng *closely* để mô tả cách cô ấy nhìn.
 
 ## Các cặp cần tra lại
 
@@ -57,8 +63,9 @@ So sánh “The instructions are confusing” (Hướng dẫn gây khó hiểu) 
 ## Tự kiểm tra
 
 1. Nói cô ấy là người lái xe cẩn thận và lái cẩn thận.
-2. Nói bạn mệt vì bài học nhàm chán.
+2. Nói bạn thấy chán vì bài học nhàm chán.
 3. Dịch “Tôi làm việc chăm chỉ” và “Tôi hầu như không làm việc”.
+4. Sửa “I was boring during the long wait” để nói chính bạn thấy chán khi đợi.
 
 <details>
 <summary>Đáp án tham khảo và lý do</summary>
@@ -66,6 +73,7 @@ So sánh “The instructions are confusing” (Hướng dẫn gây khó hiểu) 
 1. **She's a careful driver. She drives carefully.** Tính từ trước danh từ; trạng từ mô tả cách lái.
 2. **I'm bored because the lesson is boring.** *Bored* là cảm giác; *boring* gây cảm giác.
 3. **I work hard. / I hardly work.** Hai câu khác nghĩa rõ rệt.
+4. **I was bored during the long wait.** *Bored* mô tả người cảm thấy chán. Có thể nói **The wait was boring** nếu muốn mô tả điều gây chán.
 
 </details>
 

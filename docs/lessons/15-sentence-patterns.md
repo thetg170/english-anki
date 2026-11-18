@@ -1,6 +1,6 @@
 # 15. Dùng there, it và các khung câu cơ bản
 
-Khi chưa biết bắt đầu câu bằng gì, hãy hỏi **mình đang giới thiệu điều mới, nói tiếp điều đã biết, hỏi thông tin hay nói cảm xúc?** Các khung ở đây giải quyết những việc đó.
+Bạn vào một quán và muốn hỏi có chỗ ngồi không, rồi than rằng nhạc ở đây làm bạn khó tập trung. Bài này giúp bạn thấy mỗi từ giữ vai trò gì, từ câu ngắn như *The café is quiet* đến câu có bổ ngữ như *The music made me sleepy*.
 
 **Cần biết trước:** [Câu cơ bản](01-present-simple-continuous.md) và [đại từ](08-pronouns.md).
 
@@ -9,7 +9,7 @@ Khi chưa biết bắt đầu câu bằng gì, hãy hỏi **mình đang giới t
 | Ý định | Khung câu | Ví dụ |
 |---|---|---|
 | Giới thiệu có người/vật nào đó | There is/are + danh từ | There's a café nearby. |
-| Nói tiếp về vật/việc đã rõ | It + động từ/tính từ | It's open until nine. |
+| Nói tiếp về vật/việc đã rõ | *It + be + tính từ* | It's open until nine. |
 | Nói thời gian cần thiết | It takes + người + thời gian + to V | It takes me ten minutes to get there. |
 | Hỏi trực tiếp | Từ hỏi + trợ động từ + chủ ngữ + V1? | Where does she work? |
 | Lồng câu hỏi trong một câu khác | Do you know + từ hỏi + chủ ngữ + động từ? | Do you know where she works? |
@@ -17,28 +17,39 @@ Khi chưa biết bắt đầu câu bằng gì, hãy hỏi **mình đang giới t
 
 **Tự hỏi:** “Người nghe đã biết đối tượng tôi đang nói đến chưa?” Nếu chưa, *there is/are* thường giúp giới thiệu; sau đó *it* có thể chỉ lại.
 
-## Hiểu bản chất
+## Lý thuyết
 
-“There's a café near the station. It's open until nine.” Câu đầu đưa quán vào cuộc trò chuyện; câu sau dùng *it* vì quán đã rõ. *It* còn có thể làm chủ ngữ cho thời tiết và giờ: “It's raining”; “It's six o'clock.” Tiếng Anh thường cần chủ ngữ rõ, kể cả khi tiếng Việt có thể bỏ.
+### Tìm khung câu từ động từ
 
-Câu hỏi trực tiếp có thể đảo trợ động từ hoặc *be*: “Where is the room?” Khi đưa câu hỏi vào sau “Do you know...”, phần phụ giữ trật tự như câu kể: “Do you know where the room is?” **Bổ ngữ** là phần mô tả chủ ngữ hoặc tân ngữ: “She is **ready**”; “The news made me **happy**.” *Happy* không phải trạng từ nói cách tin tức “làm”.
+**Chủ ngữ (S)** là người/vật mà câu nói tới. **Động từ (V)** diễn đạt hành động hoặc trạng thái. **Tân ngữ (O)** là người/vật mà hành động hướng tới. Trong các khung dưới đây, **bổ ngữ (C)** hoàn thiện ý bằng cách cho biết chủ ngữ hoặc tân ngữ là gì hay có đặc điểm gì.
 
-## Lý thuyết: các khung câu giải quyết việc khác nhau
+| Khung | Câu và nghĩa | Cách nhận ra |
+|---|---|---|
+| S + V | The baby slept. — Em bé ngủ. | *Slept* dùng như nội động từ. |
+| S + V + O | Mai ordered a coffee. — Mai gọi một ly cà phê. | *A coffee* là thứ Mai gọi. |
+| S + V nối + C | The coffee smells great. — Cà phê thơm lắm. | *Great* mô tả cà phê, chủ ngữ của câu. |
+| S + V + O + C | The music made me sleepy. — Nhạc làm tôi buồn ngủ. | *Me* là tân ngữ, *sleepy* mô tả tôi. |
+| S + V + người nhận + vật | She brought me a cup. — Cô ấy mang cho tôi một chiếc cốc. | *Me* là người nhận, *a cup* là vật. |
 
-**There is/are + danh từ** giới thiệu sự tồn tại: “There are two seats.” Động từ *be* thường hòa hợp với danh từ phía sau. **It** có thể chỉ lại điều đã biết (“It's empty”), hoặc làm chủ ngữ giả cho thời tiết, giờ và khoảng cách (“It's raining”, “It's late”). `It takes + người + thời gian + to V` diễn đạt thời lượng cần thiết. Hai chữ *there* và *it* không thay được cho nhau chỉ vì tiếng Việt đều có thể bỏ chủ ngữ.
+Cùng một động từ có thể có nhiều khung. *I drive to work* dùng *drive* không có tân ngữ. *I drive a van* có tân ngữ *a van*. Cụm chỉ nơi cũng có thể giữ vai trò khác nhau. Trong *We ate outside*, *outside* thêm địa điểm. Trong *Put the cup on the table*, chỗ đặt là một phần động từ *put* thường cần để đủ ý. Ở nghĩa rộng, *complement* còn có thể chỉ phần điền đủ ý cho một từ, như *to see you* trong *I'm glad to see you*.
 
-Với **câu hỏi trực tiếp**, đảo *be/modal* hoặc dùng *do/does/did* với động từ thường: “Where **is** it?”, “Where **does** she work?”. Trong **câu hỏi gián tiếp**, phần sau từ hỏi giữ trật tự câu kể: “Do you know where **she works**?” Khi *who/what* chính là chủ ngữ, thường không thêm *do*: “Who called you?” Cảm thán dùng `what + (a/an) + cụm danh từ` hoặc `how + tính từ/trạng từ`: “What a day!” / “How lovely!”
+### *There is/are*, *it* và hai kiểu hỏi
 
-## Từ ý định đến câu
+Dùng *there + be + danh từ* khi giới thiệu có gì. Hiện tại dùng *is* với số ít hoặc lượng không đếm được và *are* với số nhiều. Quá khứ đổi thành *was/were*. Tương lai dùng *will be* cho cả hai. So sánh *There were two free seats yesterday* (Hôm qua có hai chỗ trống) và *There will be more seats tomorrow* (Ngày mai sẽ có thêm chỗ).
 
-Bạn hỏi đồng nghiệp về nơi họp:
+Dùng *it* để chỉ lại vật đã rõ (*It's by the window*), hoặc làm **chủ ngữ giả** khi câu cần vị trí chủ ngữ nhưng bạn đang nói về giờ, thời tiết hoặc một hoạt động. *It's raining* nói trời mưa. *It's hard to hear you* đánh giá việc nghe bạn là khó. *It takes ten minutes to get there* cho biết thời lượng. Trong các câu này, người nghe hiểu ý từ phần sau *it*.
 
-1. Nêu nhu cầu: **Is there a quiet room nearby?**
-2. Hỏi địa điểm cụ thể: **Where is the room?**
-3. Hỏi mềm hơn: **Do you know where the room is?**
-4. Báo thời gian đi tới: **It takes me ten minutes to get there.**
+Trong câu hỏi trực tiếp, đảo *be/modal* hoặc thêm *do/does/did* với động từ thường: *Where is it?*, *Where does she work?* Khi lồng câu hỏi sau *Do you know ...?*, dùng trật tự câu kể ở vế bên trong: *Do you know where she works?* Khi *who* làm chủ ngữ, hỏi *Who called you?*
 
-Mỗi câu giải quyết một việc; không cần nhồi tất cả mẫu vào một câu dài.
+## Tình huống và cách ghép câu
+
+**Bạn vừa đến quán để ngồi học.**
+
+- **A:** Is there a free seat by the window? — Có chỗ trống cạnh cửa sổ không? Dùng *there* để hỏi có chỗ nào như vậy.
+- **B:** Yes, there's one over there. It's a bit chilly by the window, though. — Có một chỗ đằng kia. Nhưng chỗ cạnh cửa sổ hơi lạnh. *It* trong câu thời tiết/cảm giác chung không cần dịch là “nó”.
+- **A:** I'll sit inside. The cold makes me sleepy. — Tôi sẽ ngồi phía trong. Trời lạnh làm tôi buồn ngủ. Tách *the cold* (S) + *makes* (V) + *me* (O) + *sleepy* (C).
+
+Câu **The staff gave me a blanket** cũng có hai phần sau động từ. *A blanket* là thứ được đưa, còn *sleepy* trong câu trước là một đặc điểm của *me*. Thử đọc thành “tôi thấy buồn ngủ” để kiểm tra quan hệ giữa tân ngữ và bổ ngữ.
 
 ## Những chỗ dễ nhầm
 
@@ -65,6 +76,7 @@ Mỗi câu giải quyết một việc; không cần nhồi tất cả mẫu và
 1. Nói có ba người đang đợi ngoài cửa.
 2. Hỏi gián tiếp phòng họp ở đâu.
 3. Nói bạn mất mười phút để đến đó.
+4. Tách chủ ngữ, động từ, tân ngữ và bổ ngữ trong “The news made Mai happy.”
 
 <details>
 <summary>Đáp án tham khảo và lý do</summary>
@@ -72,5 +84,6 @@ Mỗi câu giải quyết một việc; không cần nhồi tất cả mẫu và
 1. **There are three people waiting outside.** *People* là số nhiều.
 2. **Do you know where the meeting room is?** Phần sau *where* giữ trật tự câu kể.
 3. **It takes me ten minutes to get there.** Dùng *it takes* cho thời lượng.
+4. **The news** là chủ ngữ, **made** là động từ, **Mai** là tân ngữ và **happy** là bổ ngữ mô tả Mai.
 
 </details>
