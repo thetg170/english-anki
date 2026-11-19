@@ -25,16 +25,16 @@ Thứ tự này là gợi ý, không phải điều kiện cứng. Các bài có
 
 ## Ghi chú khóa học
 
-Tên file dùng số bài gốc của khóa học. Sáu ghi chú hiện có bắt đầu từ bài 02.
+Sáu ghi chú được đánh số từ 01 đến 06 theo thứ tự chủ đề trong khóa học.
 
-- 02. [Danh từ](course-notes/02-nouns.md)
-- 03. [Động từ](course-notes/03-verbs.md)
-- 04. [Đại từ](course-notes/04-pronouns.md)
-- 05. [Tính từ và trạng từ](course-notes/05-adjectives-and-adverbs.md)
-- 06. [Giới từ](course-notes/06-prepositions.md)
-- 07. [Mẫu câu](course-notes/07-sentence-patterns.md)
+- 01. [Danh từ](course-notes/01-nouns.md)
+- 02. [Động từ](course-notes/02-verbs.md)
+- 03. [Đại từ](course-notes/03-pronouns.md)
+- 04. [Tính từ và trạng từ](course-notes/04-adjectives-and-adverbs.md)
+- 05. [Giới từ](course-notes/05-prepositions.md)
+- 06. [Mẫu câu](course-notes/06-sentence-patterns.md)
 
-Mở mục **Phần cuối** trong từng file để xem bài tập và đáp án. Nếu thẻ Anki ghi tên cũ như `verbs.md`, tìm file cùng tên có thêm số bài ở đầu, chẳng hạn `03-verbs.md`.
+Mở mục **Phần cuối** trong từng file để xem bài tập và đáp án. Nếu thẻ Anki ghi tên cũ như `verbs.md`, tìm file cùng tên có thêm số bài ở đầu, chẳng hạn `02-verbs.md`.
 
 ## Thuật ngữ dùng trong tài liệu
 

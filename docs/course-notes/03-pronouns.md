@@ -1,4 +1,4 @@
-# BÀI HỌC 4: PRONOUNS – ĐẠI TỪ
+# BÀI HỌC 03: PRONOUNS – ĐẠI TỪ
 
 > **Lưu ý phạm vi tài liệu:** Bộ bài giảng gồm 3 phần lý thuyết và 3 file bài tập tương ứng với 3 mảng kiến thức trọng tâm về Đại từ: **Đại từ nhân xưng**, **Tính từ sở hữu & Đại từ sở hữu**, và **Đại từ phản thân**. *(Các phần Đại từ bất định, Đại từ chỉ định, Đại từ thay thế không nằm trong ba phần lý thuyết này).*
 

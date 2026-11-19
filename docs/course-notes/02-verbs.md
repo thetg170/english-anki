@@ -1,4 +1,4 @@
-# LESSON 3: ĐỘNG TỪ (VERBS) - GHI CHÚ BÀI GIẢNG & BÀI TẬP CHI TIẾT
+# LESSON 02: ĐỘNG TỪ (VERBS) - GHI CHÚ BÀI GIẢNG & BÀI TẬP CHI TIẾT
 
 ---
 
