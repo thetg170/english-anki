@@ -2,9 +2,9 @@
 
 ---
 
-## VIDEO 1: CÁC LOẠI ĐỘNG TỪ (TYPES OF VERBS)
+## CÁC LOẠI ĐỘNG TỪ (TYPES OF VERBS)
 
-### 1. Tên phần / Chủ điểm chính của video
+### 1. Tên phần / Chủ điểm chính
 * **Chủ đề:** Verbs - Động từ: Các loại động từ trong tiếng Anh (`Action Verbs`, `Stative Verbs`, `Linking Verbs` và phân biệt `Transitive` vs `Intransitive Verbs`).
 * **Vị trí trong câu:** Trong cấu trúc câu tổng quan `S + V + O` (Subject + Verb + Object), các từ như `receive` (nhận), `walk` (đi) nằm ở thành phần **Verb (V - Động từ)**.
 
@@ -48,7 +48,7 @@
 
 ---
 
-### 5. Toàn bộ ví dụ trong video
+### 5. Toàn bộ ví dụ
 
 #### A. Tình huống mở đầu (Giải thích mâu thuẫn giao tiếp do dùng sai Nội/Ngoại động từ):
 * *Hội thoại 1:*
@@ -102,9 +102,9 @@
 
 ---
 
-## VIDEO 2: THÌ HIỆN TẠI ĐƠN - CÁCH CHIA ĐỘNG TỪ & CÁCH SỬ DỤNG (THE PRESENT SIMPLE TENSE - PHẦN 1)
+## THÌ HIỆN TẠI ĐƠN - CÁCH CHIA ĐỘNG TỪ & CÁCH SỬ DỤNG (THE PRESENT SIMPLE TENSE - PHẦN 1)
 
-### 1. Tên phần / Chủ điểm chính của video
+### 1. Tên phần / Chủ điểm chính
 * **Chủ đề:** Verb Tenses (Thì của động từ) - **The Present Simple Tense (Thì hiện tại đơn)**: Cách chia động từ (ở thể khẳng định) và Cách sử dụng + Dấu hiệu nhận biết.
 
 ---
@@ -159,7 +159,7 @@ Thì hiện tại đơn được dùng trong **5 trường hợp** chính sau đ
 
 ---
 
-### 4. Toàn bộ ví dụ trong video
+### 4. Toàn bộ ví dụ
 
 #### A. Ví dụ giới thiệu bản thân ("Get to know your teacher"):
 * `I am an English teacher.` (Tôi là giáo viên dạy tiếng Anh.) -> `I + am`.
@@ -208,9 +208,9 @@ Thì hiện tại đơn được dùng trong **5 trường hợp** chính sau đ
 
 ---
 
-## VIDEO 3: THỂ PHỦ ĐỊNH VÀ NGHI VẤN (THÌ HIỆN TẠI ĐƠN - PHẦN 2)
+## THỂ PHỦ ĐỊNH VÀ NGHI VẤN (THÌ HIỆN TẠI ĐƠN - PHẦN 2)
 
-### 1. Tên phần / Chủ điểm chính của video
+### 1. Tên phần / Chủ điểm chính
 * **Chủ đề:** **Thể phủ định và nghi vấn** của Thì hiện tại đơn & Tổng kết Thì hiện tại đơn.
 
 ---
@@ -244,7 +244,7 @@ Thì hiện tại đơn được dùng trong **5 trường hợp** chính sau đ
 
 ---
 
-### 4. Toàn bộ ví dụ trong video
+### 4. Toàn bộ ví dụ
 * **Tiểu phẩm mở đầu:**
   * `I don't like fish.` / `My father doesn't like fish.` / `We don't like fish.` / `But my mom and my cats like fish.`
   * `My mom doesn't like sweets.` / `My cats don't like sweets.` / `They don't like sweets.` / `But my dad and I like sweets.`
@@ -268,9 +268,9 @@ Thì hiện tại đơn được dùng trong **5 trường hợp** chính sau đ
 
 ---
 
-## VIDEO 4: THÌ HIỆN TẠI TIẾP DIỄN (THE PRESENT CONTINUOUS TENSE)
+## THÌ HIỆN TẠI TIẾP DIỄN (THE PRESENT CONTINUOUS TENSE)
 
-### 1. Tên phần / Chủ điểm chính của video
+### 1. Tên phần / Chủ điểm chính
 * **Chủ đề:** Verbs - Động từ: **Thì hiện tại tiếp diễn (The Present Continuous Tense)** (Cách chia động từ, Cách sử dụng & Nhận biết, Thể phủ định & nghi vấn).
 
 ---
@@ -320,7 +320,7 @@ Thì hiện tại tiếp diễn có **2 cách dùng** chính được dạy tron
 
 ---
 
-### 4. Toàn bộ ví dụ trong video
+### 4. Toàn bộ ví dụ
 * **Trong tiểu phẩm mở đầu (khẳng định & cách dùng):**
   * `I'm watching TV mom.` (Con đang xem TV mẹ ạ.)
   * `You're always watching TV!` (Con lúc nào cũng xem TV!) -> Cách dùng 2 (thói quen xấu + `always`).
@@ -344,7 +344,7 @@ Thì hiện tại tiếp diễn có **2 cách dùng** chính được dạy tron
   * `We aren't studying Biology this semester.` (Kỳ này bọn mình không học môn Sinh học.)
   * `Are you working today?` (Hôm nay anh có làm việc không?)
   * `What are you looking at?` (Nhìn gì vậy?)
-* **Bài tập phản xạ nhanh cuối video (Phân biệt Hiện tại đơn vs Hiện tại tiếp diễn):**
+* **Bài tập phản xạ nhanh (Phân biệt Hiện tại đơn vs Hiện tại tiếp diễn):**
   1. `You always (stay) up late. It's unhealthy.` -> **`are always staying`** (vì là thói quen xấu + `always` -> Hiện tại tiếp diễn).
   2. `Water (boil) at 100°C.` -> **`boils`** (sự thật hiển nhiên -> Hiện tại đơn; `Water` không đếm được nên chia số ít).
   3. `She (enter) the building right now. Everybody, get ready!` -> **`is entering`** (`right now` -> Hiện tại tiếp diễn; `enter` có trọng âm 1 nên không gấp đôi `r`).
@@ -355,13 +355,13 @@ Thì hiện tại tiếp diễn có **2 cách dùng** chính được dạy tron
 ### 5. Mẹo làm bài nhanh & Các bẫy thường gặp
 * **Bẫy từ `always`:** Thấy `always` chưa chắc là Hiện tại đơn! Nếu câu mang sắc thái phàn nàn, chê trách thói quen xấu (như ngủ muộn, quên đồ, đến muộn, xem TV quá nhiều), ta phải chia Hiện tại tiếp diễn (`be + always + V-ing`).
 * **Bẫy nhân đôi phụ âm với động từ 2 âm tiết:** Phải kiểm tra **trọng âm**. Chỉ nhân đôi phụ âm cuối khi trọng âm rơi vào **âm tiết thứ 2** (`beGIN -> beginning`, `adMIT -> admitting`), còn nếu trọng âm rơi vào âm tiết 1 (`ENter -> entering`, `HAPpen -> happening`) thì không nhân đôi.
-* **Lưu ý slide tổng kết cuối Video 4:** Trên slide ở phút 10:35 có ghi nhầm tiêu đề là `PRESENT SIMPLE TENSE`, nhưng nội dung liệt kê bên dưới và lời giảng của thầy là tổng kết **Thì hiện tại tiếp diễn (Present Continuous Tense)**.
+* **Lưu ý về phần tổng kết Hiện tại tiếp diễn:** Trên slide tổng kết có ghi nhầm tiêu đề là `PRESENT SIMPLE TENSE`, nhưng nội dung liệt kê bên dưới và lời giảng của thầy là tổng kết **Thì hiện tại tiếp diễn (Present Continuous Tense)**.
 
 ---
 
-## VIDEO 5: THÌ QUÁ KHỨ ĐƠN (THE PAST SIMPLE TENSE)
+## THÌ QUÁ KHỨ ĐƠN (THE PAST SIMPLE TENSE)
 
-### 1. Tên phần / Chủ điểm chính của video
+### 1. Tên phần / Chủ điểm chính
 * **Chủ đề:** Verbs - Động từ: **Thì quá khứ đơn (The Past Simple Tense)** (Cách sử dụng, Dấu hiệu nhận biết, Chia động từ, Thể phủ định và nghi vấn).
 
 ---
@@ -416,7 +416,7 @@ Thì hiện tại tiếp diễn có **2 cách dùng** chính được dạy tron
 
 ---
 
-### 4. Toàn bộ ví dụ trong video (Theo mạch câu chuyện kinh dị học đường)
+### 4. Toàn bộ ví dụ (Theo mạch câu chuyện kinh dị học đường)
 * **Đoạn 1 (Khẳng định):**
   * `Yesterday I went home from school.` (Hôm qua mình đi về nhà từ trường.) -> `yesterday`, `go -> went` (bất quy tắc).
   * `On the way, I saw an old lady.` (Trên đường về, mình gặp một cô lớn tuổi.) -> `see -> saw` (bất quy tắc).
@@ -451,9 +451,9 @@ Thì hiện tại tiếp diễn có **2 cách dùng** chính được dạy tron
 
 ---
 
-## VIDEO 6: THÌ TƯƠNG LAI ĐƠN VÀ THÌ TƯƠNG LAI GẦN (THE FUTURE SIMPLE & NEAR FUTURE TENSE)
+## THÌ TƯƠNG LAI ĐƠN VÀ THÌ TƯƠNG LAI GẦN (THE FUTURE SIMPLE & NEAR FUTURE TENSE)
 
-### 1. Tên phần / Chủ điểm chính của video
+### 1. Tên phần / Chủ điểm chính
 * **Chủ đề:** Verbs - Động từ: **Thì tương lai đơn (The Future Simple Tense)** và **Thì tương lai gần (The Near Future Tense)**, cách chia, cách dùng, dấu hiệu nhận biết và phân biệt hai thì.
 
 ---
@@ -499,7 +499,7 @@ Thì hiện tại tiếp diễn có **2 cách dùng** chính được dạy tron
 
 ---
 
-### 4. Toàn bộ ví dụ trong video
+### 4. Toàn bộ ví dụ
 
 #### A. Ví dụ Thì tương lai đơn (Tiểu phẩm thầy bói & chuông cửa):
 * `You will meet someone in the summer.` (Bạn sẽ gặp ai đó vào mùa hè.) -> Dự đoán.
@@ -525,7 +525,7 @@ Thì hiện tại tiếp diễn có **2 cách dùng** chính được dạy tron
   * Scorpio: `You will spend a lot of money next week.`
   * Sagittarius: `You will go on a trip next week.`
   * Capricorn: `You will have a crush on someone next week.`
-* *Ví dụ bài Tarot cuối video:*
+* *Ví dụ bài Tarot:*
   * **The Sun:** `If you choose The Sun, you will have a wonderful time ahead, you will feel excited and energetic, and good things will come.`
   * **The World:** `If you choose The World, you will enjoy the results of your effort. A project, a task or a course will end, leading to new opportunities, and you will be able to enjoy the fruit of your hard work.`
   * **The Magician:** `If you choose the Magician, your skills will develop in the future, whatever your field is, you will have everything under control, and you will do your job well.`
@@ -551,13 +551,13 @@ Thì hiện tại tiếp diễn có **2 cách dùng** chính được dạy tron
 
 ### 5. Mẹo làm bài nhanh & Các bẫy thường gặp
 * **Mẹo phân biệt:** Thấy các từ chỉ sự chưa chắc chắn như `maybe`, `I don't know`, `probably`, `I think` hoặc tình huống phản ứng tức thì (chuông kêu, gõ cửa, nhờ vả bất ngờ) -> chọn **`will + V`**. Thấy đã có hành động chuẩn bị trước (đang mua đồ, đang xách xô nước, đã đặt lịch thi) hoặc bằng chứng nhãn tiền (`sky looks dark`) -> chọn **`be going to + V`**.
-* **Lưu ý slide tổng kết ở Video 6:** Ở phút 14:35, slide có gõ nhầm tiêu đề là `PRESENT SIMPLE TENSE`, nhưng toàn bộ nội dung thầy tổng kết là **Thì tương lai đơn & Thì tương lai gần**.
+* **Lưu ý về phần tổng kết Tương lai đơn và Tương lai gần:** Slide có gõ nhầm tiêu đề là `PRESENT SIMPLE TENSE`, nhưng toàn bộ nội dung thầy tổng kết là **Thì tương lai đơn & Thì tương lai gần**.
 
 ---
 
-## VIDEO 7: DANH ĐỘNG TỪ VÀ ĐỘNG TỪ NGUYÊN THỂ (GERUNDS AND INFINITIVES)
+## DANH ĐỘNG TỪ VÀ ĐỘNG TỪ NGUYÊN THỂ (GERUNDS AND INFINITIVES)
 
-### 1. Tên phần / Chủ điểm chính của video
+### 1. Tên phần / Chủ điểm chính
 * **Chủ đề:** Verbs - Động từ: **Gerunds and Infinitives (Danh động từ và Động từ nguyên thể)** & Phân biệt các nhóm động từ đi kèm `V-ing` và `to V`.
 
 ---
@@ -596,7 +596,7 @@ Thì hiện tại tiếp diễn có **2 cách dùng** chính được dạy tron
 
 ---
 
-### 4. Toàn bộ ví dụ trong video
+### 4. Toàn bộ ví dụ
 
 #### A. Ví dụ mở đầu (Câu chuyện sao biển):
 * `Doing this is pointless.` (Làm điều này là vô ích.) -> **`Doing`**: làm chủ ngữ.
@@ -659,7 +659,7 @@ Thì hiện tại tiếp diễn có **2 cách dùng** chính được dạy tron
 #### Exercise 1: Chọn True nếu khẳng định là đúng - False nếu khẳng định là sai
 1. **Đề bài:** Động từ được chia làm 2 loại là động từ hành động và động từ trạng thái.
    * **Đáp án:** **B. False**
-   * **Giải thích:** Theo bài học, ngoài 2 loại trên, động từ còn có loại thứ 3 là **động từ liên kết (Linking verbs)** (tổng cộng 3 loại chính được dạy trong video 1).
+   * **Giải thích:** Theo bài học, ngoài 2 loại trên, động từ còn có loại thứ 3 là **động từ liên kết (Linking verbs)** (tổng cộng 3 loại chính được dạy trong phần Các loại động từ).
 2. **Đề bài:** Tất cả các động từ đều được theo sau bởi tân ngữ.
    * **Đáp án:** **B. False**
    * **Giải thích:** Chỉ có **ngoại động từ (Transitive verbs)** mới đòi hỏi tân ngữ theo sau. **Nội động từ (Intransitive verbs)** đứng một mình đã đủ nghĩa và không có tân ngữ đi kèm.
@@ -681,7 +681,7 @@ Thì hiện tại tiếp diễn có **2 cách dùng** chính được dạy tron
   * **[x] Động từ suy nghĩ, quan điểm** (`think, believe, agree, understand`)
   * **[x] Động từ giác quan** (`sound, taste, smell`)
   * **[x] Động từ sở hữu** (`have, own, belong`)
-* **Giải thích:** Theo bảng phân loại Stative Verbs trong Video 1, 4 nhóm này thuộc động từ chỉ trạng thái (cùng với nhóm Khác: `cost, weigh`). Loại "Động từ hoạt động" (Action verbs), "Động từ liên kết" (Linking verbs), "Động từ khuyết thiếu" (Modal verbs).
+* **Giải thích:** Theo bảng phân loại Stative Verbs trong phần Các loại động từ, 4 nhóm này thuộc động từ chỉ trạng thái (cùng với nhóm Khác: `cost, weigh`). Loại "Động từ hoạt động" (Action verbs), "Động từ liên kết" (Linking verbs), "Động từ khuyết thiếu" (Modal verbs).
 
 #### Exercise 3: Nối từng loại động từ với định nghĩa của chúng
 * **Đáp án & Giải thích:**

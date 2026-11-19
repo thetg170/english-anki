@@ -1,3 +1,4 @@
+# Bài 6. Giới từ (Prepositions)
 
 #### Bảng so sánh `on time` vs `in time` và `during` vs `throughout`:
 
@@ -10,7 +11,7 @@
 
 ---
 
-### 5. Toàn bộ ví dụ trong Video 2
+### 5. Toàn bộ ví dụ
 
 #### A. Câu chuyện Giáng sinh tại Mỹ (toàn văn các câu chứa giới từ thời gian trọng tâm)
 1. ***During** this time, I sometimes felt homesick and wanted to go home so badly.* (Trong thời gian đó, thỉnh thoảng mình thấy nhớ nhà và muốn về nhà lắm.)
@@ -36,7 +37,7 @@
 10. ***From** August 2011 **to** May 2012, I studied in the US.* (Từ tháng 8 năm 2011 đến tháng 5 năm 2012, tôi học ở Mỹ.)
 11. ***Between** August 2011 **and** May 2012, I studied in the US.* (Giữa tháng 8 năm 2011 và tháng 5 năm 2012, tôi học ở Mỹ.)
 
-#### C. Bài tập thực hành cuối Video 2 – Tóm tắt tác phẩm *"A Christmas Carol"*
+#### C. Bài tập thực hành cuối phần giới từ chỉ thời gian – Tóm tắt tác phẩm *"A Christmas Carol"*
 * **Đề bài & Đáp án điền vào đoạn văn (chọn 1 trong 2 giới từ gợi ý):**
   > Mr. Scrooge was an old and lonely man because he was not nice to others. **(1) At** *(in front of / at? — trên slide: `in front of / at`? Không, câu 1 trên slide là `At / In` bị mép trái che mất chữ cái đầu, giáo viên giảng rõ: "vào dịp Giáng sinh -> đây là một ngày lễ, một thời gian rất cụ thể -> đáp án là **At**")* Christmas, he was still alone while others were happy with each other. Suddenly, the Ghost of the Past appeared **(2) in front of** *(in front of / at)* him and showed him how unhappy he was **(3) in** *(on / in)* many years, with no one around. Then, the Ghost of the Present showed him how happy people were with their families **(4) on** *(at / on)* this occasion. They didn't have enough to eat but they still enjoyed themselves, unlike him. Finally, the Ghost of the Future showed him that he would die alone with no one **(5) beside** *(throughout / beside)* him. He realized he didn't care about others so they stayed away from him. After that, he decided to change his future and invited everyone to a Christmas party **(6) at** *(on / at)* his house. People were shocked, but they still came, everyone had a great time and **(7) from** *(from / between)* that time, he became loved by everyone.
 * **Giải thích chi tiết từng chỗ trống:**
@@ -50,7 +51,7 @@
 
 ---
 
-### 6. Mẹo làm bài nhanh & Các bẫy thường gặp (Video 2)
+### 6. Mẹo làm bài nhanh & Các bẫy thường gặp
 1. **Mẹo phễu tam giác ngược:** Lớn/chung nhất (`in`: tháng, mùa, năm, thế kỷ, sáng/chiều/tối) -> Vừa (`on`: ngày, buổi có ngày) -> Nhỏ/cụ thể nhất (`at`: giờ, ngày lễ, cuối tuần, trưa/đêm).
 2. **Bẫy "có ngày đằng trước buổi":** Thấy *morning / afternoon / evening* đừng vội khoanh `in`; phải nhìn xem phía trước có tên thứ/ngày không. Có ngày (vd: *Saturday afternoon*, *Sunday morning*) -> lập tức dùng **`on`**.
 3. **Bẫy các buổi đặc biệt trong ngày:** `morning`, `afternoon`, `evening` dùng `in`, NHƯNG `noon` (trưa), `night` (đêm), `lunchtime` (giờ ăn trưa) lại dùng **`at`**.
@@ -65,7 +66,7 @@
 ### SECTION 1: GIỚI TỪ CHỈ ĐỊA ĐIỂM (PDF 1)
 
 #### Exercise 1: Hãy nối giới từ với cách sử dụng của chúng
-*(Ghi chú: File PDF gốc xuất từ web bị lỗi chữ `undefined` ở cột phải từ dòng 4 đến dòng 10; dưới đây là đề đầy đủ và đáp án chuẩn theo bảng tổng hợp ở Video 1).*
+*(Ghi chú: File PDF gốc xuất từ web bị lỗi chữ `undefined` ở cột phải từ dòng 4 đến dòng 10; dưới đây là đề đầy đủ và đáp án chuẩn theo bảng tổng hợp về giới từ chỉ địa điểm).*
 
 1. Nơi ở, học tập, làm việc, địa điểm trong thành phố, thị trấn… -> **at**
    * *Giải thích:* Các địa điểm chức năng/sinh hoạt như *at home, at school, at work, at the post office* dùng `at`.
@@ -82,7 +83,7 @@
 7. Ôtô, taxi -> **in**
    * *Giải thích:* Phương tiện cá nhân ngồi khép kín bên trong dùng `in`.
 8. Phố, tầng trong tòa nhà -> **on**
-   * *Giải thích:* Theo bảng Video 1, `on` đi với phố và tầng trong tòa nhà (dù tên phố cũng có thể dùng `in`, nhưng tầng trong tòa nhà chỉ dùng `on`).
+   * *Giải thích:* Theo bảng về giới từ chỉ địa điểm, `on` đi với phố và tầng trong tòa nhà (dù tên phố cũng có thể dùng `in`, nhưng tầng trong tòa nhà chỉ dùng `on`).
 9. Địa chỉ email -> **at**
    * *Giải thích:* Trước địa chỉ email luôn dùng `at`.
 10. Phương tiện giao thông công cộng -> **on**
@@ -122,7 +123,7 @@
 ---
 
 #### Exercise 4: Hãy điền giới từ thích hợp trong bảng để hoàn thành những câu sau
-*(Ghi chú: File PDF không hiển thị khung bảng từ gợi ý, áp dụng các giới từ nơi chốn đã học ở Video 1).*
+*(Ghi chú: File PDF không hiển thị khung bảng từ gợi ý, áp dụng kiến thức ở phần giới từ chỉ địa điểm).*
 
 1. *The children are swimming ___________ the pool.*
    * **Đáp án:** **`in`**
@@ -285,7 +286,7 @@
    * **Giải thích:** `1952` là năm (khung thời gian lớn) -> dùng `in`.
 3. *I don't usually work ___________ the weekend.*
    * **Đáp án:** **`at`** (hoặc **`on`**)
-   * **Giải thích:** Theo bài giảng Video 2, cả `at the weekend` và `on the weekend` đều đúng. *(Nếu dùng `at` để khớp với `At (x4)` trong bảng thì từ `on` chỉ dùng 1 lần ở câu 4; nếu dùng `on` để khớp `On (x2)` thì `at` dùng 3 lần).*
+   * **Giải thích:** Trong phần giới từ chỉ thời gian, cả `at the weekend` và `on the weekend` đều đúng. *(Nếu dùng `at` để khớp với `At (x4)` trong bảng thì từ `on` chỉ dùng 1 lần ở câu 4; nếu dùng `on` để khớp `On (x2)` thì `at` dùng 3 lần).*
 4. *Do you work ___________ Mondays?*
    * **Đáp án:** **`on`**
    * **Giải thích:** `Mondays` là ngày trong tuần -> dùng `on`.
