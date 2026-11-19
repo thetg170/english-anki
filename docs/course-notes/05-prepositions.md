@@ -1,4 +1,4 @@
-# Bài 6. Giới từ (Prepositions)
+# Bài 05. Giới từ (Prepositions)
 
 #### Bảng so sánh `on time` vs `in time` và `during` vs `throughout`:
 

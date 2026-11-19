@@ -1,4 +1,4 @@
-# BÀI 2: DANH TỪ (NOUNS) - GHI CHÚ CHI TIẾT & GIẢI BÀI TẬP
+# BÀI 01: DANH TỪ (NOUNS) - GHI CHÚ CHI TIẾT & GIẢI BÀI TẬP
 
 > **Lưu ý về tài liệu đính kèm:** Ghi chú lý thuyết gồm ba chủ đề tương ứng với **Section 4 (Hạn định từ)**, **Section 3 (Sở hữu cách)** và **Section 2 (Danh từ đếm được/không đếm được - Số ít/Số nhiều)**. Phần **Bài tập + Đáp án** ở cuối tổng hợp đầy đủ cả 4 Section (bao gồm cả **Section 1: Các loại danh từ**).
 
