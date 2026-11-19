@@ -34,7 +34,7 @@ Sáu ghi chú được đánh số từ 01 đến 06 theo thứ tự chủ đề
 - 05. [Giới từ](course-notes/05-prepositions.md)
 - 06. [Mẫu câu](course-notes/06-sentence-patterns.md)
 
-Mở mục **Phần cuối** trong từng file để xem bài tập và đáp án. Nếu thẻ Anki ghi tên cũ như `verbs.md`, tìm file cùng tên có thêm số bài ở đầu, chẳng hạn `02-verbs.md`.
+Mở mục **Phần cuối** trong từng file để xem bài tập và đáp án. Tên file ở mặt sau mỗi thẻ `English Grammar Exercises` khớp với danh sách trên.
 
 ## Thuật ngữ dùng trong tài liệu
 
