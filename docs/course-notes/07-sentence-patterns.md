@@ -2,9 +2,9 @@
 
 ---
 
-## VIDEO 1 (`1.mp4`): BỔ NGỮ (COMPLEMENT)
+## BỔ NGỮ (COMPLEMENT)
 
-### 1. Tên phần / Chủ điểm chính của video
+### 1. Tên phần / Chủ điểm chính
 * **Section 1: Bổ ngữ (Complement)**
   * **Phần 1:** Bổ ngữ (Định nghĩa & 5 loại bổ ngữ trong tiếng Anh).
   * **Phần 2:** Mini Q&A (Giải đáp thắc mắc về sự giao thoa chức năng của bổ ngữ).
@@ -42,7 +42,7 @@ Bổ ngữ không đứng cố định một chỗ mà phụ thuộc vào đối
 
 ---
 
-### 5. Toàn bộ ví dụ trong video & Giải thích chi tiết
+### 5. Toàn bộ ví dụ & Giải thích chi tiết
 
 #### A. Ví dụ phần Khởi động & Phân tích thành phần (Phần 1)
 1. ***Birdy is my best friend.***
@@ -61,7 +61,7 @@ Bổ ngữ không đứng cố định một chỗ mà phụ thuộc vào đối
    * **Phân tích:** `She` (S) + `works` (V) + **`all day`** (Bổ ngữ trạng từ - Adverb Complement).
    * **Giải thích:** Cụm `all day` đóng vai trò như một trạng từ, bổ sung ý nghĩa về tần suất/thời gian cho động từ `works`. Nếu bỏ đi -> *"She works"* (biết cô ấy làm việc nhưng câu khá cụt, không thể hiện nội dung rõ ràng).
 
-#### B. Ví dụ phần Luyện tập trong video (Phần 3)
+#### B. Ví dụ phần Luyện tập (Phần 3)
 1. ***You seem happy.***
    * **Từ khóa:** `happy` (bổ nghĩa cho động từ `seem`).
    * **Đáp án:** **Bổ ngữ động từ** *(Trong trường hợp này, `happy` vừa là tính từ, vừa là bổ ngữ động từ trong câu)*.
@@ -93,9 +93,9 @@ Bổ ngữ không đứng cố định một chỗ mà phụ thuộc vào đối
 
 ---
 
-## VIDEO 2 (`2.mp4`): CÁC LOẠI CÂU TRONG TIẾNG ANH (SENTENCE PATTERNS 1)
+## CÁC LOẠI CÂU TRONG TIẾNG ANH (SENTENCE PATTERNS 1)
 
-### 1. Tên phần / Chủ điểm chính của video
+### 1. Tên phần / Chủ điểm chính
 * **Sentence Patterns - Cấu trúc câu: Các loại câu trong tiếng Anh** (4 loại câu cơ bản).
 
 ---
@@ -125,12 +125,12 @@ Dựa theo chức năng truyền đạt thông điệp, sắc thái và dấu c�
   * Cấu trúc 1: `What + (a/an) + adj + N!`
   * Cấu trúc 2: `How + adj/adv + S + V!`
   * **Lưu ý cực quan trọng:** Khi câu cảm thán dùng `What` có mạo từ **`a/an`** đi với danh từ, khi chuyển sang câu cảm thán dùng `How`, mạo từ `a/an` **phải đổi thành `the`** trước danh từ chủ ngữ, đồng thời bổ sung động từ `to be` (chia theo số ít/số nhiều của danh từ đó).
-  * **Ví dụ chuyển đổi trong video:**
+  * **Ví dụ chuyển đổi:**
     * *What **a** beautiful day!* $\rightarrow$ *How beautiful **the** day **is**!*
 
 ---
 
-### 5. Toàn bộ ví dụ trong video & Giải thích chi tiết
+### 5. Toàn bộ ví dụ & Giải thích chi tiết
 
 #### A. Ví dụ từ bài hát & Slide minh họa
 * **Declarative sentences (Câu trần thuật):**
@@ -159,7 +159,7 @@ Dựa theo chức năng truyền đạt thông điệp, sắc thái và dấu c�
   * *What a delicious cake!* (Cái bánh này mới ngon làm sao!) -> `cake` là danh từ đếm được số ít nên dùng `What a` + tính từ `delicious` + `cake!`.
   * *How beautiful the day is!* -> Chuyển đổi từ *What a beautiful day!*.
 
-#### B. Bài tập thực hành 12 câu trong video (Phân loại + Điền dấu câu)
+#### B. Bài tập thực hành 12 câu (Phân loại + Điền dấu câu)
 1. *Don't forget to bring an umbrella**.*** $\rightarrow$ **Imperative sentence** (Bắt đầu bằng `Don't + V`, kết thúc dấu `.`).
 2. *What a nice dinner**!*** $\rightarrow$ **Exclamatory sentence** (Cấu trúc `What + a + adj + N`, kết thúc dấu `!`).
 3. *What do you plan to buy for her**?*** $\rightarrow$ **Interrogative sentence** (Bắt đầu bằng `What` + trợ động từ `do` đảo lên trước chủ ngữ `you`, kết thúc dấu `?`).
@@ -184,9 +184,9 @@ Dựa theo chức năng truyền đạt thông điệp, sắc thái và dấu c�
 
 ---
 
-## VIDEO 3 (`3.mp4`): CẤU TRÚC THERE (BE) VÀ CHỦ NGỮ GIẢ IT (SENTENCE PATTERNS 2)
+## CẤU TRÚC THERE (BE) VÀ CHỦ NGỮ GIẢ IT (SENTENCE PATTERNS 2)
 
-### 1. Tên phần / Chủ điểm chính của video
+### 1. Tên phần / Chủ điểm chính
 * **Sentence Patterns - Cấu trúc câu: Cấu trúc `There (be)` và Chủ ngữ giả `It`.**
   * **Phần 1:** Cấu trúc `There (be)` & Thực hành.
   * **Phần 2:** Chủ ngữ giả `It` (Dummy subject `It`).
@@ -233,7 +233,7 @@ Dựa theo chức năng truyền đạt thông điệp, sắc thái và dấu c�
 
 ---
 
-### 4. Toàn bộ ví dụ trong video & Giải thích chi tiết
+### 4. Toàn bộ ví dụ & Giải thích chi tiết
 
 #### A. Ví dụ cấu trúc `There (be)`
 1. ***There is a bird on the tree.*** *(Có một con chim ở trên cây.)* $\rightarrow$ `a bird` là danh từ số ít $\rightarrow$ dùng `is`.
@@ -281,7 +281,7 @@ Dựa theo chức năng truyền đạt thông điệp, sắc thái và dấu c�
 ### SECTION 1: BỔ NGỮ (PDF 1)
 
 #### Exercise 1: Hãy chọn những phát biểu đúng.
-*(Lưu ý: Trong file PDF tài liệu bài tập không hiển thị các câu phát biểu của Exercise 1 mà chuyển thẳng sang Exercise 2. Tham khảo lý thuyết Video 1: Bổ ngữ là từ/nhóm từ bổ sung ý nghĩa cho một phần trong câu; khi bỏ đi câu thường không hoàn thiện về mặt nội dung; có 5 loại bổ ngữ chính).*
+*(Lưu ý: Trong file PDF tài liệu bài tập không hiển thị các câu phát biểu của Exercise 1 mà chuyển thẳng sang Exercise 2. Tham khảo lý thuyết về bổ ngữ: Bổ ngữ là từ/nhóm từ bổ sung ý nghĩa cho một phần trong câu; khi bỏ đi câu thường không hoàn thiện về mặt nội dung; có 5 loại bổ ngữ chính).*
 
 ---
 
@@ -327,21 +327,21 @@ Dựa theo chức năng truyền đạt thông điệp, sắc thái và dấu c�
 * **Phân tích & Giải thích:**
   * Cấu trúc: `The wedding` (S) + `will be` (V) + `in the afternoon` (Adverb Complement).
   * Dịch: *Đám cưới sẽ diễn ra vào buổi chiều.*
-  * Giải thích: Cụm `in the afternoon` đóng vai trò là cụm trạng từ cung cấp thông tin về thời gian diễn ra sự việc (giống hệt câu luyện tập số 3 trong Video 1).
+  * Giải thích: Cụm `in the afternoon` đóng vai trò là cụm trạng từ cung cấp thông tin về thời gian diễn ra sự việc (giống hệt câu luyện tập số 3 trong phần bổ ngữ).
 
 **Câu 7:** *Don't call me **a liar**.*
 * **Đáp án đúng:** **B. Bổ ngữ cho tân ngữ**
 * **Phân tích & Giải thích:**
   * Cấu trúc: `(You)` + `Don't call` (V) + `me` (O) + `a liar` (Object Complement).
   * Dịch: *Đừng có gọi tôi là kẻ nói dối.*
-  * Giải thích: `a liar` đứng sau tân ngữ `me` để định danh/gán vai trò cho `me` (giống hệt câu luyện tập số 5 trong Video 1).
+  * Giải thích: `a liar` đứng sau tân ngữ `me` để định danh/gán vai trò cho `me` (giống hệt câu luyện tập số 5 trong phần bổ ngữ).
 
 **Câu 8:** *Don't call **me** a liar.*
 * **Đáp án đúng:** **D. Bổ ngữ cho động từ**
 * **Phân tích & Giải thích:**
   * Cấu trúc: `Don't call` (V) + `me` (Verb Complement / O) + `a liar` (Object Complement).
   * Dịch: *Đừng có gọi tôi là kẻ nói dối.*
-  * Giải thích: Từ `me` hoàn thiện ý nghĩa cho động từ `call` đứng trước (chỉ rõ việc gọi là gọi ai), nên đóng vai trò bổ ngữ cho động từ (giống hệt phần giải thích câu 5 trong Video 1).
+  * Giải thích: Từ `me` hoàn thiện ý nghĩa cho động từ `call` đứng trước (chỉ rõ việc gọi là gọi ai), nên đóng vai trò bổ ngữ cho động từ (giống hệt phần giải thích câu 5 trong phần bổ ngữ).
 
 **Câu 9:** *He became **a famous writer**.*
 * **Đáp án đúng:** **A. Bổ ngữ cho chủ ngữ**
@@ -393,7 +393,7 @@ Dựa theo chức năng truyền đạt thông điệp, sắc thái và dấu c�
    * `it` là bổ ngữ **động từ** *(vì làm rõ động từ `paint` tác động lên cái gì - đồng thời là tân ngữ của `paint`)*.
    * `blue` là bổ ngữ **cho tân ngữ** *(vì mô tả trạng thái/màu sắc của tân ngữ `it` sau khi sơn)*.
 2. ***She looks very kind.*** *(Cô ấy trông rất tốt bụng.)*
-   * `very kind` là bổ ngữ **cho chủ ngữ** *(mô tả tính chất của chủ ngữ `She`; lưu ý nếu xét theo ví dụ "You seem happy" trong Video 1, `very kind` cũng có thể được xem là bổ ngữ động từ `looks` vì đi sau động từ nối để hoàn thiện nghĩa cho động từ đó)*.
+   * `very kind` là bổ ngữ **cho chủ ngữ** *(mô tả tính chất của chủ ngữ `She`; lưu ý nếu xét theo ví dụ "You seem happy" trong phần bổ ngữ, `very kind` cũng có thể được xem là bổ ngữ động từ `looks` vì đi sau động từ nối để hoàn thiện nghĩa cho động từ đó)*.
 3. ***The dog is brown.*** *(Con chó có màu nâu.)*
    * `brown` là bổ ngữ **cho chủ ngữ** *(mô tả màu sắc của chủ ngữ `The dog` qua động từ `to be`)*.
 4. ***The rain made the grass wet.*** *(Cơn mưa làm cho bãi cỏ bị ướt.)*

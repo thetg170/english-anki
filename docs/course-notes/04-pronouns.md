@@ -1,10 +1,10 @@
 # BÀI HỌC 4: PRONOUNS – ĐẠI TỪ
 
-> **Lưu ý phạm vi tài liệu:** Bộ bài giảng gồm 3 video và 3 file bài tập tương ứng với 3 mảng kiến thức trọng tâm về Đại từ: **Đại từ nhân xưng**, **Tính từ sở hữu & Đại từ sở hữu**, và **Đại từ phản thân**. *(Các phần Đại từ bất định, Đại từ chỉ định, Đại từ thay thế không nằm trong 3 video bài giảng này).*
+> **Lưu ý phạm vi tài liệu:** Bộ bài giảng gồm 3 phần lý thuyết và 3 file bài tập tương ứng với 3 mảng kiến thức trọng tâm về Đại từ: **Đại từ nhân xưng**, **Tính từ sở hữu & Đại từ sở hữu**, và **Đại từ phản thân**. *(Các phần Đại từ bất định, Đại từ chỉ định, Đại từ thay thế không nằm trong ba phần lý thuyết này).*
 
 ---
 
-## VIDEO 1: ĐẠI TỪ NHÂN XƯNG (PERSONAL PRONOUNS)
+## ĐẠI TỪ NHÂN XƯNG (PERSONAL PRONOUNS)
 
 ### 1. Tên phần / Chủ điểm chính
 * **Chủ đề:** Pronouns – Đại từ: **Personal Pronouns (Đại từ nhân xưng)**.
@@ -47,7 +47,7 @@
 | **Thứ ba** | Ít (nữ) | `She` | `her` |
 | **Thứ ba** | Ít (vật/con vật) | `It` | `it` |
 
-### 5. Toàn bộ ví dụ trong Video 1
+### 5. Toàn bộ ví dụ
 
 #### Ví dụ khởi động qua lời bài hát *Perfect* (Ed Sheeran)
 1. `I` found a love for `me` → `I` làm chủ ngữ (trước động từ *found*); `me` làm tân ngữ sau giới từ *for*.
@@ -89,7 +89,7 @@
 
 ---
 
-## VIDEO 2: TÍNH TỪ SỞ HỮU VÀ ĐẠI TỪ SỞ HỮU (POSSESSIVE ADJECTIVES & POSSESSIVE PRONOUNS)
+## TÍNH TỪ SỞ HỮU VÀ ĐẠI TỪ SỞ HỮU (POSSESSIVE ADJECTIVES & POSSESSIVE PRONOUNS)
 
 ### 1. Tên phần / Chủ điểm chính
 * **Chủ đề:** Pronouns – Đại từ: **Tính từ sở hữu (Possessive Adjectives)** và **Đại từ sở hữu (Possessive Pronouns)**.
@@ -123,7 +123,7 @@
 | `She` | `her` | `Her` | `Hers` |
 | `It` | `it` | `Its` | `Its` |
 
-### 5. Toàn bộ ví dụ trong Video 2
+### 5. Toàn bộ ví dụ
 
 #### Ví dụ tình huống mở đầu (Hội thoại khoe bạn trai)
 * **My** boyfriend is very handsome. → **Mine** is handsome too. (`Mine` = `My boyfriend`, làm chủ ngữ)
@@ -149,7 +149,7 @@
 2. **Làm tân ngữ sau động từ:** That is not my book. I didn't bring **mine**. *(`mine` = `my book`, đứng sau động từ `bring`)*
 3. **Làm tân ngữ sau giới từ:** Don't look at my boyfriend. Take care **of yours**. *(`yours` = `your boyfriend`, đứng sau giới từ `of`)*
 
-#### Bài tập thực hành đoạn văn cuối Video 2
+#### Bài tập thực hành đoạn văn cuối phần sở hữu
 * *"Yesterday was (1) **my** birthday. All of (2) **my** friends came to celebrate it with (3) **me**. (4) **They** bought me a lot of presents. (5) **My** best friend also prepared a special gift for me, but (6) **his** didn't arrive on time, so he promised to give it to (7) **me** later. It doesn't matter as I just need (8) **my** friends with me."*
 * **Giải thích chi tiết:**
   * (1), (2), (5), (8): Đứng ngay trước danh từ (*birthday, friends, best friend, friends*) → Dùng tính từ sở hữu `my`.
@@ -167,7 +167,7 @@
 
 ---
 
-## VIDEO 3: ĐẠI TỪ PHẢN THÂN (REFLEXIVE PRONOUNS)
+## ĐẠI TỪ PHẢN THÂN (REFLEXIVE PRONOUNS)
 
 ### 1. Tên phần / Chủ điểm chính
 * **Chủ đề:** Pronouns – Đại từ: **Đại từ phản thân (Reflexive Pronouns)**.
@@ -199,7 +199,7 @@
 | **Thứ ba** | Ít (nữ) | `She` | `Herself` |
 | **Thứ ba** | Ít (vật/con vật) | `It` | `Itself` |
 
-### 5. Toàn bộ ví dụ trong Video 3
+### 5. Toàn bộ ví dụ
 
 #### Ví dụ qua trích đoạn *Tom and Jerry* & ví dụ bảng ngôi
 1. He's preparing a meal **himself**. *(Anh ta đang tự chuẩn bị bữa ăn cho mình → `He` → `himself`)*
@@ -216,7 +216,7 @@
 * `I clean the house myself.` → Nhấn mạnh bản thân mình có lau nhà (nhưng **vẫn có thể** có em mình hay mẹ mình làm cùng).
 * `I clean the house by myself.` → Tôi tự lau nhà **một mình**, hoàn toàn **không có ai giúp cả**.
 
-#### Bài tập thực hành 7 câu cuối Video 3
+#### Bài tập thực hành 7 câu cuối phần đại từ phản thân
 1. You should look after **yourselves** when away from home. *(Các con nên tự chăm sóc bản thân khi xa nhà nhé → "các con" là số nhiều → `yourselves`)*
 2. The girl looks at **herself** in the mirror. *(Cô gái nhìn vào chính mình trong gương → `The girl` = `she` → `herself`)*
 3. The boy cut **himself** when he cooked dinner. *(Cậu bé làm mình bị thương khi đang nấu bữa tối → `The boy` = `he` → `himself`)*

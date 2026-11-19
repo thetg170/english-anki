@@ -2,7 +2,7 @@
 
 ---
 
-## VIDEO 1 (1.mp4): ĐỊNH NGHĨA & VỊ TRÍ CỦA TÍNH TỪ
+## ĐỊNH NGHĨA & VỊ TRÍ CỦA TÍNH TỪ
 
 ### 1. Tên phần / Chủ điểm chính
 - **Phần 1:** Định nghĩa tính từ (Definition of Adjectives)
@@ -23,7 +23,7 @@ Tính từ có **2 vị trí chính** trong câu:
    - **Sau động từ to be** (`am / is / are / was / were...`).
    - **Sau các động từ chỉ trạng thái / nhận thức (Linking verbs):** `seem` (dường như), `look` (trông có vẻ), `become` (trở nên), `get` (trở nên), `feel` (cảm thấy), `sound` (nghe có vẻ), `taste` (có vị), `smell` (có mùi), `appear` (trông có vẻ / xuất hiện với vẻ).
 
-### 4. Toàn bộ ví dụ & Bài tập trong video
+### 4. Toàn bộ ví dụ & Bài tập
 
 #### Ví dụ phần Định nghĩa:
 1. *She is a **good-looking** singer.* (Cô ấy là một ca sĩ ưa nhìn.) $\rightarrow$ `good-looking` mô tả ngoại hình của cô ca sĩ (người).
@@ -65,7 +65,7 @@ Tính từ có **2 vị trí chính** trong câu:
 
 ---
 
-## VIDEO 2 (2.mp4): CÁC LOẠI TÍNH TỪ & TRẬT TỰ TÍNH TỪ (OSASCOMP)
+## CÁC LOẠI TÍNH TỪ & TRẬT TỰ TÍNH TỪ (OSASCOMP)
 
 ### 1. Tên phần / Chủ điểm chính
 - **Phần 1:** Các loại tính từ
@@ -95,7 +95,7 @@ Khi dùng nhiều hơn 1 tính từ đứng trước danh từ để mô tả s�
 | **M** | **Material** | Chất liệu | wooden, brick, rubber, plastic |
 | **P** | **Purpose** | Mục đích (thường là V-ing hoặc danh từ) | cleaning, washing, sleeping, sports |
 
-### 4. Toàn bộ ví dụ & Bài tập trong video
+### 4. Toàn bộ ví dụ & Bài tập
 - **Ghép cả 8 tính từ tả con voi:** *It is a **strange large old cone brown wild wooden cleaning** elephant.* (Thực tế câu này quá dài và thiếu tự nhiên; thường chỉ dùng tối đa **3 tính từ** cùng lúc).
 - **3 ví dụ tự nhiên:**
   1. *a **beautiful young** lady* (Một thiếu nữ trẻ đẹp) $\rightarrow$ **OPINION** (`beautiful`) + **AGE** (`young`).
@@ -117,7 +117,7 @@ Khi dùng nhiều hơn 1 tính từ đứng trước danh từ để mô tả s�
 
 ---
 
-## VIDEO 3 (3.mp4): TRẠNG TỪ (ĐỊNH NGHĨA, CÁCH THÀNH LẬP & PHÂN LOẠI)
+## TRẠNG TỪ (ĐỊNH NGHĨA, CÁCH THÀNH LẬP & PHÂN LOẠI)
 
 ### 1. Tên phần / Chủ điểm chính
 - **Phần 1:** Giới thiệu trạng từ (Định nghĩa, Cách thành lập, Cụm trạng từ, Chức năng)
@@ -167,7 +167,7 @@ Khi dùng nhiều hơn 1 tính từ đứng trước danh từ để mô tả s�
 > **LƯU Ý QUAN TRỌNG:** Trạng từ **KHÔNG thể bổ nghĩa cho danh từ**. Để bổ nghĩa cho danh từ, ta phải dùng **tính từ**.
 
 #### Bảng 6 loại trạng từ:
-| STT | Loại trạng từ | Chức năng | Ví dụ trong video |
+| STT | Loại trạng từ | Chức năng | Ví dụ |
 | :--- | :--- | :--- | :--- |
 | 1 | **Thời gian** | Cung cấp thông tin về thời gian | *I'm going to my new school **tomorrow**.* (Tôi chuẩn bị đến trường mới vào ngày mai.) |
 | 2 | **Địa điểm** | Cung cấp thông tin về nơi chốn | *They live in a house **nearby**.* (Họ sống ở một ngôi nhà gần đây.) |
@@ -176,7 +176,7 @@ Khi dùng nhiều hơn 1 tính từ đứng trước danh từ để mô tả s�
 | 5 | **Cách thức** | Cung cấp thông tin về cách việc diễn ra | *The plane landed **safely**.* (Máy bay đã hạ cánh một cách an toàn.) |
 | 6 | **Mức độ** | Làm tăng mức độ của từ loại khác | *Jane can run **really** fast.* (Jane có thể chạy rất nhanh.) |
 
-### 5. Ví dụ Cụm trạng từ & Bài luyện tập trong video
+### 5. Ví dụ Cụm trạng từ & Bài luyện tập
 - **Ví dụ Cụm trạng từ:**
   - `in the morning` (vào buổi sáng): *I always wake up at sharply 6 **in the morning**.*
   - `on time` (đúng giờ): *The train arrived **on time**.*
@@ -191,7 +191,7 @@ Khi dùng nhiều hơn 1 tính từ đứng trước danh từ để mô tả s�
 
 ---
 
-## VIDEO 4 (4.mp4): VỊ TRÍ CỦA TRẠNG TỪ TRONG CÂU
+## VỊ TRÍ CỦA TRẠNG TỪ TRONG CÂU
 
 ### 1. Tên phần / Chủ điểm chính
 - **Phần 1:** Vị trí trạng từ (Front, Mid, End position)
@@ -223,7 +223,7 @@ Khi dùng nhiều hơn 1 tính từ đứng trước danh từ để mô tả s�
    - ĐÚNG: *She speaks English **well**.*
    - SAI: *She speaks **well** English.*
 
-### 4. Toàn bộ bài luyện tập trong video (Câu chuyện của Alvin)
+### 4. Toàn bộ bài luyện tập (Câu chuyện của Alvin)
 Đoạn văn:
 > *(1) **Once** a man called Alvin decided to rob a bank in Montgomery, Alabama. Alvin’s parents had (2) **often** told him that good manners were important. Therefore, Alvin went to the bank and stood in line. He (3) **patiently** waited. (4) **Soon** it was his turn. He (5) **quickly** pulled out a gun and threatened the cashier. She (6) **politely** told him that he was in the wrong line and should go to another counter. Alvin (7) **immediately** went to the correct place and stood back in the line. (8) **Afterwards**, the police rushed in and arrested him...*
 
@@ -238,7 +238,7 @@ Khi dùng nhiều hơn 1 tính từ đứng trước danh từ để mô tả s�
 
 ---
 
-## VIDEO 5 (5.mp4): SO SÁNH TÍNH TỪ VÀ TRẠNG TỪ
+## SO SÁNH TÍNH TỪ VÀ TRẠNG TỪ
 
 ### 1. Tên phần / Chủ điểm chính
 - **Phần 1:** Dạng so sánh với tính từ
@@ -295,7 +295,7 @@ Khi dùng nhiều hơn 1 tính từ đứng trước danh từ để mô tả s�
 - **Bẫy 3 (Quên `the` trong so sánh nhất của tính từ):** Trước tính từ so sánh nhất luôn phải có `the`.
 - **Bẫy 4 (Dùng sai trạng từ sau linking verbs):** Sau `feel / look / smell / taste` phải dùng tính từ (`good -> better`), không dùng `weller`.
 
-### 5. Bài tập luyện tập trong video
+### 5. Bài tập luyện tập
 1. *There are four dresses. He likes the red one (**better/best**).* $\rightarrow$ **best** (có 4 chiếc váy $\rightarrow$ so sánh nhất).
 2. *Bill is the (**happier/happiest**) person we know.* $\rightarrow$ **happiest** (có `the` + danh từ `person` $\rightarrow$ so sánh nhất).
 3. *This poster is (**colourfuler/more colourful**) than the one in the hall.* $\rightarrow$ **more colourful** (`colourful` có 3 âm tiết là tính từ dài $\rightarrow$ dùng `more`).

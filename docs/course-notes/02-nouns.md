@@ -1,10 +1,10 @@
 # BÀI 2: DANH TỪ (NOUNS) - GHI CHÚ CHI TIẾT & GIẢI BÀI TẬP
 
-> **Lưu ý về tài liệu đính kèm:** Bộ video bài giảng gồm 3 video tương ứng với **Section 4 (Hạn định từ)**, **Section 3 (Sở hữu cách)** và **Section 2 (Danh từ đếm được/không đếm được - Số ít/Số nhiều)**. Phần **Bài tập + Đáp án** ở cuối tổng hợp đầy đủ cả 4 Section (bao gồm cả **Section 1: Các loại danh từ**).
+> **Lưu ý về tài liệu đính kèm:** Ghi chú lý thuyết gồm ba chủ đề tương ứng với **Section 4 (Hạn định từ)**, **Section 3 (Sở hữu cách)** và **Section 2 (Danh từ đếm được/không đếm được - Số ít/Số nhiều)**. Phần **Bài tập + Đáp án** ở cuối tổng hợp đầy đủ cả 4 Section (bao gồm cả **Section 1: Các loại danh từ**).
 
 ---
 
-## VIDEO 1: HẠN ĐỊNH TỪ (DETERMINERS) – *(Section 4)*
+## HẠN ĐỊNH TỪ (DETERMINERS) – *(Section 4)*
 
 ### 1. Tên phần / Chủ điểm chính
 - **Chủ điểm:** Nouns - Danh từ: **Hạn định từ (Determiners)**
@@ -74,7 +74,7 @@
 
 ---
 
-### 5. Toàn bộ ví dụ trong Video 1
+### 5. Toàn bộ ví dụ
 
 1. **Từ chỉ định đứng trước danh từ:**
    - `This book` *(Cuốn sách này)* — Giáo viên cầm cuốn sách trên tay (ở gần).
@@ -114,7 +114,7 @@
    - `There are a lot of good movies but I don't have time.` *(Có nhiều phim hay nhưng mình lại không có thời gian.)* — `a lot of + movies` (N đếm được số nhiều).
    - `You need to drink lots of water every day.` *(Ngày nào cũng cần uống nhiều nước.)* — `lots of + water` (N không đếm được).
 
-7. **Bài tập thực hành trong video (Điền `little`, `any`, `few`, `some`, `a few`):**
+7. **Bài tập thực hành (Điền `little`, `any`, `few`, `some`, `a few`):**
    - Câu 1: `There aren't any eggs in the fridge. Please buy some more on your way home.` (Dùng `any` vì câu phủ định `aren't` + danh từ đếm được số nhiều `eggs`).
    - Câu 2: `Bring some money with you. You may need it.` (Dùng `some` vì `money` không đếm được; loại `little` vì *"nhớ mang ít tiền quá nhé"* nghe vô lý).
    - Câu 3: `He only gave me little milk. I'm still thirsty.` (Dùng `little` vì `milk` không đếm được, ý nói cho quá ít không đủ nên vẫn khát).
@@ -133,7 +133,7 @@
 
 ---
 
-## VIDEO 2: SỞ HỮU CÁCH CỦA DANH TỪ (POSSESSIVE CASE) – *(Section 3)*
+## SỞ HỮU CÁCH CỦA DANH TỪ (POSSESSIVE CASE) – *(Section 3)*
 
 ### 1. Tên phần / Chủ điểm chính
 - **Chủ điểm:** Nouns - Danh từ: **Sở hữu cách (Possessive Case)**
@@ -194,7 +194,7 @@
 
 ---
 
-### 5. Toàn bộ ví dụ trong Video 2
+### 5. Toàn bộ ví dụ
 
 1. **Ví dụ mở đầu:**
    - `This is Tung's book.` *(Đây là cuốn sách của Tùng.)* — Đúng (người sở hữu vật).
@@ -232,7 +232,7 @@
 
 ---
 
-## VIDEO 3: DANH TỪ ĐẾM ĐƯỢC VÀ KHÔNG ĐẾM ĐƯỢC – SỐ ÍT VÀ SỐ NHIỀU – *(Section 2)*
+## DANH TỪ ĐẾM ĐƯỢC VÀ KHÔNG ĐẾM ĐƯỢC – SỐ ÍT VÀ SỐ NHIỀU – *(Section 2)*
 
 ### 1. Tên phần / Chủ điểm chính
 - **Chủ điểm:** Nouns: **Danh từ đếm được và không đếm được – Số ít và số nhiều**
@@ -282,7 +282,7 @@
 
 ### 4. Bảng phân loại / So sánh
 
-#### Bảng 1: Kết quả bài tập phân loại Danh từ đếm được & Không đếm được trong Video
+#### Bảng 1: Kết quả bài tập phân loại Danh từ đếm được & Không đếm được
 | Countable Nouns (Danh từ đếm được) | Uncountable Nouns (Danh từ không đếm được) |
 | :--- | :--- |
 | **Banana:** quả chuối | **Sunshine:** ánh mặt trời |
@@ -305,7 +305,7 @@
 
 *(Lưu ý phát âm từ giáo viên: `man` và `men` cách đọc gần giống nhau nhưng cách viết thay đổi; `woman` đọc khác `women` /ˈwɪmɪn/.)*
 
-#### Bảng 3: Tổng hợp quy tắc thêm số nhiều trong tiếng Anh (từ slide video)
+#### Bảng 3: Tổng hợp quy tắc thêm số nhiều trong tiếng Anh
 1. **Quy tắc chung:**
    - Thêm **S** hoặc **ES** sau danh từ.
    - Các trường hợp thêm **ES**: danh từ tận cùng bằng **`-ch`, `-sh`, `-s`, `-x`, `-z` và `-o`** *(trừ một số ngoại lệ)*.
@@ -319,7 +319,7 @@
 
 ---
 
-### 5. Toàn bộ ví dụ trong Video 3
+### 5. Toàn bộ ví dụ
 
 1. **Hoạt cảnh đi chợ & Danh từ đếm được vs. không đếm được:**
    - Đếm được: `Five apples` *(năm quả táo)*, `Four carrots` *(bốn củ cà rốt)*, `Three books`, `Four oranges`, `Five pens`.
@@ -348,7 +348,7 @@
    - Ngoại lệ đuôi `ef`: `chef` $\rightarrow$ `chefs`.
    - `There is one deer over there. Oh, look, there are many deer! They are so cute.` *(Có một con hươu ở đằng kia. Ồ, nhìn kìa, có rất nhiều hươu! Chúng đáng yêu ghê.)* $\rightarrow$ `deer` giữ nguyên không thêm `s`.
 
-4. **Thử thách tìm lỗi sai cuối video:**
+4. **Thử thách tìm lỗi sai:**
    - Câu 1: `It's a lovely day - there is a lot of sunshines and I feel happy.`
      - **Lỗi sai:** `sunshines` $\rightarrow$ **Sửa:** `sunshine` (vì `sunshine` là hiện tượng tự nhiên, danh từ không đếm được nên không có số nhiều).
    - Câu 2: `I'm going to watch two serieses today.`
@@ -516,7 +516,7 @@
    - **Giải thích:** Có những vật cầm nắm được nhưng vẫn là danh từ không đếm được (như `water`, `sugar`, `furniture`, `luggage`); ngược lại có những thứ trừu tượng không cầm nắm được nhưng đếm được (như `hour`, `day`, `idea`).
 2. **Đề bài:** Chỉ có danh từ đếm được mới có dạng số ít và số nhiều.
    - **Đáp án đúng:** **A. True**
-   - **Giải thích:** Theo lý thuyết video 3, danh từ không đếm được luôn ở dạng số ít, chỉ danh từ đếm được mới phân thành số ít và số nhiều.
+   - **Giải thích:** Theo lý thuyết về danh từ đếm được và không đếm được, danh từ không đếm được luôn ở dạng số ít, chỉ danh từ đếm được mới phân thành số ít và số nhiều.
 3. **Đề bài:** Khi muốn chuyển 1 danh từ từ dạng số ít thành số nhiều, ta luôn thêm S hoặc ES vào sau danh từ.
    - **Đáp án đúng:** **B. False**
    - **Giải thích:** Từ "luôn" làm câu sai, vì tiếng Anh còn có các danh từ bất quy tắc (`man -> men`, `child -> children`) và các danh từ giữ nguyên dạng (`deer`, `sheep`, `series`).
@@ -527,7 +527,7 @@
 
 1. **Đề bài:** Các nhóm nào sau đây thường KHÔNG PHẢI là những danh từ không đếm được?
    - **Đáp án đúng:** **`Danh từ chỉ người`**, **`Danh từ chỉ con vật`**, **`Danh từ chỉ sự vật`**
-   - **Giải thích:** Trong video 3, 4 nhóm đặc trưng của danh từ không đếm được là: *Danh từ tập hợp bao gồm nhiều thứ giống nhau*, *Danh từ vật chất*, *Danh từ trừu tượng*, và *Hiện tượng thiên nhiên*. Do đó 3 nhóm còn lại (chỉ người, con vật, sự vật) thường là danh từ đếm được.
+   - **Giải thích:** Trong phần danh từ đếm được và không đếm được, 4 nhóm đặc trưng của danh từ không đếm được là: *Danh từ tập hợp bao gồm nhiều thứ giống nhau*, *Danh từ vật chất*, *Danh từ trừu tượng*, và *Hiện tượng thiên nhiên*. Do đó 3 nhóm còn lại (chỉ người, con vật, sự vật) thường là danh từ đếm được.
 
 2. **Đề bài:** Các danh từ nào dưới đây có dạng số ít và số nhiều KHÔNG viết giống hệt nhau?
    - **Đáp án đúng:** **`goose`**, **`house`**, **`mouse`**, **`baby`**, **`key`**
@@ -559,11 +559,11 @@
    - **Đáp án đúng:** **B. False**
    - **Giải thích:** Nhóm thêm `ES` chuẩn là `-ch, -sh, -s, -x, -z` và **`-o`**, không phải `-y` (`-y` phải chia làm Phụ âm + y và Nguyên âm + y).
 2. `Danh từ tận cùng bằng Phụ âm + Y -> Thêm IES vào cuối danh từ`
-   - **Đáp án đúng:** **A. True** *(khớp bảng tổng hợp cuối Video 3: `Phụ âm + Y -> IES`, hiểu là đổi `y` thành `i` rồi thêm `es`)*.
+   - **Đáp án đúng:** **A. True** *(khớp bảng tổng hợp cuối phần danh từ đếm được và không đếm được: `Phụ âm + Y -> IES`, hiểu là đổi `y` thành `i` rồi thêm `es`)*.
 3. `Danh từ tận cùng bằng Nguyên âm + Y -> Thêm S vào cuối danh từ`
    - **Đáp án đúng:** **A. True** *(ví dụ: `key -> keys`, `play -> plays`)*.
 4. `Danh từ tận cùng bằng F / FE -> Thêm VES vào cuối danh từ`
-   - **Đáp án đúng:** **A. True** *(khớp bảng tổng hợp cuối Video 3: `F / FE -> VES`, hiểu là đổi `f/fe` thành `v` rồi thêm `es`)*.
+   - **Đáp án đúng:** **A. True** *(khớp bảng tổng hợp cuối phần danh từ đếm được và không đếm được: `F / FE -> VES`, hiểu là đổi `f/fe` thành `v` rồi thêm `es`)*.
 5. `Danh từ tận cùng bằng EF / IEF / IFF / OOF -> Thêm S vào cuối danh từ`
    - **Đáp án đúng:** **A. True** *(nhóm ngoại lệ đuôi `f`, ví dụ: `chef -> chefs`)*.
 
@@ -698,7 +698,7 @@
    - **Giải thích:** Cả danh từ chỉ người và danh từ chỉ con vật đều dùng được sở hữu cách (vd: `the cat's bed`).
 3. `Với danh từ số ít có tận cùng là S, ta có thể viết sở hữu cách ở cả hai dạng là thêm dấu phẩy hoặc thêm ‘S.`
    - **Đáp án đúng:** **A. True**
-   - **Giải thích:** Như ví dụ tên riêng `James` trong Video 2: cả `James' hobby` và `James's bag` đều đúng.
+   - **Giải thích:** Như ví dụ tên riêng `James` trong phần sở hữu cách: cả `James' hobby` và `James's bag` đều đúng.
 
 ---
 
